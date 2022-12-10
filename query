@@ -1,0 +1,5 @@
+select * from exam ex
+ join tbl_subasign sa
+    on sa.p_id=ex.p_id
+ join tbl_class cls
+	on sa.cls_id=cls.id
