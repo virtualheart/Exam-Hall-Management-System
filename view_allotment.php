@@ -57,7 +57,8 @@ if(isset($_GET['id']))
                                   $sql1 = "SELECT * FROM  `allot`";
                                    $result1 = $conn->query($sql1);
                                    while($row = $result1->fetch_assoc()) {
-                                   $s1 = "SELECT * FROM exam e join tbl_subject s on e.p_id=s.id WHERE e.id='".$row['exam_id']."'";
+                                   $s1 = "SELECT * FROM exam e join tbl_subject s on e.p_id=s.id WHERE e.id='".$row['class_id']."'";
+                                   // echo $s1;
                                     $sr = $conn->query($s1);
                                     $sres = mysqli_fetch_array($sr); 
                                       ?>

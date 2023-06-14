@@ -45,6 +45,7 @@ if(isset($_GET['id']))
                                     <table id="myTable" class="table table-bordered table-striped">
                                         <thead>
                                             <tr>
+                                                <th>Department</th> 
                                                 <th>Class Name</th>
                                                 <th>Action</th> 
                                             </tr>
@@ -52,11 +53,12 @@ if(isset($_GET['id']))
                                         <tbody>
                                     <?php 
                                     include 'connect.php';
-                                  $sql1 = "SELECT * FROM  `tbl_class`";
+                                  $sql1 = "SELECT * FROM  `tbl_class` c join `tbl_department` d on c.dept_id = d.dept_id ;";
                                    $result1 = $conn->query($sql1);
                                    while($row = $result1->fetch_assoc()) { 
                                       ?>
                                             <tr>
+                                                <td><?php echo $row['dept_name']; ?></td>
                                                 <td><?php echo $row['classname']; ?></td>
                                                 <td>
             <?php if(isset($useroles)){  if(in_array("edit_class",$useroles)){ ?> 

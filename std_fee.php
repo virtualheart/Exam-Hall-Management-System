@@ -1,284 +1,220 @@
-<?php session_start();?>
 <?php include('head.php');?>
-<link rel="stylesheet" href="popup_style.css">
-<!-- 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-        <link rel="stylesheet" media="screen" type="text/css" href="common.css">
-        <link rel="stylesheet" type="text/css" id="theme" href="theme-default.css"/>
-        <link href="style.css" rel="stylesheet" />
-        <link rel="shortcut icon" href="image/Slmico.ico" />
-        <title>Government Arts College Salem-7</title>
-   
+<?php include('header1.php');?>
+<?php include('include/NumberToWords.php');?>
+<?php include('connect.php');
+ date_default_timezone_set('Asia/Kolkata');
+ $current_date = date('Y-m-d');
+ $currentMonth = date('m'); // Get the current month (e.g., '06' for June)
 
+if ($currentMonth >= '01' && $currentMonth <= '06') {
+    $nextPaymentMonth = date('Y').' July'; 
+} else {
+    $nextPaymentMonth = 'January'; 
+}
+
+$que="SELECT stud_id,sfname,slname,class_id,semail,sgender,sdob,dept_name,classname,scontact,saddress FROM `tbl_student` ts join tbl_department td on ts.dept_id=td.dept_id join tbl_class tc on ts.class_id=tc.id WHERE ts.id='".$_SESSION["id"]."'";
+
+$query=$conn->query($que);
+while($row=mysqli_fetch_array($query))
+{
+    
+extract($row);
+$stud_id = $row['stud_id'];
+$fname = $row['sfname'];
+$lname = $row['slname'];
+// $dept_id = $row['dept_id'];
+// $class_id = $row['class_id'];
+$email = $row['semail'];
+$gender = $row['sgender'];
+$dob = $row['sdob'];
+$dept_name = $row['dept_name'];
+$classname = $row['classname'];
+$contact = $row['scontact'];
+$address = $row['saddress'];
+}
+
+
+?>
 <style>
-img {
-    max-width: 100%;
-    height: auto;
-}
-li{
-    decoration:none;
-}
-
-
-}
-.page-content-wrap .row .container .col-md-12 .col-md-6 .table.table-bordered thead tr td p strong {
-	font-size: 18px;
-}
-.page-content-wrap .row .container .col-md-12 .col-md-6 .table.table-bordered thead tr td p {
-	font-weight: bold;
-}
+    tbody tr td{
+        color: #000000;
+        font-family: Nunito,sans-serif;
+    }
 </style>
 
-</head>
-<body > -->
-  <div class="head">
-      
-    <header>
-       <!-- <div class="bg-primary p-3"><h1>Government Art College</h1></div> -->
-        <img src="image/Logo.png" id="icon" alt="Government Arts College Salem-7" />
-   </header>
-   <div class="row mt-4 ">
+<?php include('stud_sidebar.php');?>   
    
-     <div class="col-md-10 row ">
-       <div class="col-sm-1"></div>
-         <div class="col-sm-11 mb-4">
-          <a href="Examfees.php" type="button" class="btn btn-outline-primary">Exam Fees</a> 
-           <a href="ExamApplication.php" type="button" class="btn btn-outline-secondary">Exam Application</a>
-          <a href="hall_ticket.php" type="button" class="btn btn-outline-success">Download Hall ticket</a> 
-          <a href="result.php" type="button" class="btn btn-outline-danger">Result</a> 
-         </div> 
-    </div>
-    <div class=" reg_no col-md-1 mt-2  " style=" font-family: cursive;
-    color: darkolivegreen;"><b>22PCA242505 </b></div>
-     <div class="col-md-1  mb-4">
-         
-          <a href="logout.php" type="button" class="btn btn-outline-primary">Log Out</a> 
-     </div>
-  </div>
-   
-  </div>
-  <div oncontextmenu="return false" id ="list"class="container border border-dark">
-  
-
-    <div class="page-content-wrap" style="padding-top:20px;" >
-       <table class="table table-bordered"  id="exam_datail"width="470">
-
-        <thead>   
+        <div class="page-wrapper">
+            
+            <div class="row page-titles">
+                <div class="col-md-5 align-self-center">
+                    <h3 class="text-primary">Exam Fee</h3> </div>
+                <div class="col-md-7 align-self-center">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="javascript:void(0)">Exam Fee</a></li>
+                        <li class="breadcrumb-item active"></li>
+                    </ol>
+                </div>
+            </div>
            
-             <tr>
-                <th height="88" colspan="7" align="center"> <img src="image/ExamAppHeader.jpg" id="icon" alt="Government Arts College Salem-7" />
-                </th>
-            </tr>  
-            <tr>
-              <th colspan="7" align="center"><strong style="font-size:27px;">APPLICATION FORM FOR M.C.A. EXAMINATIONS - DEC 2022</strong></th>
-            </tr>
-            <tr>
-              <th colspan="3" align="center"><strong style="font-size:20px;">NAME OF THE CANDIDATE <BR/> DHANAJAYAN  K</strong></th>
-               
-              <th align="center"><strong style="font-size:20px;">SEMESTER <BR/>I</strong></th>
-               
-              <th colspan="2"align="center"><strong style="font-size:20px;">REGISTER NUMBER <BR/>22PCA242505</strong></th>
-              <th rowspan="2"><img src="Photo/22PCA242505.jpg" width="220" height="100" alt="22PCA242505"/></th>
-            </tr>
-       
-        <tr>
-           <th colspan="4" align="center"><strong style="font-size:20px;">DEGREE & BRANCH <BR/> M.C.A. -  Computer Applications</strong></th>
-           <th  colspan="2"align="center"><strong style="font-size:20px;">DATE OF BIRTH <BR/>09-12-1999</strong></th>
-         </tr>
-         
-         <tr>  
-            <th style="font-size:23px;">Semester</th>
-            <th style="font-size:23px;"> Part</th>
-            <th style="font-size:23px;"> Sub.Code</th>
-            <th colspan="3" style="font-size:23px;"> Name of the Subject</th>
-            <th style="font-size:23px;"> Regular / Arrear</th></tr>
-    </thead>
-     
-            
-           <tbody>
-            <tr>
-              <td style="font-size:18px;">I</td>
-              <td style="font-size:18px;"></td>
-              <td style="font-size:18px;">21PCAP1</td>
-              <td colspan="3"  style="font-size:18px;">Core Practical - I : SQL Queries and Reports</td>
-              <td style="font-size:18px;"align="center">Regular</td>
-            </tr>
-            
-           <tbody>
-            <tr>
-              <td style="font-size:18px;">I</td>
-              <td style="font-size:18px;"></td>
-              <td style="font-size:18px;">21PCAP2</td>
-              <td colspan="3"  style="font-size:18px;">Core Practical - II : Python Programming</td>
-              <td style="font-size:18px;"align="center">Regular</td>
-            </tr>
-            
-           <tbody>
-            <tr>
-              <td style="font-size:18px;">I</td>
-              <td style="font-size:18px;"></td>
-              <td style="font-size:18px;">21PCA01</td>
-              <td colspan="3"  style="font-size:18px;">Core Course - I : Discrete Structures</td>
-              <td style="font-size:18px;"align="center">Regular</td>
-            </tr>
-            
-           <tbody>
-            <tr>
-              <td style="font-size:18px;">I</td>
-              <td style="font-size:18px;"></td>
-              <td style="font-size:18px;">21PCA02</td>
-              <td colspan="3"  style="font-size:18px;">Core Course - II : Data Structures and Algorithms</td>
-              <td style="font-size:18px;"align="center">Regular</td>
-            </tr>
-            
-           <tbody>
-            <tr>
-              <td style="font-size:18px;">I</td>
-              <td style="font-size:18px;"></td>
-              <td style="font-size:18px;">21PCA03</td>
-              <td colspan="3"  style="font-size:18px;">Core Course - III : Relational Database Management Systems</td>
-              <td style="font-size:18px;"align="center">Regular</td>
-            </tr>
-            
-           <tbody>
-            <tr>
-              <td style="font-size:18px;">I</td>
-              <td style="font-size:18px;"></td>
-              <td style="font-size:18px;">21PCA04</td>
-              <td colspan="3"  style="font-size:18px;">Core Course - IV : Programming in Python</td>
-              <td style="font-size:18px;"align="center">Regular</td>
-            </tr>
-            
-           <tbody>
-            <tr>
-              <td style="font-size:18px;">I</td>
-              <td style="font-size:18px;"></td>
-              <td style="font-size:18px;">21PCAMC</td>
-              <td colspan="3"  style="font-size:18px;">Major Based Elective Course - III : Advanced Operating Systems</td>
-              <td style="font-size:18px;"align="center">Regular</td>
-            </tr>
-            
-           <tbody>
-            <tr>
-              <td style="font-size:18px;">I</td>
-              <td style="font-size:18px;"></td>
-              <td style="font-size:18px;">21RAC01</td>
-              <td colspan="3"  style="font-size:18px;">Research Acumen Course I : Intellectual Property Rights</td>
-              <td style="font-size:18px;"align="center">Regular</td>
-            </tr>
-                   </tbody>
-     
-         <thead>
-          <tr>
-            <th colspan="4"style="line-height: 12px;font-size:20px;"><b>Particulars: </b></td>
-            <th style="line-height: 12px;font-size:20px;"> <b>Regular</b></td>
-            <th style="line-height: 12px;font-size:20px;"> <b>Arrear</b></td>
-            <th style="line-height: 12px;font-size:20px;"><b>Total Amount</b></td>
-          </tr>
-        </thead>
-       
-        <tbody>
-          <tr>
-            <td  colspan="4"style="line-height: 9px;font-style: italic;font-size: 16px;"><b></b>No of Theory Papers</b></td>
-            <td align="center" style="line-height: 9px;font-style: italic;font-size: 16px;"> 6</td>
-            <td align="center" style="line-height: 9px;font-style: italic;font-size: 16px;">  0</td>
-            <td align="center" style="line-height: 9px;font-style: italic;font-size: 16px;">1800</td>
-          </tr>
-          <tr>
-            <td  colspan="4" style="line-height: 9px;font-style: italic;font-size: 16px;">No of Practical Papers</td>
-            <td align="center" style="line-height: 9px;font-style: italic;font-size: 16px;">  2</td>
-            <td align="center" style="line-height: 9px;font-style: italic;font-size: 16px;">  0</td>
-            <td align="center" style="line-height: 9px;font-style: italic;font-size: 16px;"> 700</td>
-          </tr>
-          <tr>
-            <td  colspan="4"style="line-height: 9px;font-style: italic;font-size: 16px;">Project </td>
-            <td align="center" style="line-height: 9px;font-style: italic;font-size: 16px;">  0</td>
-            <td align="center" style="line-height: 9px;font-style: italic;font-size: 16px;">  0</td>
-            <td align="center" style="line-height: 9px;font-style: italic;font-size: 16px;"> 0</td>
-          </tr>
-         
+            <div class="container-fluid">
+                <div class="container ">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th colspan="7" class="text-center">
+                        <img src="uploadImage/ExamAppHeader.jpg" class="img-fluid" alt="Government Arts College Salem-7">
+                    </th>
+                </tr>
+                <tr>
+                    <th colspan="7" class="text-center">
+                        <strong style="text-transform: uppercase;">APPLICATION FORM FOR <?php echo $dept_name; ?> EXAMINATIONS - <?php echo $nextPaymentMonth ?> </strong>
+                    </th>
+                </tr>
+                <tr>
+                    <th colspan="3" class="text-center">
+                        <strong>NAME OF THE CANDIDATE <br> <?php echo $fname.$lname ?></strong>
+                    </th>
+                    <th class="text-center">
+                        <strong>SEMESTER <br> I</strong>
+                    </th>
+                    <th colspan="2" class="text-center">
+                        <strong>REGISTER NUMBER <br> <?php echo $stud_id ?></strong>
+                    </th>
+                    <th rowspan="2">
+                        <img src="image/avatar.png" width="220" height="100" class="img-fluid" alt="22PCA2">
+                    </th>
+                </tr>
+                <tr>
+                    <th colspan="4" class="text-center">
+                        <strong>DEGREE & BRANCH <br>  <?php echo $dept_name." ".$classname; ?></strong>
+                    </th>
+                    <th colspan="2" class="text-center">
+                        <strong>DATE OF BIRTH <br>  <?php echo $sdob ?></strong>
+                    </th>
+                </tr>
+                <tr>
+                    <th>Sem</th>
+                    <th>Part</th>
+                    <th>Sub.Code</th>
+                    <th colspan="3">Name of the Subject</th>
+                    <th>Regular / Arrear</th>
+                    <th>Fee</th>
+                </tr>
+            </thead>
+            <tbody>
 
-          <tr>
-            <td  colspan="4"style="line-height: 9px;font-style: italic;font-size: 16px;">Cost of Application </td>
-            <td colspan="2" rowspan="8"></td> 
-             <td align="center" style="line-height: 9px;font-style: italic;font-size: 16px;"> 50</td>
-          </tr>
-          <tr>
-            <td  colspan="4"style="line-height: 9px;font-style: italic;font-size: 16px;">Statement of Marks </td>
-             <td align="center" style="line-height: 9px;font-style: italic;font-size: 16px;"> 100</td>
-          </tr>
-          <tr>
-              <td  colspan="4"style="line-height: 9px;font-style: italic;font-size: 16px;">*Consolidated Marks </td>
-              <td align="center" style="line-height: 9px;font-style: italic;font-size: 16px;"> 0</td>
-          </tr>
-          <tr> 
-            <td  colspan="4"style="line-height: 9px;font-style: italic;font-size: 16px;">*Provisional Certificate </td>
-            <td align="center" style="line-height: 9px;font-style: italic;font-size: 16px;"> 0</td>
-          </tr>
-          <tr>
-            <td  colspan="4"style="line-height: 9px;font-style: italic;font-size: 16px;">*Convocation_Certificate</td>
-            <td align="center" style="line-height: 9px;font-style: italic;font-size: 16px;"> 0</td>
-          </tr>
-            <tr>
-            <td  colspan="4"style="line-height: 9px;font-style: italic;font-size: 16px;">Service Charge</td>
-            <td align="center" style="line-height: 9px;font-style: italic;font-size: 16px;"> 12</td>
-          </tr>
-          <tr>
-            <td  colspan="4"style="line-height: 9px;font-style: italic;font-size: 16px;">Penalty (if Applicable)</td>
-            <td align="center" style="line-height: 9px;font-style: italic;font-size: 16px;"> 0</td>
-          </tr>
-         
-          <tr>
-            <td  colspan="4"style="line-height: 9px;font-size: 20px;">Total </td>
-            <td align="center" style="line-height: 9px;font-size: 20px;"> 2662</td>
-          </tr>
-         <tr>
-            <td colspan="7" style="line-height: 9px;font-style: italic;font-size: 12px;">*Only for Final Semester Students</td>
-          </tr>
-          <tr>
-               <td colspan="7" style="font-style: italic;font-size: 16px;"><b>Amount in words  :  Two Thousand Six Hundred  and Sixty Two  Rupees  Only  
-	</b>						  
-</td>
- </tr>
-         
+        <?php
 
-        </tbody>
-      </table>
-                  
-           
-     </div>
-    <div class="form-group row m-2">
-        <div class="form-group row m-2">
-     <a type="button" href="sample.php" class="btn btn-secondary">Pay Now</a>  
+            $subqur = "select * from exam";
+            
+            $query=$conn->query($que);
 
+            while($row1=mysqli_fetch_array($query)) {
+    
+                extract($row1);
+                
+                $sem = $row1['sem'];
+                $part = $row1['part'];
+                $paper_code = $row1['paper_code'];
+                $subjectname = $row1['subjectname'];
+                $R_A_Type = $row1['R_A_Type'];
+                $dob = $row1['sdob'];
+                $fee = $row1['fee'];
+                $total = $row1['total'];
+        ?>
 
+                <tr>
+                    <td><?php echo $sem; ?></td>
+                    <td><?php echo $part; ?></td>
+                    <td><?php echo $paper_code; ?></td>
+                    <td colspan="3"><?php echo $subjectname; ?></td>
+                    <td class="text-center"><?php echo $R_A_Type; ?></td>
+                    <td><?php echo $fee; ?></td>
+                </tr>
+
+            <?php } ?>
+                <tr>
+                    <td><?php echo "I"; ?></td>
+                    <td><?php echo "II"; ?></td>
+                    <td><?php echo "22pcw99"; ?></td>
+                    <td colspan="3"><?php echo "N ame jsj osd bv"; ?></td>
+                    <td class="text-center"><?php echo "regary"; ?></td>
+                    <td><?php echo 20; ?></td>
+                </tr>
+
+            </tbody>
+            <thead>
+                <tr>
+                    <th colspan="4"><b>Particulars:</b></th>
+                    <th><b>Regular</b></th>
+                    <th><b>Arrear</b></th>
+                    <th><b>Total Amount</b></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td colspan="4"><b>No of Theory Papers</b></td>
+                    <td class="text-center">6</td>
+                    <td class="text-center">0</td>
+                    <td class="text-center">1800</td>
+                </tr>
+                <tr>
+                    <td colspan="4">No of Practical Papers</td>
+                    <td class="text-center">2</td>
+                    <td class="text-center">0</td>
+                    <td class="text-center">700</td>
+                </tr>
+                <tr>
+                    <td colspan="4">Project</td>
+                    <td class="text-center">0</td>
+                    <td class="text-center">0</td>
+                    <td class="text-center">0</td>
+                </tr>
+                <tr>
+                    <td colspan="4">Cost of Application</td>
+                    <td colspan="2" rowspan="8"></td>
+                    <td class="text-center">50</td>
+                </tr>
+                <tr>
+                    <td colspan="4">Statement of Marks</td>
+                    <td class="text-center">100</td>
+                </tr>
+                <tr>
+                    <td colspan="4">*Consolidated Marks</td>
+                    <td class="text-center">0</td>
+                </tr>
+                <tr>
+                    <td colspan="4">*Provisional Certificate</td>
+                    <td class="text-center">0</td>
+                </tr>
+                <tr>
+                    <td colspan="4">*Convocation Certificate</td>
+                    <td class="text-center">0</td>
+                </tr>
+                <tr>
+                    <td colspan="4">Service Charge</td>
+                    <td class="text-center">12</td>
+                </tr>
+                <tr>
+                    <td colspan="4" >Penalty (if Applicable)</td>
+                    <td class="text-center" >0</td>
+                </tr>
+                <tr>
+                    <td colspan="4">Total</td>
+                    <td class="text-center">2662</td>
+                </tr>
+                <tr>
+                    <td colspan="7">*Only for Final Semester Students</td>
+                </tr>
+                <tr>
+                    <td colspan="7"><b>Amount in words:</b> <?php print_r(NumberToWords(2662)); ?> Rupees Only</td>
+                </tr>
+            </tbody>
+        </table>  
     </div>
-    </div>   
 
-
-<script language="javascript">
-document.onmousedown=disableclick;
-status="Right Click Disabled";
-Function disableclick(e)
-{
-  if(event.button==2)
-   {
-     alert(status);
-     return false;	
-   }
-}
-</script>
-
-  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>  
-</body>
-</html>
+                             
+            </div>
+           
+            <?php include('footer.php');?>

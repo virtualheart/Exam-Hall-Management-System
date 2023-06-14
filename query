@@ -3,3 +3,18 @@ select * from exam ex
     on sa.p_id=ex.p_id
  join tbl_class cls
 	on sa.cls_id=cls.id
+
+add acd year 
+   add_student
+
+name is impartant/(fully rewrite)?
+   add_exam
+
+error lines 
+   view_allotment_detail
+
+add teacher dec
+   add/edit teaceer
+
+add/edit subject
+   part

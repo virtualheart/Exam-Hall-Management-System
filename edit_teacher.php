@@ -24,7 +24,7 @@ if(isset($_POST["btn_update"]))
             $pass = hash('sha256', $salt . $passw);
             extract($_POST);
 
-      $q1="UPDATE `tbl_teacher` SET `tfname`='$tfname',`tlname`='$tlname',`temail`='$temail',`tgender`='$tgender',`tdob`='$tdob',`tcontact`='$tcontact',`taddress`='$taddress',`password`='$pass' WHERE `id`='".$_GET['id']."'";
+      $q1="UPDATE `tbl_teacher` SET `tfname`='$tfname',`tlname`='$tlname', `dept_id`='$dept_id',`temail`='$temail',`tgender`='$tgender',`tdob`='$tdob',`tcontact`='$tcontact',`taddress`='$taddress',`password`='$pass' WHERE `id`='".$_GET['id']."'";
         }
         else
         {
@@ -42,7 +42,7 @@ if(isset($_POST["btn_update"]))
         $pass =$_POST['old_password'];
         extract($_POST);
 
-      $q1="UPDATE `tbl_teacher` SET `tfname`='$tfname',`tlname`='$tlname',`temail`='$temail',`tgender`='$tgender',`tdob`='$tdob',`tcontact`='$tcontact',`taddress`='$taddress',`password`='$pass' WHERE `id`='".$_GET['id']."'";
+      $q1="UPDATE `tbl_teacher` SET `tfname`='$tfname',`tlname`='$tlname',`temail`='$temail', `dept_id`='$dept_id',`tgender`='$tgender',`tdob`='$tdob',`tcontact`='$tcontact',`taddress`='$taddress',`password`='$pass' WHERE `id`='".$_GET['id']."'";
     }
     
     
@@ -73,6 +73,7 @@ while($row=mysqli_fetch_array($query))
 $fname = $row['tfname'];
 $lname = $row['tlname'];
 $email = $row['temail'];
+$dept_id = $row['dept_id'];
 $gender = $row['tgender'];
 $dob = $row['tdob'];
 $contact = $row['tcontact'];
@@ -106,7 +107,7 @@ $password = $row['password'];
                             <div class="card-body">
                                 <div class="input-states">
                                     <form class="form-horizontal" method="POST" enctype="multipart/form-data" name="teacherform">
-<input type="hidden" name="old_password" class="form-control" value="<?php echo $password;?>">
+                                        <input type="hidden" name="old_password" class="form-control" value="<?php echo $password;?>">
                                    <input type="hidden" name="currnt_date" class="form-control" value="<?php echo $currnt_date;?>">
 
                                         <div class="form-group">
@@ -135,6 +136,36 @@ $password = $row['password'];
                                                 </div>
                                             </div>
                                         </div>
+
+
+                                       <div class="form-group">
+                                            <div class="row">
+                                                <label class="col-sm-3 control-label">Department</label>
+                                                <div class="col-sm-9">
+                                                    <select type="text" name="dept_id" class="form-control"   placeholder="Department Name" required="">
+                                                        <option value="">--Select Department--</option>
+
+                                                            <?php  
+                                                            $c1 = "SELECT * FROM `tbl_department`";
+                                                            $result = $conn->query($c1);
+
+                                                            if ($result->num_rows > 0) {
+
+                                                                while ($row = mysqli_fetch_array($result)) {?>
+                                                                    <option value="<?php echo $row["dept_id"]; ?>" <?php if($dept_id==$row["dept_id"]){ echo "Selected";}?>>
+                                                                        <?php echo $row['dept_name'];?>
+                                                                    </option>
+                                                                    <?php
+                                                                }
+                                                            } else {
+                                                            echo "0 results";
+                                                                }
+                                                            ?>
+                                                    </select>
+                                                </div>
+                                            </div>
+                                        </div>
+
 
                                         <div class="form-group">
                                             <div class="row">

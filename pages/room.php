@@ -4,7 +4,7 @@ date_default_timezone_set('Asia/Kolkata');
 $current_date = date('Y-m-d');
 include('../connect.php');
 extract($_POST);
-   $sql = "INSERT INTO `room` (`type_id`,`name`,`strenght`) VALUES ('$type_id','$name','$strenght')";
+   $sql = "INSERT INTO `room` (`type_id`,`name`,`strenght`,`alacated`,`status`) VALUES ('$type_id','$name','$strenght',0,1)";
  if ($conn->query($sql) === TRUE) {
       $_SESSION['success']=' Record Successfully Added';
      ?>

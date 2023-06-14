@@ -15,10 +15,10 @@
     <div id="main-wrapper">
         
         <div class="header">
-            <nav class="navbar top-navbar navbar-expand-md navbar-light">
+            <nav class="navbar top-navbar navbar-expand-md navbar-light " style="background-color: #ffffff;">
               
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="index.php">
+                    <a class="navbar-brand" href="teacher_panel.php">
                         
                          <?php
              $sql_header_logo = "select * from manage_website"; 

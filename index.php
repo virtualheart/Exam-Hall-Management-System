@@ -27,7 +27,41 @@
             <div class="container-fluid">
                 
         
-                      <div class="row">
+                 <div class="row">
+
+                    <div class="col-md-4">
+                          <div class="card bg-success p-20">
+                            <div class="media widget-ten">
+                                <div class="media-left meida media-middle">
+                                    <span><i class="ti-id-badge f-s-40"></i></span>
+                                </div>
+                                <div class="media-body media-text-right">
+                                    <?php $sql="SELECT COUNT(*) FROM `tbl_payment`";
+                                $res = $conn->query($sql);
+                                $row=mysqli_fetch_array($res);?> 
+                                    <h2 class="color-white"><?php echo $row[0];?></h2>
+                                    <p class="m-b-0">Fee Paid</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="card bg-danger p-20">
+                            <div class="media widget-ten">
+                                <div class="media-left meida media-middle">
+                                    <span><i class="ti-id-badge f-s-40"></i></span>
+                                </div>
+                                <div class="media-body media-text-right">
+                                    <?php $sql="SELECT COUNT(*) FROM `tbl_payment`";
+                                $res = $conn->query($sql);
+                                $row=mysqli_fetch_array($res);?> 
+                                    <h2 class="color-white"><?php echo $row[0];?></h2>
+                                    <p class="m-b-0">Fee UnPaid</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     <div class="col-md-4">
                         <div class="card bg-primary p-20">
                             <div class="media widget-ten">
@@ -62,6 +96,22 @@
                         </div>
                     </div>
 
+                    <div class="col-md-4">
+                        <div class="card bg-secondary p-20">
+                            <div class="media widget-ten">
+                                <div class="media-left meida media-middle">
+                                    <span><i class="ti-home f-s-40"></i></span>
+                                </div>
+                                <div class="media-body media-text-right">
+                                <?php $sql="SELECT COUNT(*) FROM `tbl_department`";
+                                $res = $conn->query($sql);
+                                $row=mysqli_fetch_array($res);?>
+                                    <h2 class="color-white"><?php echo $row[0];?></h2>
+                                    <p class="m-b-0">Total Department</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="col-md-4">
                         <div class="card bg-danger p-20">
@@ -132,6 +182,7 @@
                         </div>
                     </div>
 
+
                 
             </div>
              <div class="row page-titles">
@@ -163,7 +214,7 @@
                                                 <td><?php echo $row['paper_code']; ?></td>
                                                 <td><?php echo $row['subjectname']; ?></td>
                                                 <td><?php echo $row['exam_date'].' - '.$row['session']; ?></td>                                                <td>
-                                                <a href="view_exam.php?id=<?=$row['id'];?>"><button type="button" class="btn btn-xs btn-danger" ><i class="fa fa-trash"></i></button></a>
+                                                <a href="view_exam.php?id=<?=$row['id']."&pcode=".$row['paper_code'];?>"><button type="button" class="btn btn-xs btn-danger" ><i class="fa fa-trash"></i></button></a>
                                                 </td>
                                             </tr>
                                           <?php } ?>

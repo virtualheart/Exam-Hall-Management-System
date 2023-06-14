@@ -48,17 +48,18 @@ if(isset($_GET['id']))
                                                 <th>Last Name</th>
                                                 
                                                 <th>Email</th>
+                                                <th>Department</th>
                                                 <th>Gender</th>
                                                 <th>Birth Date</th>
                                                 <th>Contact No.</th>
-                                               <th>Address</th>
+                                               <!-- <th>Address</th> -->
                                                 <th>Action</th>
                                             </tr>
                                         </thead>
                                         <tbody>
                                     <?php 
                                     include 'connect.php';
-                                    $sql = "SELECT * FROM `tbl_teacher`";
+                                    $sql = "SELECT id,tfname,tlname,temail,tgender,tdob,tcontact,dept_name FROM `tbl_teacher` t join `tbl_department` d on t.dept_id = d.dept_id ;";
                                                                        
                                      $result = $conn->query($sql);
 
@@ -69,10 +70,11 @@ if(isset($_GET['id']))
                                                 <td><?php echo $row['tfname']; ?></td>
                                                 <td><?php echo $row['tlname']; ?></td>
                                                 <td><?php echo $row['temail']; ?></td>
+                                                <td><?php echo $row['dept_name']; ?></td>
                                                 <td><?php echo $row['tgender']; ?></td>
                                                 <td><?php echo $row['tdob']; ?></td>
                                                 <td><?php echo $row['tcontact']; ?></td>
-                                                <td><?php echo $row['taddress']; ?></td>
+                                                <!-- <td><?php //echo $row['taddress']; ?></td> -->
                                                 
                                                 <td>
             <?php if(isset($useroles)){  if(in_array("edit_teacher",$useroles)){ ?> 

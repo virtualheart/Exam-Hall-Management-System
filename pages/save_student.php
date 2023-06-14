@@ -11,7 +11,9 @@ function createSalt()
 $salt = createSalt();
 $pass = hash('sha256', $salt . $passw);
 extract($_POST);
-   $sql = "INSERT INTO `tbl_student`(`stud_id`,`sfname`, `slname`, `classname`, `semail`,`password`, `sgender`, `sdob`, `scontact`, `saddress`) VALUES ('$stud_id','$sfname', '$slname', '$classname', '$semail','$pass', '$sgender', '$sdob', '$scontact', '$saddress')";
+   $sql = "INSERT INTO `tbl_student`(`stud_id`,`sfname`, `slname`, `dept_id`, `class_id`, `semail`,`password`, `sgender`, `sdob`, `scontact`, `saddress`, `sstatus`) VALUES ('$stud_id','$sfname', '$slname', '$dept_id','$class_id', '$semail','$pass', '$sgender', '$sdob', '$scontact', '$saddress',1)";
+
+   // echo $sql;
 
  if ($conn->query($sql) === TRUE) {
       $_SESSION['success']=' Record Successfully Added';

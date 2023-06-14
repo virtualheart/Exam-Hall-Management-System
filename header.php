@@ -15,7 +15,7 @@
     <div id="main-wrapper">
         
         <div class="header">
-            <nav class="navbar top-navbar navbar-expand-md navbar-light">
+            <nav class="navbar top-navbar navbar-expand-md navbar-light " style="background-color: #ffffff;">
               
                 <div class="navbar-header">
                     <a class="navbar-brand" href="index.php">

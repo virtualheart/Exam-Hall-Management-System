@@ -23,7 +23,7 @@ if(isset($_POST["btn_update"]))
             $salt = createSalt();
             $pass = hash('sha256', $salt . $passw);
             extract($_POST);
-            $q1="UPDATE `tbl_student` SET `stud_id`='$stud_id', `sfname`='$sfname',`slname`='$slname',`classname`='$classname',`semail`='$semail',`sgender`='$sgender',`sdob`='$sdob',`scontact`='$scontact',`saddress`='$saddress',`password`='$pass' WHERE `id`='".$_GET['id']."'";
+            $q1="UPDATE `tbl_student` SET `stud_id`='$stud_id', `sfname`='$sfname',`slname`='$slname',`dept_id`='$dept_id',`class_id`='$class_id',`semail`='$semail',`sgender`='$sgender',`sdob`='$sdob',`scontact`='$scontact',`saddress`='$saddress',`password`='$pass' WHERE `id`='".$_GET['id']."'";
         }
         else
         {
@@ -41,7 +41,10 @@ if(isset($_POST["btn_update"]))
         $pass =$_POST['old_password'];
         extract($_POST);
 
-      $q1="UPDATE `tbl_student` SET `stud_id`='$stud_id', `sfname`='$sfname',`slname`='$slname',`classname`='$classname',`semail`='$semail',`sgender`='$sgender',`sdob`='$sdob',`scontact`='$scontact',`saddress`='$saddress',`password`='$pass' WHERE `id`='".$_GET['id']."'";
+      $q1="UPDATE `tbl_student` SET `stud_id`='$stud_id', `sfname`='$sfname',`slname`='$slname',`dept_id`='$dept_id',`class_id`='$class_id',`semail`='$semail',`sgender`='$sgender',`sdob`='$sdob',`scontact`='$scontact',`saddress`='$saddress',`password`='$pass' WHERE `id`='".$_GET['id']."'";
+
+        echo $q1;
+
     }
     
   
@@ -72,7 +75,8 @@ while($row=mysqli_fetch_array($query))
 $stud_id = $row['stud_id'];
 $fname = $row['sfname'];
 $lname = $row['slname'];
-$email = $row['classname'];
+$dept_id = $row['dept_id'];
+$class_id = $row['class_id'];
 $email = $row['semail'];
 $gender = $row['sgender'];
 $dob = $row['sdob'];
@@ -138,17 +142,43 @@ $address = $row['saddress'];
 
                                         <div class="form-group">
                                             <div class="row">
-                                                <label class="col-sm-3 control-label">Class</label>
+                                                <label class="col-sm-3 control-label">Department</label>
                                                 <div class="col-sm-9">
-                                                    <select type="text" name="classname" class="form-control"   placeholder="Class" required="">
-                                                        <option value="">--Select Class--</option>
+                                                    <select type="text" name="dept_id" id="dept_id" class="form-control"   placeholder="Department Name" required="">
+                                                        <option value="">--Select Department--</option>
                                                             <?php  
-                                                            $c1 = "SELECT * FROM `tbl_class`";
+                                                            $c1 = "SELECT * FROM `tbl_department`";
                                                             $result = $conn->query($c1);
 
                                                             if ($result->num_rows > 0) {
                                                                 while ($row = mysqli_fetch_array($result)) {?>
-                                                                    <option value="<?php echo $row["id"];?>" <?php if($classname==$row["id"]){ echo "Selected";}?>>
+                                                                    <option value="<?php echo $row["dept_id"];?>"<?php if($dept_id==$row["dept_id"]){ echo "Selected";}?>>
+                                                                        <?php echo $row['dept_name'];?>
+                                                                    </option>
+                                                                    <?php
+                                                                }
+                                                            } else {
+                                                            echo "0 results";
+                                                                }
+                                                            ?>
+                                                    </select>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <label class="col-sm-3 control-label">Class</label>
+                                                <div class="col-sm-9">
+                                                    <select type="text" name="class_id" id="class_id" class="form-control"   placeholder="Class" required="" >
+                                                        <option value="">--Select Class--</option>
+                                                        <?php  
+                                                            $c1 = "SELECT * FROM `tbl_class` where dept_id=".$dept_id;
+                                                            $result = $conn->query($c1);
+
+                                                            if ($result->num_rows > 0) {
+                                                                while ($row = mysqli_fetch_array($result)) {?>
+                                                                    <option value="<?php echo $row["id"];?>"<?php if($class_id==$row["id"]){ echo "Selected";} ?>>
                                                                         <?php echo $row['classname'];?>
                                                                     </option>
                                                                     <?php
@@ -161,6 +191,7 @@ $address = $row['saddress'];
                                                 </div>
                                             </div>
                                         </div>
+
 
                                         <div class="form-group">
                                             <div class="row">
@@ -242,6 +273,29 @@ $address = $row['saddress'];
 <?php include('footer.php');?>
 <link rel="stylesheet" href="popup_style.css">
 <script>
+
+
+    $('#dept_id').change(function() {
+        var dept_id = $(this).val();
+        if(dept_id){
+            $.ajax({
+                type:'POST',
+                url:'ajax/dept_ajax.php',
+                data:'dept_id='+dept_id,
+                success:function(html){
+                    $('#class_id').html(html);
+                    // alert(html)
+                    $('#class_id').removeAttr( "disabled" );
+                   
+                }
+            }); 
+        }else{
+            $('#classname').html('<option value="">-- Select Class-- </option>');
+            $('#classname').attr( "disabled" );
+        }
+    });
+
+
   var check = function() {
   if (document.getElementById('password').value ==
     document.getElementById('confirm_password').value) {

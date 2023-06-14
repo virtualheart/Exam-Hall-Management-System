@@ -46,6 +46,7 @@ if(isset($_GET['id']))
                                     <table id="myTable" class="table table-bordered table-striped">
                                         <thead>
                                             <tr>
+                                                <th>Part</th>
                                                 <th>Paper code</th>
                                                 <th>Subject Name</th>
                                                
@@ -63,6 +64,7 @@ if(isset($_GET['id']))
                                  
                                       ?>
                                             <tr>
+                                                <td><?php echo $row['part']; ?></td>
                                                 <td><?php echo $row['paper_code']; ?></td>
                                                 <td><?php echo $row['subjectname']; ?></td>
 

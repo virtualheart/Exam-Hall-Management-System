@@ -5417,7 +5417,9 @@ tbody tr th {
 }
 tbody tr td {
   font-family: Nunito,sans-serif;
-  color: #99abb4;
+  color: #2e2d2d;
+/*  color: #99abb4;*/
+  
 }
 tbody tr td:last-child {
   text-align: right;

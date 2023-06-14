@@ -40,7 +40,7 @@
                                     $c1 = "SELECT * FROM `tbl_class`";
                                     $result = $conn->query($c1);
                                     while ($row = mysqli_fetch_array($result)) {
-                                        $s1 = "SELECT count(*) as qty FROM `tbl_student` WHERE classname='".$row["id"]."'";
+                                        $s1 = "SELECT count(*) as qty FROM `tbl_student` WHERE class_id='".$row["id"]."'";
                                         $sr = $conn->query($s1);
                                         if ($sr->num_rows > 0) {
                                             $sres = mysqli_fetch_array($sr);

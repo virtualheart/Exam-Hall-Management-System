@@ -1,5 +1,5 @@
 
-            <footer class="footer" style="  position: fixed;right: 0;bottom: 0;width: 100%;text-align: center;"><b>GAC Salem-7</b> </footer> 
+            <footer class="footer" style="  position: fixed;right: 0;bottom: 0;width: 100%;text-align: center;margin-bottom: 0px;"><b>GAC Salem-7</b> </footer> 
             
         </div>
    

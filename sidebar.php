@@ -1,4 +1,9 @@
  <?php 
+
+ ini_set('display_errors', 1); 
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+
  include('connect.php');
   $sql = "select * from admin where id = '".$_SESSION["id"]."'";
         $result=$conn->query($sql);
@@ -15,7 +20,7 @@
                 $row2=mysqli_fetch_array($result);
                 array_push($name,$row2[1]);
             }
-             }
+        }
              $_SESSION['name']=$name;
              $useroles=$_SESSION['name'];
 
@@ -95,9 +100,18 @@
                         </li>
                     <?php } } ?>
 
-                      
 
-                    
+                    <?php if(isset($useroles)){  if(in_array("manage_dept",$useroles)){ ?> 
+                         <!-- <li class="nav-label">Class</li> -->
+                        <li> <a class="has-arrow" href="#" aria-expanded="false"><i class="fa fa-home"></i><span class="hide-menu">Department Management</span></a>
+                            <ul aria-expanded="false" class="collapse">
+                            <?php if(isset($useroles)){  if(in_array("add_class",$useroles)){ ?> 
+                                <li><a href="add_dept.php">Add Department</a></li>
+                            <?php } } ?>
+                                <li><a href="view_dept.php">View Department</a></li>
+                            </ul>
+                        </li>
+                    <?php } } ?>
 
                      <?php if(isset($useroles)){  if(in_array("manage_class",$useroles)){ ?> 
                          <!-- <li class="nav-label">Class</li> -->
@@ -110,6 +124,7 @@
                             </ul>
                         </li>
                     <?php } } ?>
+
                     <?php if(isset($useroles)){  if(in_array("manage_exam",$useroles)){ ?> 
                          <!-- <li class="nav-label">Class</li> -->
                         <li> <a class="has-arrow" href="#" aria-expanded="false"><i class="fa fa-home"></i><span class="hide-menu">Exam Management</span></a>

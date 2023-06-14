@@ -34,8 +34,54 @@ if(isset($_GET['id']))
             </div>
            
             <div class="container-fluid">
-               
-               
+              
+                           <div class="col-lg-8" style="margin-left: 10%;">
+                              <div class="card">
+                                 <div class="form-group">
+                                  <form class="form-horizontal" method="POST" action="" name="userform" enctype="multipart/form-data">
+                                      <div class="row">
+                                                <label class="col-sm-3 control-label">Department Name</label>
+                                                <div class="col-sm-9">
+                                                    <select type="text" name="dept_id" id="dept_id" class="form-control"   placeholder="Class" required="">
+                                                        <option value="">--Select Department--</option>
+                                                            <?php  
+                                                            $c1 = "SELECT * FROM `tbl_department`";
+                                                            $result = $conn->query($c1);
+
+                                                            if ($result->num_rows > 0) {
+                                                                while ($row = mysqli_fetch_array($result)) {?>
+                                                                    <option value="<?php echo $row["dept_id"];?>">
+                                                                        <?php echo $row['dept_name'] ;?>
+                                                                    </option>
+                                                                    <?php
+                                                                }
+                                                            } else {
+                                                            echo "0 results";
+                                                                }
+                                                            ?>
+                                                    </select>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <label class="col-sm-3 control-label">Class Name</label>
+                                                <div class="col-sm-9">
+                                                    <select type="text" name="class_id" id="class_id" class="form-control"   placeholder="Class" required="" disabled>
+                                                        <option value="">--Select class--</option>
+                                                    </select>
+                                                    <button type="submit" name="btn_save" class="btn btn-primary btn-flat m-b-30 m-t-30">Show</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                </form>
+
+                                      </div>
+                                    </div>
+
+
+
                  <div class="card">
                             <div class="card-body">
                               <?php if(isset($useroles)){ if(in_array("add_student",$useroles)){ ?> 
@@ -45,8 +91,10 @@ if(isset($_GET['id']))
                                     <table id="myTable" class="table table-bordered table-striped">
                                         <thead>
                                             <tr>
+                                                <th>Register Num</th>
                                                 <th>First Name</th>
                                                 <th>Last Name</th>
+                                                <th>Dept Name</th>
                                                 <th>Class</th>
                                                 <th>Email</th>
                                                 <th>Gender</th>
@@ -59,17 +107,23 @@ if(isset($_GET['id']))
                                         <tbody>
                                     <?php 
                                     include 'connect.php';
-                                    $sql = "SELECT * FROM `tbl_student`";
-                                     $result = $conn->query($sql);
-$i=0;
+
+                                if (isset($_POST['dept_id']) && isset($_POST['class_id'])) {
+
+                                    $sql = "SELECT * FROM `tbl_student` WHERE class_id=".$_POST['class_id'] ." and dept_id=".$_POST['dept_id'];
+ 
+                                    $result = $conn->query($sql);
+                                    $i=0;
                                    while($row = $result->fetch_assoc()) { 
-                                    $sql2 = "SELECT * FROM `tbl_class` WHERE id='".$row['classname']."'";
+                                    $sql2 = "SELECT  * FROM `tbl_class` c join `tbl_department` d on d.dept_id = c.dept_id where id='".$row['class_id']."'";
                                      $result2=$conn->query($sql2);
                                      $row2=$result2->fetch_assoc();
                                       ?>
                                             <tr>
+                                                <td><?php echo $row['stud_id']; ?></td>
                                                 <td><?php echo $row['sfname']; ?></td>
                                                 <td><?php echo $row['slname']; ?></td>
+                                                <td><?php echo $row2['dept_name']; ?></td>
                                                 <td><?php echo $row2['classname']; ?></td>
                                                 <td><?php echo $row['semail']; ?></td>
                                                 <td><?php echo $row['sgender']; ?></td>
@@ -88,7 +142,7 @@ $i=0;
                                                
                                                 </td>
                                             </tr>
-                                          <?php  $i++;} 
+                                          <?php  $i++;} }
                                           ?>
 
                                         </tbody>
@@ -139,4 +193,27 @@ $i=0;
 
 Array.from(document.querySelectorAll('button[data-for]')).
 forEach(addButtonTrigger);
+
+$('#dept_id').change(function() {
+        var dept_id = $(this).val();
+        if(dept_id){
+            $.ajax({
+                type:'POST',
+                url:'ajax/dept_ajax.php',
+                data:'dept_id='+dept_id,
+                success:function(html){
+                    $('#class_id').html(html);
+                    // alert(html)
+                    $('#class_id').removeAttr( "disabled" );
+                   
+                }
+            }); 
+        }else{
+            $('#class_id').html('<option value="">-- Select Class-- </option>');
+            $('#paper_id').html('<option value="">-- Select Class-- </option>');
+            $('#class_id').attr( "disabled" );
+            $('#paper_id').attr( "disabled" );
+        }
+    });
+
     </script>

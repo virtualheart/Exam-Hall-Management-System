@@ -3,7 +3,7 @@ date_default_timezone_set('Asia/Kolkata');
 $current_date = date('Y-m-d');
 include('../connect.php');
 extract($_POST);
-   $sql = "INSERT INTO `tbl_class` (`classname`) VALUES ('$classname')";
+   $sql = "INSERT INTO `tbl_class` (`dept_id`,`classname`) VALUES ('$dept_id','$classname')";
  if ($conn->query($sql) === TRUE) {
       $_SESSION['success']=' Record Successfully Added';
      ?>

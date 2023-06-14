@@ -39,7 +39,8 @@
                                         <tbody>
                                     <?php 
                                     include 'connect.php';
-                                  $sql1 = "SELECT * FROM  `allot_student` WHERE student_id='".$_SESSION['id']."' and exam_date='".date('Y-m-d')."'";
+                                  $sql1 = "SELECT * FROM  `allot_student` WHERE student_id='".$_SESSION['id']."'-- - and exam_date='".date('Y-m-d')."'";
+                                  // echo $sql1;
                                    $result1 = $conn->query($sql1);
                                    while($row = $result1->fetch_assoc()) {
                                    $s1 = "SELECT * FROM `exam` WHERE id='".$row['exam_id']."'";
@@ -52,7 +53,8 @@
                                       ?>
                                             <tr>
                                                 <td><?php echo $sres['name']; ?></td>
-                                                <td><?php echo $row['start_time'].'-'.$row['end_time']; ?></td>
+                                                <td><?php echo $sres['session']; ?></td>
+                                                <!-- <td><?php //echo $row['start_time'].'-'.$row['end_time']; ?></td> -->
                                                 <td><?php echo $sres1['name']; ?></td>
                                             </tr>
                                           <?php } ?>
@@ -62,5 +64,6 @@
                             </div>
                         </div> 
         </div>
-            
+
             <?php include('footer.php');?>
+

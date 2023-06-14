@@ -1,0 +1,10743 @@
+﻿SEMESTER - I
+I
+17FTL01
+Tamil Language Course – I
+11.05.2023
+AN
+II
+17FEL01
+English Language Course - I
+13.05.2023
+AN
+III
+17AECE1
+Allied Course - I : International Economics - I
+16.05.2023
+AN
+III
+17UEC01
+Core Course - I: Micro Economics - I
+17.05.2023
+AN
+III
+17UEC02
+Core Course - II: Indian Economy - Problems and Policies - I
+18.05.2023
+AN
+IV
+17UVABE
+Common Course - I: Value Based Education
+19.05.2023
+AN
+SEMESTER - II
+I
+17FTL02
+Tamil Language Course – II
+11.05.2023
+FN
+II
+17FEL02
+English Language Course – II
+13.05.2023
+FN
+III
+17AECE2
+Allied Course - II: International Economics-II
+16.05.2023
+FN
+III
+17UEC03
+Core Course – III: Micro Economics-II
+17.05.2023
+FN
+III
+17UEC04
+Core Course - IV: Indian Economy - Problems and Policies - II
+18.05.2023
+FN
+IV
+17UENST
+Common Course: Environmental Studies
+19.05.2023
+FN
+SEMESTER - III
+I
+17FTL03
+Tamil Language Course - III
+12.05.2023
+AN
+II
+17FEL03
+English Language Course - III
+15.05.2023
+AN
+III
+17APL03
+Allied Course - III: International Politics
+23.05.2023
+AN
+III
+17UEC05
+Core Course - V: Monetary Economics - I
+25.05.2023
+AN
+III
+17UEC06
+Core Course - VI: Quantitative Techniques-I
+31.05.2023
+AN
+IV
+17UECN1
+Non Major Elective Course - I: Economics for Competitive Examinations
+01.06.2023
+AN
+IV
+17UECS1
+Skill Based Elective Course - I: Transport Economics
+02.06.2023
+AN
+SEMESTER - IV
+I
+17FTL04
+Tamil Language Course - IV
+12.05.2023
+FN
+II
+17FEL04
+English Language Course - IV
+15.05.2023
+FN
+III
+17APL04
+Allied Course - IV: Indian Political System
+23.05.2023
+FN
+III
+17UEC07
+Core Course - VII: Monetary Economics-II
+25.05.2023
+FN
+III
+17UEC08
+Core Course- VIII: Quantitative Techniques - II
+31.05.2023
+FN
+IV
+17UECN2
+Non Major Elective Course - II: Introduction to Entrepreneurial Development
+01.06.2023
+FN
+IV
+17UECS2
+Skill Based Elective Course - II: Health Economics
+02.06.2023
+FN
+SEMESTER - V
+III
+17UEC09
+Core Course - IX: Macro Economics - I
+20.05.2023
+AN
+III
+17UEC10
+Core Course - X: Public Finance - I
+22.05.2023
+AN
+III
+17UEC11
+Core Course - XI: History of Economic Thought - I
+24.05.2023
+AN
+III
+17UEC12
+Core Course - XII: Financial Services
+26.05.2023
+AN
+III
+17UECM1
+Major Based Elective Course - I: Economics of Growth and Planning
+27.05.2023
+AN
+IV
+17UECS3
+Skill Based Elective Course - III: Banking Theory Law and Practice
+29.05.2023
+AN
+IV
+17UECS4
+Skill Based Elective Course - IV: Woman Studies and Development
+30.05.2023
+AN
+SEMESTER - VI
+III
+17UEC13
+Core Course - XIII: Macro Economics - II
+20.05.2023
+FN
+III
+17UEC14
+Core Course - XIV: Public Finance - II
+22.05.2023
+FN
+III
+17UEC15
+Core Course - XV: History of Economic Thought - II
+24.05.2023
+FN
+III
+17UEC16
+Core Course - XVI: Marketing Management
+26.05.2023
+FN
+III
+17UECM2
+Major Based Elective Course - II: Elements of Export Marketing
+27.05.2023
+FN
+IV
+17UECS5
+Skill Based Elective Course - V: Energy Economics
+29.05.2023
+FN
+IV
+17UECS6
+Skill Based Elective Course - VI: Insurance Economics
+30.05.2023
+FN
+
+SEMESTER - I
+I
+17FTL01
+Tamil Language Course – I
+11.05.2023
+AN
+II
+17FEL01
+English Language Course - I
+13.05.2023
+AN
+III
+17AEL01
+Allied Course - I: Social History of England
+16.05.2023
+AN
+III
+17UEL01
+Core Course - I: Chaucer and Elizabethan Age
+17.05.2023
+AN
+III
+17UEL02
+Core Course - II: Indian Writing in English
+18.05.2023
+AN
+IV
+17UVABE
+Common Course - I: Value Based Education
+19.05.2023
+AN
+SEMESTER - II
+I
+17FTL02
+Tamil Language Course – II
+11.05.2023
+FN
+II
+17FEL02
+English Language Course – II
+13.05.2023
+FN
+III
+17AEL02
+Allied Course - II: Literary Forms and Terms
+16.05.2023
+FN
+III
+17UEL03
+Core Course – III: Milton and Neoclassical Age
+17.05.2023
+FN
+III
+17UEL04
+Core Course – IV: American Literature
+18.05.2023
+FN
+IV
+17UENST
+Common Course: Environmental Studies
+19.05.2023
+FN
+SEMESTER - III
+I
+17FTL03
+Tamil Language Course - III
+12.05.2023
+AN
+II
+17FEL03
+English Language Course - III
+15.05.2023
+AN
+III
+17AEL03
+Allied Course - III: History of English Literature (450 - 1700)
+23.05.2023
+AN
+III
+17UEL05
+Core Course - V: The Romantic Age
+25.05.2023
+AN
+III
+17UEL06
+Core Course - VI: Commonwealth Literature
+31.05.2023
+AN
+IV
+17UELN1
+Non Major Elective Course - I: Communicative English - I
+01.06.2023
+AN
+IV
+17UELS1
+Skill Based Elective Course - I: Yoga for Human Excellence
+02.06.2023
+AN
+SEMESTER - IV
+I
+17FTL04
+Tamil Language Course - IV
+12.05.2023
+FN
+II
+17FEL04
+English Language Course - IV
+15.05.2023
+FN
+III
+17AEL04
+Allied Course - IV: History of English Literature (1701 - Present)
+23.05.2023
+FN
+III
+17UEL07
+Core Course - VII: Victorian Age
+25.05.2023
+FN
+III
+17UEL08
+Core Course - VIII: World Classics
+31.05.2023
+FN
+IV
+17UELN2
+Non Major Elective Course - II: Communicative English - II
+01.06.2023
+FN
+IV
+17UELS2
+Skill Based Elective Course - II: Employable Skills
+02.06.2023
+FN
+
+SEMESTER - V
+III
+17UEL09
+Core Course - IX: Shakespeare
+20.05.2023
+AN
+III
+17UEL10
+Core Course - X: Twentieth Century British Literature
+22.05.2023
+AN
+III
+17UEL11
+Core Course - XI: Dalit Literature
+24.05.2023
+AN
+III
+17UEL12
+Core Course - XII: Introduction to Literary Criticism
+26.05.2023
+AN
+III
+17UELM1
+Major Based Elective Course - I: Language and Linguistics
+27.05.2023
+AN
+IV
+17UELS3
+Skill Based Elective Course - III: Grammar through Reading
+29.05.2023
+AN
+IV
+17UELS4
+Skill Based Elective Course- IV: Introduction to Creative Writing
+30.05.2023
+AN
+SEMESTER - VI
+III
+17UEL13
+Core Course - XIII: Women Writing
+20.05.2023
+FN
+III
+17UEL14
+Core Course - XIV: Life Writing
+22.05.2023
+FN
+III
+17UEL15
+Core Course - XV: E-Learning and English Language Teaching
+24.05.2023
+FN
+III
+17UEL16
+Core Course - XVI: Functional English
+26.05.2023
+FN
+III
+17UELM2
+Major Based Elective Course - II: Children’s Literature
+27.05.2023
+FN
+IV
+17UELS5
+Skill Based Elective Course - V: Journalism and Mass Communication
+29.05.2023
+FN
+IV
+17UELS6
+Skill Based Elective Course - VI: English for Competitive Examinations
+30.05.2023
+FN
+
+SEMESTER - I
+I
+17FTL01
+Tamil Language Course – I
+11.05.2023
+AN
+II
+17FEL01
+English Language Course - I
+13.05.2023
+AN
+III
+17AHT01
+Allied Course - I: Tourism - Principles and Practices
+16.05.2023
+AN
+III
+17UHT01
+Core Course - I: History of Ancient Tamilagam
+17.05.2023
+AN
+III
+17UHT02
+Core Course-II: History of Ancient India Upto 300 CE
+18.05.2023
+AN
+IV
+17UVABE
+Common Course - I: Value Based Education
+19.05.2023
+AN
+SEMESTER - II
+I
+17FTL02
+Tamil Language Course – II
+11.05.2023
+FN
+II
+17FEL02
+English Language Course – II
+13.05.2023
+FN
+III
+17AHT02
+Allied Course-II: Marketing in Tourism and Travel Management
+16.05.2023
+FN
+III
+17UHT03
+Core Course - III: History of TamilNadu from 1336 to 1800 CE
+17.05.2023
+FN
+III
+17UHT04
+Core Course- IV: History of Ancient India from 300 to 1206 CE
+18.05.2023
+FN
+IV
+17UENST
+Common Course: Environmental Studies
+19.05.2023
+FN
+SEMESTER - III
+I
+17FTL03
+Tamil Language Course - III
+12.05.2023
+AN
+II
+17FEL03
+English Language Course - III
+15.05.2023
+AN
+III
+17APL01
+Allied Course - I: Indian Government and Politics
+23.05.2023
+AN
+III
+17UHT05
+Core Course - V: History of Medieval India From 1206 CE To 1707 CE
+25.05.2023
+AN
+III
+17UHT06
+Core Course - VI: History of Modern Tamil Nadu
+31.05.2023
+AN
+IV
+17UHTN1
+Non Major Elective Course - I: Cultural Heritage of India
+01.06.2023
+AN
+IV
+17UHTS1
+Skill Based Elective Course - I: Defence Studies
+02.06.2023
+AN
+SEMESTER - IV
+I
+17FTL04
+Tamil Language Course - IV
+12.05.2023
+FN
+II
+17FEL04
+English Language Course - IV
+15.05.2023
+FN
+III
+17APL02
+Allied Course - II: Modern Governments
+23.05.2023
+FN
+III
+17UHT07
+Core Course - VII: History of Modern India From 1707 CE To 1885 CE
+25.05.2023
+FN
+III
+17UHT08
+Core Course- VIII: History of China and Japan From 1800 CE To 1900 CE
+31.05.2023
+FN
+IV
+17UHTN2
+Non Major Elective Course - II: Indias March Towards Freedom
+01.06.2023
+FN
+IV
+17UHTS2
+Skill Based Elective Course - II: Elements of Indian Geography
+02.06.2023
+FN
+
+SEMESTER - V
+III
+17UHT09
+Core Course-IX: History of Modern India From 1885 CE To 1947 CE
+20.05.2023
+AN
+III
+17UHT10
+Core Course - X: History of Europe From 1453 CE To 1789 CE
+22.05.2023
+AN
+III
+17UHT11
+Core Course - XI: History of USA Up to 1865 CE
+24.05.2023
+AN
+III
+17UHT12
+Core Course- XII: History of England From 1603 CE To 1945 CE
+26.05.2023
+AN
+III
+17UHTM1
+Major Based Elective Course - I: Principles and Methods of Archaeology
+27.05.2023
+AN
+IV
+17UHTS3
+Skill Based Elective Course - III: Epigraphy
+29.05.2023
+AN
+IV
+17UHTS4
+Skill Based Elective Course - IV: Numismatics
+30.05.2023
+AN
+SEMESTER - VI
+III
+17UHT13
+Core Course - XIII: History of Contemporary India
+20.05.2023
+FN
+III
+17UHT14
+Core Course - XIV: History of Europe From 1789 CE To 1990 CE
+22.05.2023
+FN
+III
+17UHT15
+Core Course - XV: History of USA From 1865 CE To 2000 CE
+24.05.2023
+FN
+III
+17UHTM2
+Major Based Elective Course - II: Science and Technology in India
+26.05.2023
+FN
+III
+17UHTM3
+Major Based Elective Course - III: History of Journalism and Mass Communication
+27.05.2023
+FN
+IV
+17UHTS5
+Skill Based Elective Course - V: Introduction To Museology
+29.05.2023
+FN
+IV
+17UHTS6
+Skill Based Elective Course - VI: General Intelligence
+30.05.2023
+FN
+
+SEMESTER - I
+I
+17FTL01
+Tamil Language Course – I
+11.05.2023
+AN
+II
+17FEL01
+English Language Course - I
+13.05.2023
+AN
+III
+17AHTA1
+Allied Course - I: Main currents in Indian History - I
+23.05.2023
+AN
+III
+17UPS01
+Core Course - I: Principles of Political Science
+17.05.2023
+AN
+III
+17UPS02
+Core Course - II: Indian Constitution
+18.05.2023
+AN
+IV
+17UVABE
+Common Course - I: Value Based Education
+19.05.2023
+AN
+SEMESTER - II
+I
+17FTL02
+Tamil Language Course – II
+11.05.2023
+FN
+II
+17FEL02
+English Language Course – II
+13.05.2023
+FN
+III
+17AHTA2
+Allied History Course-II Main currents in Indian History-II
+23.05.2023
+FN
+III
+17UPS03
+Core Course–III : Western Political Thought
+17.05.2023
+FN
+III
+17UPS04
+Core Course–IV : Mordern Political Systems -I
+18.05.2023
+FN
+IV
+17UENST
+Common Course: Environmental Studies
+19.05.2023
+FN
+SEMESTER - III
+I
+17FTL03
+Tamil Language Course - III
+12.05.2023
+AN
+II
+17FEL03
+English Language Course - III
+15.05.2023
+AN
+III
+17AEC01
+Allied Course - I: Business Economics
+16.05.2023
+AN
+III
+17UPS05
+Core Course -V: Organs of Government and Political Process
+25.05.2023
+AN
+III
+17UPS06
+Core Course - VI: Social and Political Thought in India
+31.05.2023
+AN
+IV
+17UPSN1
+Non Major Elective Course – I: Dynamics of Indian Politics
+01.06.2023
+AN
+IV
+17UPSS1
+Skill Based Elective Course - I: Contemporary Politics of India (1947 - 2004)
+02.06.2023
+AN
+SEMESTER - IV
+I
+17FTL04
+Tamil Language Course - IV
+12.05.2023
+FN
+II
+17FEL04
+English Language Course - IV
+15.05.2023
+FN
+III
+17AEC02
+Allied Course - II: Indian Economy
+16.05.2023
+FN
+III
+17UPS07
+Core Course - VII: Principles of Public Administration
+25.05.2023
+FN
+III
+17UPS08
+Core Course - VIII: Human Rights
+31.05.2023
+FN
+IV
+17UPSN2
+Non Major Elective Course - II: International Organization
+01.06.2023
+FN
+IV
+17UPSS2
+Skill Based Elective Course - II: Journalism and Mass Communication
+02.06.2023
+FN
+
+SEMESTER - V
+III
+17UPS09
+Core Course - IX: Indian Foreign Policy
+20.05.2023
+AN
+III
+17UPS10
+Core Course - X: Local Government in India
+22.05.2023
+AN
+III
+17UPS11
+Core Course - XI: International Relations
+24.05.2023
+AN
+III
+17UPS12
+Core Course - XII: E - Governance in India
+26.05.2023
+AN
+III
+17UPSM1
+Major Based Elective Course - I: National Movement In India
+27.05.2023
+AN
+IV
+17UPSS3
+Skill Based Elective Course - III: Citizen and Civic Awareness
+29.05.2023
+AN
+IV
+17UPSS4
+Skill Based Elective Course - IV: Political Parties and Pressure Groups
+30.05.2023
+AN
+SEMESTER - VI
+III
+17UPS13
+Core Course - XIII: Modern Political System - II
+20.05.2023
+FN
+III
+17UPS14
+Core Course - XIV: Government and Politics of Tamil Nadu
+22.05.2023
+FN
+III
+17UPS15
+Core Course - XV: Public Policy and Analysis
+24.05.2023
+FN
+III
+17UPSM2
+Major Based Elective Course - II: Political Science for Competitive
+26.05.2023
+FN
+III
+17UPSM3
+Major Based Elective Course - III: Police Administration in India
+27.05.2023
+FN
+IV
+17UPSS5
+Skill Based Elective Course - V: NGO Management
+29.05.2023
+FN
+IV
+17UPSS6
+Skill Based Elective Course - VI: Labour Welfare in India
+30.05.2023
+FN
+
+SEMESTER - I
+I
+17FTL01
+Tamil Language Course – I
+11.05.2023
+AN
+II
+17FEL01
+English Language Course - I
+13.05.2023
+AN
+III
+17AEC01
+Allied Course - I: Business Economics
+16.05.2023
+AN
+III
+17UPA01
+Core Course - I: Principles of Public Administration
+17.05.2023
+AN
+III
+17UPA02
+Core Course - II: Administrative Thinkers
+18.05.2023
+AN
+IV
+17UVABE
+Common Course - I: Value Based Education
+19.05.2023
+AN
+SEMESTER - II
+I
+17FTL02
+Tamil Language Course – II
+11.05.2023
+FN
+II
+17FEL02
+English Language Course – II
+13.05.2023
+FN
+III
+17AEC02
+Allied Course - II: Indian Economy
+16.05.2023
+FN
+III
+17UPA03
+Core Course–III : Principles of Management
+17.05.2023
+FN
+III
+17UPA04
+Core Course–IV : Indian Administration
+18.05.2023
+FN
+IV
+17UENST
+Common Course: Environmental Studies
+19.05.2023
+FN
+SEMESTER - III
+I
+17FTL03
+Tamil Language Course - III
+12.05.2023
+AN
+II
+17FEL03
+English Language Course - III
+15.05.2023
+AN
+III
+17AHTA1
+Allied Course - I: Main Currents in Indian History-I
+23.05.2023
+AN
+III
+17UPA05
+Core Course- V: Modern Governments - I (UK, USA and SWISS)
+25.05.2023
+AN
+III
+17UPA06
+Core Course - VI: National Movement in India
+31.05.2023
+AN
+IV
+17UPAN1
+Non Major Elective Course – I: Gandhian Thought
+01.06.2023
+AN
+IV
+17UPAS1
+Skill Based Elective Course - I: Contemporary Politics of India (1947-2004)
+02.06.2023
+AN
+SEMESTER - IV
+I
+17FTL04
+Tamil Language Course - IV
+12.05.2023
+FN
+II
+17FEL04
+English Language Course - IV
+15.05.2023
+FN
+III
+17AHTA2
+Allied Course - II: Main Currents in Indian History - II
+23.05.2023
+FN
+III
+17UPA07
+Core Course - VII: Principles of Political Science
+25.05.2023
+FN
+III
+17UPA08
+Core Course - VIII: Modern Governments - II (France, China, Japan and Germany)
+31.05.2023
+FN
+IV
+17UPAN2
+Non Major Elective Course - II: Public Personnel Administration
+01.06.2023
+FN
+IV
+17UPAS2
+Skill Based Elective Course - II: Journalism and Mass Communication
+02.06.2023
+FN
+
+SEMESTER - V
+III
+17UPA09
+Core Course - IX: Financial Administration in India
+20.05.2023
+AN
+III
+17UPA10
+Core Course - X: Human Rights in India
+22.05.2023
+AN
+III
+17UPA11
+Core Course - XI: Local - Self Government in India
+24.05.2023
+AN
+III
+17UPA12
+Core Course - XII: Social Welfare Administration in India
+26.05.2023
+AN
+III
+17UPAM1
+Major Based Elective Course - I: Human Resource Management
+27.05.2023
+AN
+IV
+17UPAS3
+Skill Based Elective Course - III: Citizen and Civic Awareness
+29.05.2023
+AN
+IV
+17UPAS4
+Skill Based Elective Course - IV: Political Parties and Pressure Groups
+30.05.2023
+AN
+SEMESTER - VI
+III
+17UPA13
+Core Course - XIII: Development Administration in India
+20.05.2023
+FN
+III
+17UPA14
+Core Course - XIV: International Organization and Administration
+22.05.2023
+FN
+III
+17UPA15
+Core Course - XV: Public Policy and Analysis
+24.05.2023
+FN
+III
+17UPAM2
+Major Based Elective Course - II: Public Administration for Competitive Examinations
+26.05.2023
+FN
+III
+17UPAM3
+Major Based Elective Course - III: Police Administration in India
+27.05.2023
+FN
+IV
+17UPAS5
+Skill Based Elective Course - V: NGO Management
+29.05.2023
+FN
+IV
+17UPAS6
+Skill Based Elective Course - VI: Labour Welfare Administration in India
+30.05.2023
+FN
+
+B.A. Tamil Literature Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+17FTL01
+Tamil Language Course – I
+11.05.2023
+AN
+II
+17FEL01
+English Language Course - I
+13.05.2023
+AN
+III
+17ATL01
+Allied Course - I: Tamizhar varalarum Panpadum – I
+16.05.2023
+AN
+III
+17UTL01
+Core Course – I: Ilakkanam – I Nannool Kandigai-Paayiramum Ezhuththathikaramum
+17.05.2023
+AN
+III
+17UTL02
+Core Course – II: Ikkala Ilakiyam
+18.05.2023
+AN
+IV
+17UVABE
+Common Course - I: Value Based Education
+19.05.2023
+AN
+SEMESTER - II
+I
+17FTL02
+Tamil Language Course – II
+11.05.2023
+FN
+II
+17FEL02
+English Language Course – II
+13.05.2023
+FN
+III
+17ATL02
+Allied Course-II: Tamizhar Varalarum Panpadum – II
+16.05.2023
+FN
+III
+17UTL03
+Core Course – III: Ilakkanam - II Nannool Kandigai – Sollathikaram
+17.05.2023
+FN
+III
+17UTL04
+Core Course-IV: Ilakkiya Iyakkangal
+18.05.2023
+FN
+IV
+17UENST
+Common Course: Environmental Studies
+19.05.2023
+FN
+SEMESTER - III
+I
+17FTL03
+Tamil Language Course - III
+12.05.2023
+AN
+II
+17FEL03
+English Language Course - III
+15.05.2023
+AN
+III
+17ATL03
+Allied Course-III: Tamil Ilakiya Ilakana Varalaru - I
+23.05.2023
+AN
+III
+17UTL05
+Core Course-V: Ilakkanam – III Yapparungalakkarigai
+25.05.2023
+AN
+III
+17UTL06
+Core Course-VI: Chittrilakkiyangal
+31.05.2023
+AN
+IV
+17UTLN1
+Non Major Elective Course - I: Nadaimurai Tamil Ilakiyam
+01.06.2023
+AN
+IV
+17UTLS1
+Skill Based Elective Course - I: Suttrulaviyal
+02.06.2023
+AN
+SEMESTER - IV
+I
+17FTL04
+Tamil Language Course - IV
+12.05.2023
+FN
+II
+17FEL04
+English Language Course - IV
+15.05.2023
+FN
+III
+17ATL04
+Allied Course - IV: Tamil Ilakiya Ilakana Varalaru - II
+23.05.2023
+FN
+III
+17UTL07
+Core Course - VII: Ilakkanam - IV Thandiyalangaram
+25.05.2023
+FN
+III
+17UTL08
+Core Course - VIII: Bakthi Ilakkiyam
+31.05.2023
+FN
+IV
+17UTLN2
+Non Major Elective Course - II: Nadaimurai Tamil Ilakanam
+01.06.2023
+FN
+IV
+17UTLS2
+Skill Based Elective Course - II: Sithar Elakiyam
+02.06.2023
+FN
+
+SEMESTER - V
+III
+17UTL09
+Core Course - IX: Ilakkanam - V Nambiyagapporul
+20.05.2023
+AN
+III
+17UTL10
+Core Course - X: Thiranaivukalai
+22.05.2023
+AN
+III
+17UTL11
+Core Course - XI: Sanga Ilakkiyam - Agam
+24.05.2023
+AN
+III
+17UTLM1
+Major Based Elective Course - I: Tamil Mozhi Varalaru
+26.05.2023
+AN
+IV
+17UTLS3
+Skill Based Elective Course - III: Siddha Maruthuvam
+27.05.2023
+AN
+IV
+17UTLS4
+Skill Based Elective Course - IV: Noolagaviyal
+29.05.2023
+AN
+SEMESTER - VI
+III
+17UTL12
+Core Course - XII: Sanga Ilakkiyam - Puram
+20.05.2023
+FN
+III
+17UTL13
+Core Course - XIII: Purapporul Venbamalai
+22.05.2023
+FN
+III
+17UTL14
+Core Course - XIV: kappiyankal
+24.05.2023
+FN
+III
+17UTL15
+Core Course - XV: Aravilakkiyam
+26.05.2023
+FN
+III
+17UTLM2
+Major Based Elective Course - II: Nattupuraviyal
+27.05.2023
+FN
+III
+17UTLM3
+Major Based Elective Course - III: Thagaval Thodarpiyal
+29.05.2023
+FN
+IV
+17UTLS5
+Skill Based Elective Course - V: Kanini - Or Arimugam
+30.05.2023
+FN
+IV
+17UTLS6
+Skill Based Elective Course - VI: Tamilaga kalaikalum kalvettukalum
+
+
+
+B.B.A. Business Administration Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+17FTL01
+Tamil Language Course – I
+11.05.2023
+AN
+II
+17FEL01
+English Language Course - I
+13.05.2023
+AN
+III
+17AEC01
+Allied Course - I: Business Economics
+16.05.2023
+AN
+III
+17UBN01
+Core Course - I: Principles of Management
+17.05.2023
+AN
+III
+17UBN02
+Core Course - II: Business Communication
+18.05.2023
+AN
+IV
+17UVABE
+Common Course - I: Value Based Education
+19.05.2023
+AN
+SEMESTER - II
+I
+17FTL02
+Tamil Language Course – II
+11.05.2023
+FN
+II
+17FEL02
+English Language Course – II
+13.05.2023
+FN
+III
+17AEC02
+Allied Course - II: Indian Economy
+16.05.2023
+FN
+III
+17UBN03
+Core Course - III : Organisational Behaviour
+17.05.2023
+FN
+III
+17UBN04
+Core Course - IV : Financial Accounting
+18.05.2023
+FN
+IV
+17UENST
+Common Course: Environmental Studies
+19.05.2023
+FN
+SEMESTER - III
+III
+17ASTC1
+Allied Statistics Course - I: Business Statistics - I
+23.05.2023
+AN
+III
+17UBN05
+Core Course - V: Financial Management
+12.05.2023
+AN
+III
+17UBN06
+Core Course -VI: Marketing Management
+15.05.2023
+AN
+III
+17UBN07
+Core Course - VII: Human Resource Management
+25.05.2023
+AN
+III
+17UBN08
+Core Course- VIII: Production and Materials Management
+31.05.2023
+AN
+IV
+17UBNN1
+Non Major Elective Course – I: Fundamentals of Management
+01.06.2023
+AN
+IV
+17UBNS1
+Skill Based Elective Course - I: Company Law
+02.06.2023
+AN
+SEMESTER - IV
+III
+17ASTC2
+Allied Statistics Course - II: Business Statistics - II
+23.05.2023
+FN
+III
+17UBN09
+Core Course - IX: Cost Accounting
+12.05.2023
+FN
+III
+17UBN10
+Core Course - X: Retail Management
+15.05.2023
+FN
+III
+17UBN11
+Core Course - XI: Business Law
+25.05.2023
+FN
+III
+17UBN12
+Core Course - XII: Management Information System
+31.05.2023
+FN
+IV
+17UBNN2
+Non Major Elective Course - II: Basics of Human Resource Management
+01.06.2023
+FN
+IV
+17UBNS2
+Skill Based Elective Course - II: Business Taxation
+02.06.2023
+FN
+SEMESTER - V
+III
+17UBN13
+Core Course - XIII: Financial Institutions and Services
+20.05.2023
+AN
+III
+17UBN14
+Core Course - XIV: Management Accounting
+22.05.2023
+AN
+III
+17UBN15
+Core Course - XV: Services Marketing
+24.05.2023
+AN
+III
+17UBN16
+Core Course - XVI: Labour Law and Industrial Relations
+26.05.2023
+AN
+IV
+17UBNS3
+Skill Based Elective Course - III: Research Methodology
+27.05.2023
+AN
+SEMESTER - VI
+III
+17UBN17
+Core Course - XVII: Investment Management
+20.05.2023
+FN
+III
+17UBN18
+Core Course - XVIII: Entrepreneurial Development
+22.05.2023
+FN
+III
+17UBN19
+Core Course - XIX: Strategic Management
+24.05.2023
+FN
+IV
+17UBNS5
+Skill Based Elective Course - V: Export Management
+26.05.2023
+FN
+
+B.C.A. Computer Applications Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+17FTL01
+Tamil Language Course – I
+11.05.2023
+AN
+II
+17FEL01
+English Language Course - I
+13.05.2023
+AN
+III
+17AMT01
+Allied Mathematics Course– I : Algebra, Calculus and Finite Differences
+16.05.2023
+AN
+III
+17UCA01
+Core Course - I: Foundations of Computers
+17.05.2023
+AN
+IV
+17UVABE
+Common Course - I: Value Based Education
+19.05.2023
+AN
+SEMESTER - II
+I
+17FTL02
+Tamil Language Course – II
+11.05.2023
+FN
+II
+17FEL02
+English Language Course – II
+13.05.2023
+FN
+III
+17AMT02
+Allied Mathematics Course - II : Differential Equations and Laplace Transforms
+16.05.2023
+FN
+III
+17AMT03
+Allied Mathematics Course - III : Differentiation and Vector Calculus
+17.05.2023
+FN
+III
+17UCA02
+Core Course – II: Programming in C
+18.05.2023
+FN
+IV
+17UENST
+Common Course: Environmental Studies
+19.05.2023
+FN
+SEMESTER - III
+III
+17ASTM1
+Allied Statistics Course - I: Mathematical Statistics - I
+23.05.2023
+AN
+III
+17UCA03
+Core Course - III: Data Structures
+12.05.2023
+AN
+III
+17UCA04
+Core Course - IV: Computer Architecture
+15.05.2023
+AN
+III
+17UCA05
+Core Course - V: Object Oriented Programming with C++
+25.05.2023
+AN
+IV
+17UCAN1
+Non Major Elective Course - I: Fundamental Computer Applications
+01.06.2023
+AN
+SEMESTER - IV
+III
+17ASTM2
+Allied Statistics Course - II: Mathematical Statistics - II
+23.05.2023
+FN
+III
+17UCA06
+Core Course - VI: Visual Basic
+12.05.2023
+FN
+III
+17UCA07
+Core Course - VII: Operating Systems
+15.05.2023
+FN
+III
+17UCA08
+Core Course - VIII: Relational Database Management Systems
+25.05.2023
+FN
+IV
+17UCAN2
+Non Major Elective Course - II: Principles of Internet
+01.06.2023
+FN
+SEMESTER - V
+III
+17UCA09
+Core Course - IX: Software Engineering
+20.05.2023
+AN
+III
+17UCA10
+Core Course - X: Programming with Java
+22.05.2023
+AN
+III
+17UCA11
+Core Course - XI: Computer Networks
+24.05.2023
+AN
+III
+17UCAM1
+Major Based Elective Course - I: Multimedia Systems
+26.05.2023
+AN
+SEMESTER - VI
+III
+17UCA12
+Core Course - XII: Web Programming
+20.05.2023
+FN
+III
+17UCA13
+Core Course - XIII: C#.Net Programming
+22.05.2023
+FN
+III
+17UCAM2
+Major Based Elective Course - II: Big Data and Analytics
+24.05.2023
+FN
+III
+17UCAM3
+Major Based Elective Course - III: Unix (2020 Batch)
+26.05.2023
+FN
+III
+17UCAM3
+Major Based Elective Course - III: Introduction to Data Mining and Warehousing (2019 Batch)
+26.05.2023
+FN
+
+B.Com. Commerce Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+17FTL01
+Tamil Language Course – I
+11.05.2023
+AN
+II
+17FEL01
+English Language Course - I
+13.05.2023
+AN
+III
+17AEC01
+Allied Course - I: Business Economics
+16.05.2023
+AN
+III
+17UCE01
+Core Course - I: Financial Accounting - I
+17.05.2023
+AN
+III
+17UCE02
+Core Course - II: Business Communication
+18.05.2023
+AN
+IV
+17UVABE
+Common Course - I: Value Based Education
+19.05.2023
+AN
+SEMESTER - II
+I
+17FTL02
+Tamil Language Course – II
+11.05.2023
+FN
+II
+17FEL02
+English Language Course – II
+13.05.2023
+FN
+III
+17AEC02
+Allied Course - II: Indian Economy
+16.05.2023
+FN
+III
+17UCE03
+Core Course - III: Financial Accounting - II
+17.05.2023
+FN
+III
+17UCE04
+Core Course - IV : Business Management
+18.05.2023
+FN
+IV
+17UENST
+Common Course: Environmental Studies
+19.05.2023
+FN
+SEMESTER - III
+III
+17ASTC1
+Allied Statistics Course - I: Business Statistics - I
+23.05.2023
+AN
+III
+17UCE05
+Core Course - V: Business Law
+12.05.2023
+AN
+III
+17UCE06
+Core Course - VI: Company Accounts - I
+15.05.2023
+AN
+III
+17UCE07
+Core Course - VII: Entrepreneurship Development
+25.05.2023
+AN
+III
+17UCE08
+Core Course - VIII: Banking Theory
+31.05.2023
+AN
+IV
+17UCEN1
+Non Major Elective Course – I: Principles of Commerce
+01.06.2023
+AN
+IV
+17UCES1
+Skill Based Elective Course - I: Principles of Insurance
+02.06.2023
+AN
+SEMESTER - IV
+III
+17ASTC2
+Allied Statistics Course - II: Business Statistics - II
+23.05.2023
+FN
+III
+17UCE09
+Core Course - IX: Company Law
+12.05.2023
+FN
+III
+17UCE10
+Core Course - X: Company Accounts - II
+15.05.2023
+FN
+III
+17UCE11
+Core Course - XI: Banking Law and Practice
+25.05.2023
+FN
+III
+17UCE12
+Core Course - XII: Goods and Services Tax
+31.05.2023
+FN
+IV
+17UCEN2
+Non Major Elective Course - II: Principles of Accounting
+01.06.2023
+FN
+IV
+17UCES2
+Skill Based Elective Course - II: Office Management
+02.06.2023
+FN
+
+SEMESTER - V
+III
+17UCE13
+Core Course - XIII: Cost Accounting
+20.05.2023
+AN
+III
+17UCE14
+Core Course - XIV: Principles of Marketing
+22.05.2023
+AN
+III
+17UCE15
+Core Course - XV: Income Tax Law and Practice - I
+24.05.2023
+AN
+III
+17UCE16
+Core Course - XVI: Auditing
+26.05.2023
+AN
+III
+17UCEM1
+Major Based Elective Course - I: Financial Management
+27.05.2023
+AN
+IV
+17UCES3
+Skill Based Elective Course - III: Customer Relationship Management
+29.05.2023
+AN
+IV
+17UCES4
+Skill Based Elective Course - IV: Computer Application in Business
+30.05.2023
+AN
+SEMESTER - VI
+III
+17UCE17
+Core Course - XVII: Management Accounting
+20.05.2023
+FN
+III
+17UCE18
+Core Course - XVIII: Income Tax Law and Practice - II
+22.05.2023
+FN
+III
+17UCEM2
+Major Based Elective Course - II: E - Commerce
+24.05.2023
+FN
+III
+17UCEM3
+Major Based Elective Course - III: Financial Services
+26.05.2023
+FN
+IV
+17UCES5
+Skill Based Elective Course - V: Industrial Law
+27.05.2023
+FN
+IV
+17UCES6
+Skill Based Elective Course - VI: Human Resource Management
+29.05.2023
+FN
+
+B.Com. Commerce(Computer Applications) Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+17FTL01
+Tamil Language Course - I
+11.05.2023
+AN
+II
+17FEL01
+English Language Course - I
+13.05.2023
+AN
+III
+17ABC01
+Allied Course - I: Computer Application in Corporate Office
+16.05.2023
+AN
+III
+17UBC01
+Core Course - I: Financial Accounting - I
+17.05.2023
+AN
+III
+17UBC02
+Core Course - II: Business Communication
+18.05.2023
+AN
+IV
+17UVABE
+Common Course - I: Value Based Education
+19.05.2023
+AN
+SEMESTER - II
+I
+17FTL02
+Tamil Language Course - II
+11.05.2023
+FN
+II
+17FEL02
+English Language Course - II
+13.05.2023
+FN
+III
+17ABC02
+Allied Course - II: Fundamentals of Computer and Tally
+16.05.2023
+FN
+III
+17UBC03
+Core Course - III: Financial Accounting - II
+17.05.2023
+FN
+IV
+17UENST
+Common Course - II: Environmental Studies
+19.05.2023
+FN
+SEMESTER - III
+III
+17ASTC1
+Allied Statistics Course - I: Business Statistics - I
+23.05.2023
+AN
+III
+17UBC04
+Core Course - IV: Business Law
+12.05.2023
+AN
+III
+17UBC05
+Core Course - V: Company Accounts - I
+15.05.2023
+AN
+III
+17UBC06
+Core Course - VI: DBMS (Database Management System)
+25.05.2023
+AN
+III
+17UBC07
+Core Course - VII: Entrepreneurship Development
+31.05.2023
+AN
+IV
+17UBCN1
+Non Major Elective Course - I: Principles of Commerce
+01.06.2023
+AN
+IV
+17UBCS1
+Skill Based Elective Course - I: Principles of Insurance
+02.06.2023
+AN
+SEMESTER - IV
+III
+17ASTC2
+Allied Statistics Course - II: Business Statistics - II
+23.05.2023
+FN
+III
+17UBC08
+Core Course - VIII: Company Law
+12.05.2023
+FN
+III
+17UBC09
+Core Course - IX: Company Accounts - II
+15.05.2023
+FN
+III
+17UBC10
+Core Course - X: Banking Theory Law and Practice
+25.05.2023
+FN
+IV
+17UBCN2
+Non Major Elective Course - II: Principles of Accounting
+01.06.2023
+FN
+IV
+17UBCS2
+Skill Based Elective Course - II: Office Management
+02.06.2023
+FN
+
+SEMESTER - V
+III
+17UBC11
+Core Course - XI: Cost Accounting
+20.05.2023
+AN
+III
+17UBC12
+Core Course - XII: Visual Basic (Theory)
+22.05.2023
+AN
+III
+17UBC13
+Core Course - XIII: Income Tax - Law and Practice - I
+24.05.2023
+AN
+III
+17UBC14
+Core Course -XIV: Auditing
+26.05.2023
+AN
+III
+17UBCM1
+Major Based Elective Course - I: Financial Management
+27.05.2023
+AN
+IV
+17UBCS3
+Skill Based Elective Course - III: Goods and Services Tax
+29.05.2023
+AN
+IV
+17UBCS4
+Skill Based Elective Course - IV: Principles of Marketing
+30.05.2023
+AN
+SEMESTER - VI
+III
+17UBC15
+Core Course - XV: Management Accounting
+20.05.2023
+FN
+III
+17UBC16
+Core Course - XVI: Income Tax - Law and Practice - II
+22.05.2023
+FN
+III
+17UBCM2
+Major Based Elective Course - II: E-Commerce
+24.05.2023
+FN
+III
+17UBCM3
+Major Based Elective Course - III : Business Management
+26.05.2023
+FN
+III
+17UBCS5
+Skill Based Elective Course - V: Industrial Law
+27.05.2023
+FN
+IV
+17UBCS6
+Skill Based Elective Course - VI: Human Resource Management
+29.05.2023
+FN
+
+B.Com. Co-operation Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+17FTL01
+Tamil Language Course – I
+11.05.2023
+AN
+II
+17FEL01
+English Language Course - I
+13.05.2023
+AN
+III
+17AEC01
+Allied Course - I: Business Economics
+16.05.2023
+AN
+III
+17UCN01
+Core Course - I: Theory of Co-operation
+17.05.2023
+AN
+III
+17UCN02
+Core Course - II: Principles of Accounting
+18.05.2023
+AN
+IV
+17UVABE
+Common Course - I: Value Based Education
+19.05.2023
+AN
+SEMESTER - II
+I
+17FTL02
+Tamil Language Course – II
+11.05.2023
+FN
+II
+17FEL02
+English Language Course – II
+13.05.2023
+FN
+III
+17AEC02
+Allied Course - II: Indian Economy
+16.05.2023
+FN
+III
+17UCN03
+Core Course - III: Cooperative Development In India and Abroad
+17.05.2023
+FN
+III
+17UCN04
+Core Course - IV: Business Organisation
+18.05.2023
+FN
+IV
+17UENST
+Common Course: Environmental Studies
+19.05.2023
+FN
+SEMESTER - III
+III
+17ASTC1
+Allied Statistics Course - I: Business Statistics - I
+23.05.2023
+AN
+III
+17UCN05
+Core Course-V: Production, Trade and Service Cooperatives
+12.05.2023
+AN
+III
+17UCN06
+Core Course - VI: Principles of Management
+15.05.2023
+AN
+III
+17UCN07
+Core Course - VII: Cooperative Credit and Banking
+25.05.2023
+AN
+III
+17UCN08
+Core Course - VIII: Principles of Marketing
+31.05.2023
+AN
+IV
+17UCNN1
+Non Major Elective Course - I: Dynamics of Cooperation
+01.06.2023
+AN
+IV
+17UCNS1
+Skill Based Elective Course - I: Computer Applications in Business
+02.06.2023
+AN
+SEMESTER - IV
+III
+17ASTC2
+Allied Statistics Course - II: Business Statistics - II
+23.05.2023
+FN
+III
+17UCN09
+Core Course - IX: Office Management
+12.05.2023
+FN
+III
+17UCN10
+Core Course - X: Cost Accounting
+15.05.2023
+FN
+III
+17UCN11
+Core Course - XI: Co-operative Law
+25.05.2023
+FN
+IV
+17UCNN2
+Non Major Elective Course - II: Business Correspondence
+01.06.2023
+FN
+IV
+17UCNS2
+Skill Based Elective Course - II: Computerised Accounting & GST
+02.06.2023
+FN
+
+SEMESTER - V
+III
+17UCN12
+Core Course - XII: Income Tax Law and Practice
+20.05.2023
+AN
+III
+17UCN13
+Core Course - XIII: Cooperative Management and Administration
+22.05.2023
+AN
+III
+17UCN14
+Core Course - XIV: Management Accounting
+24.05.2023
+AN
+III
+17UCNM1
+Major Based Elective Course - I: Human Resource Management
+26.05.2023
+AN
+IV
+17UCNS3
+Skill Based Elective Course - III: Business Communication
+27.05.2023
+AN
+IV
+17UCNS4
+Skill Based Elective Course - IV: Research Methods
+29.05.2023
+AN
+SEMESTER - VI
+III
+17UCN15
+Core Course - XV: Accounting System for Cooperatives
+20.05.2023
+FN
+III
+17UCN16
+Core Course - XVI: General and Cooperative Audit
+22.05.2023
+FN
+III
+17UCN17
+Core Course - XVII: Commercial Law
+24.05.2023
+FN
+III
+17UCNM2
+Major Based Elective Course - II: Life and General Insurance
+26.05.2023
+FN
+III
+17UCNM3
+Major Based Elective Course - III: Fundamentals of Financial Management
+27.05.2023
+FN
+IV
+17UCNS5
+Skill Based Elective Course - V: Entrepreneurship Development
+29.05.2023
+FN
+IV
+17UCNS6
+Skill Based Elective Course - VI: Service Marketing
+30.05.2023
+FN
+
+B.Sc. Applied Geology Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+17FTL01
+Tamil Language Course – I
+11.05.2023
+AN
+II
+17FEL01
+English Language Course - I
+13.05.2023
+AN
+III
+17ACH01
+Allied Course - I: Inorganic, Organic and Physical Chemistry-I
+23.05.2023
+AN
+III
+17AMT01
+Allied Mathematics Course– I : Algebra, Calculus and Finite Differences
+16.05.2023
+AN
+III
+17UGL01
+Core Course - I: Physical Geology
+18.05.2023
+AN
+IV
+17UVABE
+Common Course - I: Value Based Education
+19.05.2023
+AN
+SEMESTER - II
+I
+17FTL02
+Tamil Language Course – II
+11.05.2023
+FN
+II
+17FEL02
+English Language Course – II
+13.05.2023
+FN
+III
+17ACH02
+Allied Course - II : Inorganic, Organic and Physical Chemistry - II
+23.05.2023
+FN
+III
+17AMT02
+Allied Mathematics Course - II : Differential Equations and Laplace Transforms
+16.05.2023
+FN
+III
+17AMT03
+Allied Mathematics Course - III : Differentiation and Vector Calculus
+17.05.2023
+FN
+III
+17UGL02
+Core course – II :Geomorphology and Structural Geology
+18.05.2023
+FN
+IV
+17UENST
+Common Course: Environmental Studies
+19.05.2023
+FN
+SEMESTER - III
+I
+17FTL03
+Tamil Language Course - III
+12.05.2023
+AN
+II
+17FEL03
+English Language Course - III
+15.05.2023
+AN
+III
+17APY01
+Allied Physics Course - I
+03.06.2023
+AN
+III
+17UGL03
+Core Course - III: Paleontology and Crystallography - I
+25.05.2023
+AN
+IV
+17UGLN1
+Non Major Elective Course - I: Natural Disaster Management
+01.06.2023
+AN
+IV
+17UGLS1
+Skill Based Elective Course - I: Fuel Geology
+02.06.2023
+AN
+SEMESTER - IV
+I
+17FTL04
+Tamil Language Course - IV
+12.05.2023
+FN
+II
+17FEL04
+English Language Course - IV
+15.05.2023
+FN
+III
+17APY02
+Allied Physics Course - II
+23.05.2023
+FN
+III
+17UGL04
+Core Course - IV: Paleontology, Crystallography - II and Optical Mineralogy
+25.05.2023
+FN
+IV
+17UGLN2
+Non Major Elective Course - II: Natural Resource Management
+01.06.2023
+FN
+IV
+17UGLS2
+Skill Based Elective Course - II: Engineering Geology
+02.06.2023
+FN
+
+SEMESTER - V
+III
+17UGL05
+Core Course - V: Mineralogy
+20.05.2023
+AN
+III
+17UGL06
+Core Course - VI: Stratigraphy and Indian Geology
+22.05.2023
+AN
+III
+17UGL07
+Core Course - VII: Igneous and Metamorphic Petrology
+24.05.2023
+AN
+III
+17UGLM1
+Major Based Elective Course - I: Exploration Geology
+27.05.2023
+AN
+IV
+17UGLS3
+Skill Based Elective Course - III: Remote Sensing
+29.05.2023
+AN
+IV
+17UGLS4
+Skill Based Elective Course - IV: Field Geology
+30.05.2023
+AN
+SEMESTER - VI
+III
+17UGL08
+Core Course - VIII: Sedimentary Petrology and Environmental Geology
+20.05.2023
+FN
+III
+17UGL09
+Core Course - IX: Economic Geology
+22.05.2023
+FN
+III
+17UGL10
+Core Course - X: Mining Geology and Ore Dressing
+24.05.2023
+FN
+III
+17UGLM2
+Major Based Elective Course - II: Hydrogeology
+27.05.2023
+FN
+III
+17UGLM3
+Major Based Elective Course - III: Geological Meteoritics, Computer Applications in Geology and Geostatistics
+29.05.2023
+FN
+IV
+17UGLS5
+Skill Based Elective Course - V: Gemmology
+30.05.2023
+FN
+
+B.Sc. Botany Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+17FTL01
+Tamil Language Course – I
+11.05.2023
+AN
+II
+17FEL01
+English Language Course - I
+13.05.2023
+AN
+III
+17AZL01
+Allied Zoology Course - I : Invertebrate and Chordate Zoology
+16.05.2023
+AN
+III
+17UBY01
+Core Course - I: Algae and Bryophytes
+17.05.2023
+AN
+IV
+17UVABE
+Common Course - I: Value Based Education
+19.05.2023
+AN
+SEMESTER - II
+I
+17FTL02
+Tamil Language Course – II
+11.05.2023
+FN
+II
+17FEL02
+English Language Course – II
+13.05.2023
+FN
+III
+17AZL02
+Allied Zoology Course - II:
+16.05.2023
+FN
+III
+17UBY02
+Core Course –II: Fungi, Bacteria, Viruses and Lichens
+17.05.2023
+FN
+IV
+17UENST
+Common Course: Environmental Studies
+19.05.2023
+FN
+SEMESTER - III
+I
+17FTL03
+Tamil Language Course - III
+12.05.2023
+AN
+II
+17FEL03
+English Language Course - III
+15.05.2023
+AN
+III
+17ACH01
+Allied Course - I: Inorganic, Organic and Physical Chemistry-I
+23.05.2023
+AN
+III
+17UBY03
+Core Course - III: Anatomy and Embryology of Angiosperms
+25.05.2023
+AN
+IV
+17UBYN1
+Non Major Elective Course - I: Mushroom Cultivation
+01.06.2023
+AN
+IV
+17UBYS1
+Skill Based Elective Course - I: Mushroom Culture Technology
+02.06.2023
+AN
+SEMESTER - IV
+I
+17FTL04
+Tamil Language Course - IV
+12.05.2023
+FN
+II
+17FEL04
+English Language Course - IV
+15.05.2023
+FN
+III
+17ACH02
+Allied Course - II : Inorganic, Organic and Physical Chemistry - II
+23.05.2023
+FN
+III
+17UBY04
+Core Course - IV: Pteridophytes, Gymnosperms and PalaeoBotany
+25.05.2023
+FN
+IV
+17UBYN2
+Non Major Elective Course - II: Organic Farming
+01.06.2023
+FN
+IV
+17UBYS2
+Skill Based Elective Course - II: Microtechniques
+02.06.2023
+FN
+
+SEMESTER - V
+III
+17UBY05
+Core Course - V: Morphology and Taxonomy
+20.05.2023
+AN
+III
+17UBY06
+Core Course - VI: Biochemistry and Biophysics
+22.05.2023
+AN
+III
+17UBY07
+Core Course - VII: Plant Ecology and Phytogeography
+24.05.2023
+AN
+III
+17UBYM1
+Major Based Elective Course - I: Biotechnology
+27.05.2023
+AN
+IV
+17UBYS3
+Skill Based Elective Course - III: Horticulture
+29.05.2023
+AN
+IV
+17UBYS4
+Skill Based Elective Course - IV: Seed Technology
+30.05.2023
+AN
+SEMESTER - VI
+III
+17UBY08
+Core Course - VIII: Plant Physiology
+20.05.2023
+FN
+III
+17UBY09
+Core Course - IX: Cytology and Genetics
+22.05.2023
+FN
+III
+17UBYM2
+Major Based Elective Course - II: Agricultural Microbiology
+24.05.2023
+FN
+III
+17UBYM3
+Major Based Elective Course - III: Medicinal Botany
+27.05.2023
+FN
+IV
+17UBYS5
+Skill Based Elective Course - V: Biofertilizers
+29.05.2023
+FN
+IV
+17UBYS6
+Skill Based Elective Course - VI: Plant Protection
+30.05.2023
+FN
+
+B.Sc. Chemistry Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+17FTL01
+Tamil Language Course – I
+11.05.2023
+AN
+II
+17FEL01
+English Language Course - I
+13.05.2023
+AN
+III
+17ABY01
+Allied Botany Course – I
+16.05.2023
+AN
+III
+17AMT01
+Allied Mathematics Course– I : Algebra, Calculus and Finite Differences
+16.05.2023
+AN
+III
+17AZL01
+Allied Zoology Course - I : Invertebrate and Chordate Zoology
+16.05.2023
+AN
+III
+17UCH01
+Core Course – I: Organic, Inorganic and Physical Chemistry – I
+18.05.2023
+AN
+IV
+17UVABE
+Common Course - I: Value Based Education
+19.05.2023
+AN
+SEMESTER - II
+I
+17FTL02
+Tamil Language Course – II
+11.05.2023
+FN
+II
+17FEL02
+English Language Course – II
+13.05.2023
+FN
+III
+17ABY02
+Allied Botany Course – II
+16.05.2023
+FN
+III
+17AMT02
+Allied Mathematics Course - II : Differential Equations and Laplace Transforms
+16.05.2023
+FN
+III
+17AMT03
+Allied Mathematics Course - III : Differentiation and Vector Calculus
+17.05.2023
+FN
+III
+17AZL02
+Allied Zoology Course -II
+16.05.2023
+FN
+III
+17UCH02
+Core Course –II: Organic, Inorganic & Physical Chemistry – II
+18.05.2023
+FN
+IV
+17UENST
+Common Course: Environmental Studies
+19.05.2023
+FN
+SEMESTER - III
+I
+17FTL03
+Tamil Language Course - III
+12.05.2023
+AN
+II
+17FEL03
+English Language Course - III
+15.05.2023
+AN
+III
+17APY01
+Allied Physics Course - I
+03.06.2023
+AN
+III
+17UCH03
+Core Course – III: Organic, Inorganic & Physical Chemistry - III
+25.05.2023
+AN
+IV
+17UCHN1
+Non Major Elective Course – I: Chemistry in Daily Life - I
+01.06.2023
+AN
+IV
+17UCHS1
+Skill Based Elective Course - I: Industrial Chemistry
+02.06.2023
+AN
+SEMESTER - IV
+I
+17FTL04
+Tamil Language Course - IV
+12.05.2023
+FN
+II
+17FEL04
+English Language Course - IV
+15.05.2023
+FN
+III
+17APY02
+Allied Physics Course - II
+23.05.2023
+FN
+III
+17UCH04
+Core Course - IV: Organic, Inorganic & Physical Chemistry - IV
+25.05.2023
+FN
+IV
+17UCHN2
+Non Major Elective Course - II: Chemistry In Daily Life - II
+01.06.2023
+FN
+IV
+17UCHS2
+Skill Based Elective Course - II: Textile and Dye Chemistry
+02.06.2023
+FN
+
+SEMESTER - V
+III
+17UCH05
+Core Course - V: Inorganic Chemistry - I
+20.05.2023
+AN
+III
+17UCH06
+Core Course - VI: Organic Chemistry - I
+22.05.2023
+AN
+III
+17UCH07
+Core Course - VII: Physical Chemistry - I
+24.05.2023
+AN
+III
+17UCHM1
+Major Based Elective Course - I: Spectroscopy
+27.05.2023
+AN
+IV
+17UCHS3
+Skill Based Elective Course - III: Pharmaceutical Chemistry
+29.05.2023
+AN
+IV
+17UCHS4
+Skill Based Elective Course - IV: Agricultural Chemistry
+30.05.2023
+AN
+SEMESTER - VI
+III
+17UCH08
+Core Course - VIII: Inorganic Chemistry - II
+20.05.2023
+FN
+III
+17UCH09
+Core Course - IX: Organic Chemistry - II
+22.05.2023
+FN
+III
+17UCH10
+Core Course - X: Physical Chemistry - II
+24.05.2023
+FN
+III
+17UCHM2
+Major Based Elective Course - II: Analytical Chemistry
+27.05.2023
+FN
+IV
+17UCHS5
+Skill Based Elective Course - V: Food Chemistry
+29.05.2023
+FN
+IV
+17UCHS6
+Skill Based Elective Course - VI: Polymer Chemistry
+30.05.2023
+FN
+
+B.Sc. Computer Science Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+17FTL01
+Tamil Language Course – I
+11.05.2023
+AN
+II
+17FEL01
+English Language Course - I
+13.05.2023
+AN
+III
+17AMT01
+Allied Mathematics Course– I : Algebra, Calculus and Finite Differences
+16.05.2023
+AN
+III
+17UCS01
+Core Course - I: Principles of Digital Computer
+18.05.2023
+AN
+IV
+17UVABE
+Common Course - I: Value Based Education
+19.05.2023
+AN
+SEMESTER - II
+I
+17FTL02
+Tamil Language Course – II
+11.05.2023
+FN
+II
+17FEL02
+English Language Course – II
+13.05.2023
+FN
+III
+17AMT02
+Allied Mathematics Course - II : Differential Equations and Laplace Transforms
+16.05.2023
+FN
+III
+17AMT03
+Allied Mathematics Course - III : Differentiation and Vector Calculus
+17.05.2023
+FN
+III
+17UCS02
+Core Course – II: Programming in C
+18.05.2023
+FN
+IV
+17UENST
+Common Course: Environmental Studies
+19.05.2023
+FN
+SEMESTER - III
+I
+17FTL03
+Tamil Language Course - III
+12.05.2023
+AN
+II
+17FEL03
+English Language Course - III
+15.05.2023
+AN
+III
+17ASTM1
+Allied Statistics Course - I: Mathematical Statistics - I
+23.05.2023
+AN
+III
+17UCS03
+Core Course - III: Data Structures
+25.05.2023
+AN
+IV
+17UCSN1
+Non Major Elective Course - I: Web Design: Basics
+01.06.2023
+AN
+SEMESTER - IV
+I
+17FTL04
+Tamil Language Course - IV
+12.05.2023
+FN
+II
+17FEL04
+English Language Course - IV
+15.05.2023
+FN
+III
+17ASTM2
+Allied Statistics Course - II: Mathematical Statistics - II
+23.05.2023
+FN
+III
+17UCS04
+Core Course - IV: Relational Database Management Systems
+25.05.2023
+FN
+IV
+17UCSN2
+Non Major Elective Course - II : Web Design : Advanced
+01.06.2023
+FN
+SEMESTER - V
+III
+17UCS05
+Core Course - V: Visual Basic Programming
+20.05.2023
+AN
+III
+17UCS06
+Core Course - VI: Web Programming
+22.05.2023
+AN
+III
+17UCS07
+Core Course - VII: Programming in Python
+24.05.2023
+AN
+III
+17UCSM1
+Major Based Elective Course - I: Operating Systems
+27.05.2023
+AN
+SEMESTER - VI
+III
+17UCS08
+Core Course - VIII: Data Communication and Networking
+20.05.2023
+FN
+III
+17UCS09
+Core Course - IX: Programming in Java
+22.05.2023
+FN
+III
+17UCSM2
+Major Based Elective Course - II: Multimedia and its applications
+24.05.2023
+FN
+III
+17UCSM3
+Major Based Elective Course - III: Software Engineering
+27.05.2023
+FN
+
+B.Sc. Geography Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+17FTL01
+Tamil Language Course – I
+11.05.2023
+AN
+II
+17FEL01
+English Language Course - I
+13.05.2023
+AN
+III
+17ASTG1
+Allied Statistics Course-I: Applied Statistics - I
+16.05.2023
+AN
+III
+17UGY01
+Core Course – I: Physical Geography of India
+18.05.2023
+AN
+IV
+17UVABE
+Common Course - I: Value Based Education
+19.05.2023
+AN
+SEMESTER - II
+I
+17FTL02
+Tamil Language Course – II
+11.05.2023
+FN
+II
+17FEL02
+English Language Course – II
+13.05.2023
+FN
+III
+17ASTG2
+Allied Statistics Course - II: Applied Statistics-II
+16.05.2023
+FN
+III
+17UGY02
+Core Course – II: Economic Geography of India
+18.05.2023
+FN
+IV
+17UENST
+Common Course: Environmental Studies
+19.05.2023
+FN
+SEMESTER - III
+I
+17FTL03
+Tamil Language Course - III
+12.05.2023
+AN
+II
+17FEL03
+English Language Course - III
+15.05.2023
+AN
+III
+17AGL01
+Allied Geology Course - I:
+23.05.2023
+AN
+III
+17UGY03
+Core Course - III: Geomorphology
+25.05.2023
+AN
+IV
+17UGYN1
+Non Major Elective Course - I: Geography for Competitive Examination - I
+01.06.2023
+AN
+IV
+17UGYS1
+Skill Based Elective Course - I: Geography for Competitive Examinations - I
+02.06.2023
+AN
+SEMESTER - IV
+I
+17FTL04
+Tamil Language Course - IV
+12.05.2023
+FN
+II
+17FEL04
+English Language Course - IV
+15.05.2023
+FN
+III
+17AGL02
+Allied Geology Course - II:
+23.05.2023
+FN
+III
+17UGY04
+Core Course - IV: Climatology
+25.05.2023
+FN
+IV
+17UGYN2
+Non Major Elective Course - II: Geography for Competitive Examination - II
+01.06.2023
+FN
+IV
+17UGYS2
+Skill Based Elective Course - II: Geography for Competitive Examinations - II
+02.06.2023
+FN
+
+SEMESTER - V
+III
+17UGY05
+Core Course - V: Oceanography
+20.05.2023
+AN
+III
+17UGY06
+Core Course - VI: Human Geography
+22.05.2023
+AN
+III
+17UGY07
+Core Course - VII: Historical Geography
+24.05.2023
+AN
+III
+17UGYM1
+Major Based Elective Course - I: Geography of Asia
+27.05.2023
+AN
+IV
+17UGYS3
+Skill Based Elective Course - III: Tamil Nadu Rivers - Environmental
+29.05.2023
+AN
+IV
+17UGYS4
+Skill Based Elective Course - IV: Green Revolution
+30.05.2023
+AN
+SEMESTER - VI
+III
+17UGY08
+Core Course - VIII: Population Geography
+20.05.2023
+FN
+III
+17UGY09
+Core Course - IX: Cartography
+22.05.2023
+FN
+III
+17UGYM2
+Major Based Elective Course - II: Natural Regions of the World
+24.05.2023
+FN
+III
+17UGYM3
+Major Based Elective Course - III: Remote Sensing
+27.05.2023
+FN
+IV
+17UGYS5
+Skill Based Elective Course - V: Map Readings in Geography
+29.05.2023
+FN
+IV
+17UGYS6
+Skill Based Elective Course - VI: Climate Change and Global Warming
+30.05.2023
+FN
+
+B.Sc. Mathematics Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+17FTL01
+Tamil Language Course – I
+11.05.2023
+AN
+II
+17FEL01
+English Language Course - I
+13.05.2023
+AN
+III
+17APY01
+Allied Physics Course - I
+03.06.2023
+AN
+III
+17UMT01
+Core Course - I: Algebra and Trigonometry
+18.05.2023
+AN
+IV
+17UVABE
+Common Course - I: Value Based Education
+19.05.2023
+AN
+SEMESTER - II
+I
+17FTL02
+Tamil Language Course – II
+11.05.2023
+FN
+II
+17FEL02
+English Language Course – II
+13.05.2023
+FN
+III
+17APY02
+Allied physics course - II
+23.05.2023
+FN
+III
+17UMT02
+Core Course - II : Differential Calculus
+17.05.2023
+FN
+III
+17UMT03
+Core Course - III: Integral and Vector Calculus
+18.05.2023
+FN
+IV
+17UENST
+Common Course: Environmental Studies
+19.05.2023
+FN
+SEMESTER - III
+I
+17FTL03
+Tamil Language Course - III
+12.05.2023
+AN
+II
+17FEL03
+English Language Course - III
+15.05.2023
+AN
+III
+17ASTM1
+Allied Statistics Course - I: Mathematical Statistics - I
+23.05.2023
+AN
+III
+17UMT04
+Core Course – IV: Differential Equations
+25.05.2023
+AN
+IV
+17UMTN1
+Non Major Elective Course - I: Quantitative Aptitude
+01.06.2023
+AN
+IV
+17UMTS1
+Skill Based Elective Course – I: Basic Algebra
+02.06.2023
+AN
+SEMESTER - IV
+I
+17FTL04
+Tamil Language Course - IV
+12.05.2023
+FN
+II
+17FEL04
+English Language Course - IV
+15.05.2023
+FN
+III
+17ASTM2
+Allied Statistics Course - II: Mathematical Statistics - II
+23.05.2023
+FN
+III
+17UMT05
+Core Course - V : Integral Transforms
+25.05.2023
+FN
+III
+17UMT06
+Core Course - VI : Mechanics
+31.05.2023
+FN
+IV
+17UMTN2
+Non Major Elective Course - II: Matrix Algebra
+01.06.2023
+FN
+IV
+17UMTS2
+Skill Based Elective Course - II: Sequences and Series
+02.06.2023
+FN
+
+SEMESTER - V
+III
+17UMT07
+Core Course - VII: Modern Algebra - I
+20.05.2023
+AN
+III
+17UMT08
+Core Course - VIII: Real Analysis - I
+22.05.2023
+AN
+III
+17UMT09
+Core Course - IX: Complex Analysis - I
+24.05.2023
+AN
+III
+17UMTM1
+Major Based Elective Course- I: Graph Theory
+26.05.2023
+AN
+III
+17UMTM2
+Major Based Elective Course - II: Discrete Mathematics
+27.05.2023
+AN
+IV
+17UMTS3
+Skill Based Elective Course - III: Quantitative Aptitude - I
+29.05.2023
+AN
+IV
+17UMTS4
+Skill Based Elective Course - IV: Quantitative Aptitude - II
+30.05.2023
+AN
+SEMESTER - VI
+III
+17UMT10
+Core Course - X: Modern Algebra - II
+20.05.2023
+FN
+III
+17UMT11
+Core Course - XI: Real Analysis - II
+22.05.2023
+FN
+III
+17UMT12
+Core Course - XII: Complex Analysis - II
+24.05.2023
+FN
+III
+17UMTM3
+Major Based Elective Course - III: Operations Research
+26.05.2023
+FN
+III
+17UMTM4
+Major Based Elective Course - IV: Numerical Methods
+27.05.2023
+FN
+IV
+17UMTS5
+Skill Based Elective Course - V: Quantitative Aptitude - III
+29.05.2023
+FN
+IV
+17UMTS6
+Skill Based Elective Course - VI: Quantitative Aptitude - IV
+30.05.2023
+FN
+
+B.Sc. Physics Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+17FTL01
+Tamil Language Course – I
+11.05.2023
+AN
+II
+17FEL01
+English Language Course - I
+13.05.2023
+AN
+III
+17AMT01
+Allied Mathematics Course– I : Algebra, Calculus and Finite Differences
+16.05.2023
+AN
+III
+17UPY01
+Core Course - I: Mechanics and Sound
+18.05.2023
+AN
+IV
+17UVABE
+Common Course - I: Value Based Education
+19.05.2023
+AN
+SEMESTER - II
+I
+17FTL02
+Tamil Language Course – II
+11.05.2023
+FN
+II
+17FEL02
+English Language Course – II
+13.05.2023
+FN
+III
+17AMT02
+Allied Mathematics Course - II : Differential Equations and Laplace
+16.05.2023
+FN
+III
+17AMT03
+Allied Mathematics Course- III: Differentiation and Vector Calculus
+17.05.2023
+FN
+III
+17UPY02
+Core Course - II: Heat,Thermodynamics and statistical physics
+18.05.2023
+FN
+IV
+17UENST
+Common Course: Environmental Studies
+19.05.2023
+FN
+SEMESTER - III
+I
+17FTL03
+Tamil Language Course - III
+12.05.2023
+AN
+II
+17FEL03
+English Language Course - III
+15.05.2023
+AN
+III
+17ACH01
+Allied Course - I: Inorganic, Organic and Physical Chemistry-I
+23.05.2023
+AN
+III
+17UPY03
+Core Course - III: Properties of Matter
+25.05.2023
+AN
+IV
+17UPYN1
+Non Major Elective Course – I: Biophysics and Biomedical Instrumentation
+01.06.2023
+AN
+IV
+17UPYS1
+Skill Based Elective Course - I: Astronomy and Astro Physics
+02.06.2023
+AN
+SEMESTER - IV
+I
+17FTL04
+Tamil Language Course - IV
+12.05.2023
+FN
+II
+17FEL04
+English Language Course - IV
+15.05.2023
+FN
+III
+17ACH02
+Allied Course - II: Inorganic, Organic and Physical Chemistry - II
+23.05.2023
+FN
+III
+17UPY04
+Core Course - IV: Optics and Fibre Optics
+25.05.2023
+FN
+IV
+17UPYN2
+Non Major Elective Course - II: Maintenance and Repairing of Domestic Appliances
+01.06.2023
+FN
+IV
+17UPYS2
+Skill Based Elective Course - II: Programming in C Language
+02.06.2023
+FN
+
+SEMESTER - V
+III
+17UPY05
+Core Course - V: Electricity and Electromagnetism
+20.05.2023
+AN
+III
+17UPY06
+Core Course - VI: Basic Electronics and Digital Electronics
+22.05.2023
+AN
+III
+17UPY07
+Core Course - VII: Atomic Physics
+24.05.2023
+AN
+III
+17UPYM1
+Major Based Elective Course - I: Numerical Methods
+27.05.2023
+AN
+IV
+17UPYS3
+Skill Based Elective Course - III: Electronic Devices
+29.05.2023
+AN
+IV
+17UPYS4
+Skill Based Elective Course - IV: Fundamentals of Computers
+30.05.2023
+AN
+SEMESTER - VI
+III
+17UPY08
+Core Course - VIII: Nuclear Physics
+20.05.2023
+FN
+III
+17UPY09
+Core Course - IX: Quantum Mechanics and Relativity
+22.05.2023
+FN
+III
+17UPYM2
+Major Based Elective Course - II: Solid State Physics
+24.05.2023
+FN
+III
+17UPYM3
+Major Based Elective Course - III: Electronics and Communication
+27.05.2023
+FN
+IV
+17UPYS5
+Skill Based Elective Course - V: Electrical Appliances
+29.05.2023
+FN
+IV
+17UPYS6
+Skill Based Elective Course - VI: Microprocessor 8085 and Applications
+30.05.2023
+FN
+
+B.Sc. Statistics Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+17FTL01
+Tamil Language Course – I
+11.05.2023
+AN
+II
+17FEL01
+English Language Course - I
+13.05.2023
+AN
+III
+17AMT01
+Allied Mathematics Course– I : Algebra, Calculus and Finite Differences
+16.05.2023
+AN
+III
+17UST01
+Core Course - I: Descriptive Statistics
+18.05.2023
+AN
+IV
+17UVABE
+Common Course - I: Value Based Education
+19.05.2023
+AN
+SEMESTER - II
+I
+17FTL02
+Tamil Language Course – II
+11.05.2023
+FN
+II
+17FEL02
+English Language Course – II
+13.05.2023
+FN
+III
+17AMT02
+Allied Mathematics Course - II : Differential Equations and Laplace
+16.05.2023
+FN
+III
+17AMT03
+Allied Mathematics Course - III : Differentiation and Vector Calculus
+17.05.2023
+FN
+III
+17UST02
+Core Course-II: Probability theory
+18.05.2023
+FN
+IV
+17UENST
+Common Course: Environmental Studies
+19.05.2023
+FN
+SEMESTER - III
+I
+17FTL03
+Tamil Language Course - III
+12.05.2023
+AN
+II
+17FEL03
+English Language Course - III
+15.05.2023
+AN
+III
+17ASTS1
+Allied O.R. Course - I: Linear Programming and its Applications
+23.05.2023
+AN
+III
+17UST03
+Core Course - III: Distribution Theory
+25.05.2023
+AN
+IV
+17USTN1
+Non Major Elective Course - I: Statistics - I
+01.06.2023
+AN
+IV
+17USTS1
+Skill Based Elective Course - I: Basics for Statistics
+02.06.2023
+AN
+SEMESTER - IV
+I
+17FTL04
+Tamil Language Course - IV
+12.05.2023
+FN
+II
+17FEL04
+English Language Course - IV
+15.05.2023
+FN
+III
+17ASTS2
+Allied O.R. Course - II: Decision Theory and its Applications
+23.05.2023
+FN
+III
+17UST04
+Core Course - IV: Sampling Techniques
+25.05.2023
+FN
+IV
+17USTN2
+Non Major Elective Course - II: Statistics - II
+01.06.2023
+FN
+IV
+17USTS2
+Skill Based Elective Course - II: Computational Statistics - I
+02.06.2023
+FN
+
+SEMESTER - V
+III
+17UST05
+Core Course - V: Theory of Estimation
+20.05.2023
+AN
+III
+17UST06
+Core Course - VI: Demography
+22.05.2023
+AN
+III
+17UST07
+Core Course - VII: Statistical Quality Control
+24.05.2023
+AN
+III
+17USTM1
+Major Based Elective Course - I: Stochastic Process
+27.05.2023
+AN
+IV
+17USTS3
+Skill Based Elective Course - III: Regression Analysis
+29.05.2023
+AN
+IV
+17USTS4
+Skill Based Elective Course - IV: Econometrics
+30.05.2023
+AN
+SEMESTER - VI
+III
+17UST08
+Core Course - VIII: Testing of Hypothesis
+20.05.2023
+FN
+III
+17UST09
+Core Course - IX: Design of Experiments
+22.05.2023
+FN
+III
+17UST10
+Core Course - X: Applied Statistics
+24.05.2023
+FN
+III
+17USTM2
+Major Based Elective Course - II: Actuarial Statistics
+26.05.2023
+FN
+III
+17USTM3
+Major Based Elective Course - III: Numerical Analysis and C - Programming
+27.05.2023
+FN
+IV
+17USTS5
+Skill Based Elective Course -V: Computational Statistics - II
+29.05.2023
+FN
+IV
+17USTS6
+Skill Based Elective Course -VI: MS Excel
+30.05.2023
+FN
+
+B.Sc. Zoology Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+17FTL01
+Tamil Language Course – I
+11.05.2023
+AN
+II
+17FEL01
+English Language Course - I
+13.05.2023
+AN
+III
+17ABY01
+Allied Botany Course – I
+16.05.2023
+AN
+III
+17UZL01
+Core Course – I: Invertebrata
+18.05.2023
+AN
+IV
+17UVABE
+Common Course - I: Value Based Education
+19.05.2023
+AN
+SEMESTER - II
+I
+17FTL02
+Tamil Language Course – II
+11.05.2023
+FN
+II
+17FEL02
+English Language Course – II
+13.05.2023
+FN
+III
+17ABY02
+Allied Botany Course – II
+16.05.2023
+FN
+III
+17UZL02
+Core course – II : Chordata
+18.05.2023
+FN
+IV
+17UENST
+Common Course: Environmental Studies
+19.05.2023
+FN
+SEMESTER - III
+I
+17FTL03
+Tamil Language Course - III
+12.05.2023
+AN
+II
+17FEL03
+English Language Course - III
+15.05.2023
+AN
+III
+17ACH01
+Allied Course - I: Inorganic, Organic and Physical Chemistry-I
+23.05.2023
+AN
+III
+17UZL03
+Core Course - III: Cell Biology
+25.05.2023
+AN
+IV
+17UZLN1
+Non Major Elective Course - I: Public Health and Hygiene
+01.06.2023
+AN
+IV
+17UZLS1
+Skill Based Elective Course - I: Aquaculture
+02.06.2023
+AN
+SEMESTER - IV
+I
+17FTL04
+Tamil Language Course - IV
+12.05.2023
+FN
+II
+17FEL04
+English Language Course - IV
+15.05.2023
+FN
+III
+17ACH02
+Allied Course - II: Inorganic, Organic and Physical Chemistry - II
+23.05.2023
+FN
+III
+17UZL04
+Core Course - IV: Genetics
+25.05.2023
+FN
+IV
+17UZLN2
+Non Major Elective Course - II: Nutrition and Dietetics
+01.06.2023
+FN
+IV
+17UZLS2
+Skill Based Elective Course - II: Poultry Science
+02.06.2023
+FN
+
+SEMESTER - V
+III
+17UZL05
+Core Course - V: Animal Physiology
+20.05.2023
+AN
+III
+17UZL06
+Core Course - VI: Developmental Biology
+22.05.2023
+AN
+III
+17UZL07
+Core Course - VII: Microbiology
+24.05.2023
+AN
+III
+17UZLM1
+Major Based Elective Course - I: Medical Laboratory Techniques
+27.05.2023
+AN
+IV
+17UZLS3
+Skill Based Elective Course - III: Biostatistics and Computer Applications
+29.05.2023
+AN
+IV
+17UZLS4
+Skill Based Elective Course - IV: Vermitechnology
+30.05.2023
+AN
+SEMESTER - VI
+III
+17UZL08
+Core Course - VIII: Environmental Biology
+20.05.2023
+FN
+III
+17UZL09
+Core Course - IX: Evolution
+22.05.2023
+FN
+III
+17UZLM2
+Major Based Elective Course - II: Immunology
+24.05.2023
+FN
+III
+17UZLM3
+Major Based Elective Course - III: Biotechnology
+27.05.2023
+FN
+IV
+17UZLS5
+Skill Based Elective Course - V: Sericulture
+29.05.2023
+FN
+IV
+17UZLS6
+Skill Based Elective Course - VI: Health and Hygiene
+30.05.2023
+FN
+
+SEMESTER - I
+I
+21FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+21FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+21AECE1
+Allied - I - Course I : Principles of Marketing
+16.05.2023
+AN
+III
+21UEC01
+Core Course I : Micro Economics - I
+18.05.2023
+AN
+III
+21UEC02
+Core Course II : Indian Economy - Problems and Policies
+20.05.2023
+AN
+IV
+21AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+21UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+21FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+21FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+21AECE2
+Allied - I - Course II : Elements of Export Marketing
+16.05.2023
+FN
+III
+21UEC03
+Core Course III : Micro Economics - II
+18.05.2023
+FN
+III
+21UEC04
+Core Course IV : International Economics
+02.06.2023
+FN
+IV
+21AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+IV
+21UPE02
+Professional English - II
+10.05.2023
+FN
+SEMESTER - III
+I
+21FTL03
+Foundation Tamil - III
+12.05.2023
+AN
+II
+21FEL03
+Foundation English - I
+15.05.2023
+AN
+III
+21APL03
+Allied - II - Course I : Local Governments in India
+23.05.2023
+AN
+III
+21UEC05
+Core Course V : Monetary Economics - I
+25.05.2023
+AN
+III
+21UEC06
+Core Course VI : The Application of Statistical Methods in Economics - I
+31.05.2023
+AN
+IV
+21UECN1
+Non - Major Elective Course I : Economics for Competitive Examination-I
+01.06.2023
+AN
+IV
+21UECS1
+Skill Enhancement Course I : An Introduction to Entrepreneurial Development
+02.06.2023
+AN
+V
+21EXAT1
+Extension(Community Service) : National Cadet Corps
+09.05.2023
+AN
+V
+21EXAT2
+Extension(Community Service) : National Social Service
+09.05.2023
+AN
+V
+21EXAT3
+Extension(Community Awareness) : Indian Heritage and Culture
+09.05.2023
+AN
+V
+21EXAT4
+Extension(Community Awareness) : Public Health and Personal Hygiene
+09.05.2023
+AN
+SEMESTER - IV
+I
+21FTL04
+Foundation Tamil - IV
+12.05.2023
+FN
+II
+21FEL04
+Foundation English - II
+15.05.2023
+FN
+III
+21APL04
+Allied - II - Course II : Indian Political System
+23.05.2023
+FN
+III
+21UEC07
+Core Course VII: Monetary Economics - II
+25.05.2023
+FN
+III
+21UEC08
+Core Course VIII : The Application of Statistical Methods in Economics - II
+31.05.2023
+FN
+IV
+21AEEC1
+Ability Enhancement Elective Course I : Gandhian Thoughts
+09.05.2023
+FN
+IV
+21AEEC2
+Ability Enhancement Elective Course II : Human Rights
+09.05.2023
+FN
+IV
+21AEEC3
+Ability Enhancement Elective Course III : Business Startup Fundamentals
+09.05.2023
+FN
+IV
+21AEEC4
+Ability Enhancement Elective Course IV : Professional Ethics & Cyber Netiquette
+09.05.2023
+FN
+IV
+21UECN2
+Non Major Elective Course II : Economics for Competitive Examinations-II
+01.06.2023
+FN
+
+B.A. English Literature Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+21FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+21FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+21AEL01
+Allied Course I : Social History of England
+16.05.2023
+AN
+III
+21UEL01
+Core Course I : British Literature - I
+18.05.2023
+AN
+III
+21UEL02
+Core Course II : Indian Literatures in English
+20.05.2023
+AN
+IV
+21AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+21UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+21FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+21FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+21AEL02
+Allied Course II : Literary Forms and Terms
+16.05.2023
+FN
+III
+21UEL03
+Core Course III : British Literature - II (From 19th to 20th Century)
+18.05.2023
+FN
+III
+21UEL04
+Core Course IV : American Literature - I
+02.06.2023
+FN
+IV
+21AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+IV
+21UPE02
+Professional English - II
+10.05.2023
+FN
+SEMESTER - III
+I
+21FTL03
+Foundation Tamil - III
+12.05.2023
+AN
+II
+21FEL03
+Foundation English - I
+15.05.2023
+AN
+III
+21AEL03
+Allied Course III : History of English Literature - I
+23.05.2023
+AN
+III
+21UEL05
+Core Course V : American Literature - II
+25.05.2023
+AN
+III
+21UEL06
+Core Course VI : Commonwealth Literature
+31.05.2023
+AN
+IV
+21UELN1
+Non-Major Elective Course I : Academic Skills - I
+01.06.2023
+AN
+IV
+21UELS1
+Skill Enhancement Course I : Presentation Skills
+02.06.2023
+AN
+V
+21EXAT1
+Extension(Community Service) : National Cadet Corps
+09.05.2023
+AN
+V
+21EXAT2
+Extension(Community Service) : National Social Service
+09.05.2023
+AN
+V
+21EXAT3
+Extension(Community Awareness) : Indian Heritage and Culture
+09.05.2023
+AN
+V
+21EXAT4
+Extension(Community Awareness) : Public Health and Personal Hygiene
+09.05.2023
+AN
+
+SEMESTER - IV
+I
+21FTL04
+Foundation Tamil - IV
+12.05.2023
+FN
+II
+21FEL04
+Foundation English - II
+15.05.2023
+FN
+III
+21AEL04
+Allied Course IV : History of English Literature - II
+23.05.2023
+FN
+III
+21UEL07
+Core Course VII : Indian Literature in English Translation
+25.05.2023
+FN
+III
+21UEL08
+Core Course VIII : World Classics
+31.05.2023
+FN
+IV
+21AEEC1
+Ability Enhancement Elective Course I : Gandhian Thoughts
+09.05.2023
+FN
+IV
+21AEEC2
+Ability Enhancement Elective Course II : Human Rights
+09.05.2023
+FN
+IV
+21AEEC3
+Ability Enhancement Elective Course III : Business Startup Fundamentals
+09.05.2023
+FN
+IV
+21AEEC4
+Ability Enhancement Elective Course IV : Professional Ethics & Cyber Netiquette
+09.05.2023
+FN
+IV
+21UELN2
+Non-Major Elective Course - II: Academic Skills - II
+01.06.2023
+FN
+
+B.A. History Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+21FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+21FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+21AHT01
+Allied Course I : Tourism - Principles and Practices
+16.05.2023
+AN
+III
+21UHT01
+Core Course I : History of Ancient Tamilagam
+18.05.2023
+AN
+III
+21UHT02
+Core Course II: History of Ancient India upto 300 C.E.
+20.05.2023
+AN
+IV
+21AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+21UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+21FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+21FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+21AHT02
+Allied Course II : Marketing in Tourism and Travel Management
+16.05.2023
+FN
+III
+21UHT03
+Core Course III : History of Tamil Nadu From 1336 C.E. To 1947 C.E.
+18.05.2023
+FN
+III
+21UHT04
+Core Course IV : History of Ancient India From 300 C.E. To 1206 C.E.
+02.06.2023
+FN
+IV
+21AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+IV
+21UPE02
+Professional English - II
+10.05.2023
+FN
+SEMESTER - III
+I
+21FTL03
+Foundation Tamil - III
+12.05.2023
+AN
+II
+21FEL03
+Foundation English - I
+15.05.2023
+AN
+III
+21APL01
+Allied - I - Course I : Indian Government and Politics
+23.05.2023
+AN
+III
+21UHT05
+Core Course V : History of Contemporary Tamil Nadu From 1947 CE to 2016 CE
+25.05.2023
+AN
+III
+21UHT06
+Core Course VI : History of Medeival India From 1206 C.E. To 1707 C.E.
+31.05.2023
+AN
+IV
+21UHTN1
+Non-Major Elective Course I : Cultural Heritage of India
+01.06.2023
+AN
+IV
+21UHTS1
+Skill Enhancement Course I : Defence Studies
+02.06.2023
+AN
+V
+21EXAT1
+Extension(Community Service) : National Cadet Corps
+09.05.2023
+AN
+V
+21EXAT2
+Extension(Community Service) : National Social Service
+09.05.2023
+AN
+V
+21EXAT3
+Extension(Community Awareness) : Indian Heritage and Culture
+09.05.2023
+AN
+V
+21EXAT4
+Extension(Community Awareness) : Public Health and Personal Hygiene
+09.05.2023
+AN
+
+SEMESTER - IV
+I
+21FTL04
+Foundation Tamil - IV
+12.05.2023
+FN
+II
+21FEL04
+Foundation English - II
+15.05.2023
+FN
+III
+21APL02
+Allied - II - Course II : Modern Governments
+23.05.2023
+FN
+III
+21UHT07
+Core Course VII : History of Modern India From 1707 C.E.To1885 C.E.
+25.05.2023
+FN
+III
+21UHT08
+Core Course VIII : Rise of Modern Asia
+31.05.2023
+FN
+IV
+21AEEC1
+Ability Enhancement Elective Course I : Gandhian Thoughts
+09.05.2023
+FN
+IV
+21AEEC2
+Ability Enhancement Elective Course II : Human Rights
+09.05.2023
+FN
+IV
+21AEEC3
+Ability Enhancement Elective Course III : Business Startup Fundamentals
+09.05.2023
+FN
+IV
+21AEEC4
+Ability Enhancement Elective Course IV : Professional Ethics & Cyber Netiquette
+09.05.2023
+FN
+IV
+21UHTN2
+Non-Major Elective Course - II :India’s March Towards Freedom
+01.06.2023
+FN
+
+B.A. Political Science Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+21FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+21FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+21AHTA1
+Allied Course I : History - I
+23.05.2023
+AN
+III
+21UPS01
+Core Course I : Political Theory
+18.05.2023
+AN
+III
+21UPS02
+Core Course II : Organs of Government and Political Process
+20.05.2023
+AN
+IV
+21AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+21UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+21FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+21FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+21AHTA2
+Allied Course II : History - II
+23.05.2023
+FN
+III
+21UPS03
+Core Course III : Western Political Thought - I
+18.05.2023
+FN
+III
+21UPS04
+Core Course IV : Comparative Governments
+20.05.2023
+FN
+IV
+21AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+IV
+21UPE02
+Professional English - II
+10.05.2023
+FN
+SEMESTER - III
+I
+21FTL03
+Foundation Tamil - III
+12.05.2023
+AN
+II
+21FEL03
+Foundation English - I
+15.05.2023
+AN
+III
+21AEC01
+Allied Course I : Business Economics
+16.05.2023
+AN
+III
+21UPS05
+Core Course V : Western Political Thought - II
+25.05.2023
+AN
+III
+21UPS06
+Core Course VI : Indian Administration
+31.05.2023
+AN
+IV
+21UPSN1
+Non-Major Elective Course I : Indian Constitution
+01.06.2023
+AN
+IV
+21UPSS1
+Skill Enhancement Course I : Political Ideologies
+02.06.2023
+AN
+V
+21EXAT1
+Extension(Community Service) : National Cadet Corps
+09.05.2023
+AN
+V
+21EXAT2
+Extension(Community Service) : National Social Service
+09.05.2023
+AN
+V
+21EXAT3
+Extension(Community Awareness) : Indian Heritage and Culture
+09.05.2023
+AN
+V
+21EXAT4
+Extension(Community Awareness) : Public Health and Personal Hygiene
+09.05.2023
+AN
+
+SEMESTER - IV
+I
+21FTL04
+Foundation Tamil - IV
+12.05.2023
+FN
+II
+21FEL04
+Foundation English - II
+15.05.2023
+FN
+III
+21AEC02
+Allied Course II : Indian Economy
+16.05.2023
+FN
+III
+21UPS07
+Core Course VII : Government and Politics of Tamil Nadu
+25.05.2023
+FN
+III
+21UPS08
+Core Course VIII : Indian Political Thought
+31.05.2023
+FN
+IV
+21AEEC1
+Ability Enhancement Elective Course I : Gandhian Thoughts
+09.05.2023
+FN
+IV
+21AEEC2
+Ability Enhancement Elective Course II : Human Rights
+09.05.2023
+FN
+IV
+21AEEC3
+Ability Enhancement Elective Course III : Business Startup Fundamentals
+09.05.2023
+FN
+IV
+21AEEC4
+Ability Enhancement Elective Course IV : Professional Ethics & Cyber Netiquette
+09.05.2023
+FN
+IV
+21UPSN2
+Non-Major Elective Course II : Asian Political Thought
+01.06.2023
+FN
+
+B.A. Public Administration Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+21FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+21FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+21AEC01
+Allied Course I : Business Economics
+16.05.2023
+AN
+III
+21UPA01
+Core Course I : Introduction to Public Administration
+18.05.2023
+AN
+III
+21UPA02
+Core Course II : Administrative Thinkers
+20.05.2023
+AN
+IV
+21AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+21UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+21FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+21FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+21AEC02
+Allied Course II : Indian Economy
+16.05.2023
+FN
+III
+21UPA03
+Core Course III : Comparative Public Administration
+18.05.2023
+FN
+III
+21UPA04
+Core Course IV : Indian Administration
+20.05.2023
+FN
+IV
+21AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+IV
+21UPE02
+Professional English - II
+10.05.2023
+FN
+SEMESTER - III
+I
+21FTL03
+Foundation Tamil - III
+12.05.2023
+AN
+II
+21FEL03
+Foundation English - I
+15.05.2023
+AN
+III
+21AHTA1
+Allied Course I : History - I
+23.05.2023
+AN
+III
+21UPA05
+Core Course V : Public Personnel Administration
+25.05.2023
+AN
+III
+21UPA06
+Core Course VI : Human Resource Management
+31.05.2023
+AN
+IV
+21UPAN1
+Non-Major Elective Course I : NGO Management
+01.06.2023
+AN
+IV
+21UPAS1
+Skill Enhancement Course I : Political Ideology
+02.06.2023
+AN
+V
+21EXAT1
+Extension(Community Service) : National Cadet Corps
+09.05.2023
+AN
+V
+21EXAT2
+Extension(Community Service) : National Social Service
+09.05.2023
+AN
+V
+21EXAT3
+Extension(Community Awareness) : Indian Heritage and Culture
+09.05.2023
+AN
+V
+21EXAT4
+Extension(Community Awareness) : Public Health and Personal Hygiene
+09.05.2023
+AN
+
+SEMESTER - IV
+I
+21FTL04
+Foundation Tamil - IV
+12.05.2023
+FN
+II
+21FEL04
+Foundation English - II
+15.05.2023
+FN
+III
+21AHTA2
+Allied Course II : History - II
+23.05.2023
+FN
+III
+21UPA07
+Core Course VII : Public Policy Analysis
+25.05.2023
+FN
+III
+21UPA08
+Core Course VIII : Financial Administration
+31.05.2023
+FN
+IV
+21AEEC1
+Ability Enhancement Elective Course I : Gandhian Thoughts
+09.05.2023
+FN
+IV
+21AEEC2
+Ability Enhancement Elective Course II : Human Rights
+09.05.2023
+FN
+IV
+21AEEC3
+Ability Enhancement Elective Course III : Business Startup Fundamentals
+09.05.2023
+FN
+IV
+21AEEC4
+Ability Enhancement Elective Course IV : Professional Ethics & Cyber
+09.05.2023
+FN
+IV
+21UPAN2
+Non-Major Elective Course II : Asian Political Systems
+01.06.2023
+FN
+
+B.A. Tamil Literature Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+21FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+21FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+21ATL01
+Allied Course I : Tamizhar Varalarum Panpadum - I
+16.05.2023
+AN
+III
+21UTL01
+Core Course I : Ilakkanam - I Nannool-Ezhuththathigaram
+18.05.2023
+AN
+III
+21UTL02
+Core Course II : Ikkala Ilakkiyam - I Kavithaiyum Punaikathaiyum
+20.05.2023
+AN
+IV
+21AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+SEMESTER - II
+I
+21FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+21FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+21ATL02
+Allied Course II : Tamizhar Varalarum Panpadum - II
+16.05.2023
+FN
+III
+21UTL03
+Core Course III : Ilakkanam - II Nannool - Chollathigaram
+18.05.2023
+FN
+III
+21UTL04
+Core Course IV : Ikkala Ilakkiyam - II Urainadaiyum Nadagamum
+02.06.2023
+FN
+IV
+21AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+SEMESTER - III
+I
+21FTL03
+Foundation Tamil - III
+12.05.2023
+AN
+II
+21FEL03
+Foundation English - I
+15.05.2023
+AN
+III
+21ATL03
+Allied Course III : Tamil Ilakkana varalaru
+23.05.2023
+AN
+III
+21UTL05
+Core Course V : Ilakkanam - III Yapparungalakkarigai
+25.05.2023
+AN
+III
+21UTL06
+Core Course VI : Sitrilakkiyangal
+31.05.2023
+AN
+IV
+21UTLN1
+Non-Major Elective Course I : Nadaimurai Tamil Ilakkiam -I
+01.06.2023
+AN
+IV
+21UTLS1
+Skill Enhancement Course I : Sidtha Muligai Maruththuvam
+02.06.2023
+AN
+V
+21EXAT1
+Extension(Community Service) : National Cadet Corps
+09.05.2023
+AN
+V
+21EXAT2
+Extension(Community Service) : National Social Service
+09.05.2023
+AN
+V
+21EXAT3
+Extension(Community Awareness) : Indian Heritage and Culture
+09.05.2023
+AN
+V
+21EXAT4
+Extension(Community Awareness) : Public Health and Personal Hygiene
+09.05.2023
+AN
+
+SEMESTER - IV
+I
+21FTL04
+Foundation Tamil - IV
+12.05.2023
+FN
+II
+21FEL04
+Foundation English - II
+15.05.2023
+FN
+III
+21ATL04
+Allied Course IV : Ilakkia Iyakkangal
+23.05.2023
+FN
+III
+21UTL07
+Core Course VII : Thandialangaram
+25.05.2023
+FN
+III
+21UTL08
+Core Course VIII : Pakthi Ilakkiam
+31.05.2023
+FN
+IV
+21AEEC1
+Ability Enhancement Elective Course I : Gandhian Thoughts
+09.05.2023
+FN
+IV
+21AEEC2
+Ability Enhancement Elective Course II : Human Rights
+09.05.2023
+FN
+IV
+21AEEC3
+Ability Enhancement Elective Course III : Business Startup Fundamentals
+09.05.2023
+FN
+IV
+21AEEC4
+Ability Enhancement Elective Course IV : Professional Ethics & Cyber
+09.05.2023
+FN
+IV
+21UTLN2
+Non-Major Elective Course - II : Nadaimurai Tamil Ilakkiam -II
+01.06.2023
+FN
+
+B.B.A. Business Administration Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+21FTLB1
+Foundation Tamil - I
+11.05.2023
+AN
+II
+21FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+21AEC01
+Allied Course I : Business Economics
+16.05.2023
+AN
+III
+21UBN01
+Core Course I : Principles of Management
+18.05.2023
+AN
+III
+21UBN02
+Core Course II : Business Communication
+20.05.2023
+AN
+IV
+21AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+21UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+21FTLB2
+Foundation Tamil - II
+11.05.2023
+FN
+II
+21FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+21AEC02
+Allied Course II : Indian Economy
+16.05.2023
+FN
+III
+21UBN03
+Core Course III : Financial Accounting
+18.05.2023
+FN
+III
+21UBN04
+Core Course IV : Organisational Behaviour
+02.06.2023
+FN
+IV
+21AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+IV
+21UPE02
+Professional English - II
+10.05.2023
+FN
+SEMESTER - III
+III
+21ASTC1
+Allied - II - Course I : Business Statistics - I
+23.05.2023
+AN
+III
+21UBN05
+Core Course V : Financial Management
+12.05.2023
+AN
+III
+21UBN06
+Core Course VI : Marketing Management
+15.05.2023
+AN
+III
+21UBN07
+Core Course VII : Human Resource Management
+25.05.2023
+AN
+III
+21UBN08
+Core Course VIII : Production Management
+31.05.2023
+AN
+IV
+21UBNN1
+Non - Major Elective Course I: Fundamentals of Management
+01.06.2023
+AN
+IV
+21UBNS1
+Skill Enhancement Course I : Company Law
+02.06.2023
+AN
+V
+21EXAT1
+Extension(Community Service) : National Cadet Corps
+09.05.2023
+AN
+V
+21EXAT2
+Extension(Community Service) : National Social Service
+09.05.2023
+AN
+V
+21EXAT3
+Extension(Community Awareness) : Indian Heritage and Culture
+09.05.2023
+AN
+V
+21EXAT4
+Extension(Community Awareness) : Public Health and Personal Hygiene
+09.05.2023
+AN
+
+SEMESTER - IV
+III
+21ASTC2
+Allied - II - Course II : Business Statistics - II
+23.05.2023
+FN
+III
+21UBN09
+Core Course IX : Cost Accounting
+12.05.2023
+FN
+III
+21UBN10
+Core Course X : Entrepreneurial Development
+15.05.2023
+FN
+III
+21UBN11
+Core Course XI : Business Law
+25.05.2023
+FN
+III
+21UBN12
+Core Course XII : Services Marketing
+31.05.2023
+FN
+IV
+21AEEC1
+Ability Enhancement Elective Course I : Gandhian Thoughts
+09.05.2023
+FN
+IV
+21AEEC2
+Ability Enhancement Elective Course II : Human Rights
+09.05.2023
+FN
+IV
+21AEEC3
+Ability Enhancement Elective Course III : Business Startup Fundamentals
+09.05.2023
+FN
+IV
+21AEEC4
+Ability Enhancement Elective Course IV : Professional Ethics & Cyber Netiquette
+09.05.2023
+FN
+IV
+21UBNN2
+Non - Major Elective Course II: Basics of Human Resource Management
+01.06.2023
+FN
+
+B.C.A. Computer Applications Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+21FTLB1
+Foundation Tamil - I
+11.05.2023
+AN
+II
+21FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+21AMT01
+Allied - I - Course I : Mathematics - I
+16.05.2023
+AN
+III
+21UCA01
+Core Course I : Foundations of Computer Applications
+18.05.2023
+AN
+IV
+21AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+21UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+21FTLB2
+Foundation Tamil - II
+11.05.2023
+FN
+II
+21FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+21AMT02
+Allied - I - Course II : Mathematics - II
+16.05.2023
+FN
+III
+21UCA02
+Core Course II : Programming in C
+18.05.2023
+FN
+IV
+21AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+IV
+21UPE02
+Professional English - II
+10.05.2023
+FN
+SEMESTER - III
+III
+21ASTM1
+Allied - II - Course I : Mathematical Statistics - I
+23.05.2023
+AN
+III
+21UCA03
+Core Course III : Data and File Structures
+12.05.2023
+AN
+III
+21UCA04
+Core Course IV : Computer Architecture
+15.05.2023
+AN
+III
+21UCA05
+Core Course V : Object Oriented Programming using C++
+25.05.2023
+AN
+IV
+21UCAN1
+Non-Major Elective Course I : Principles of Internet
+01.06.2023
+AN
+V
+21EXAT1
+Extension(Community Service) : National Cadet Corps
+09.05.2023
+AN
+V
+21EXAT2
+Extension(Community Service) : National Social Service
+09.05.2023
+AN
+V
+21EXAT3
+Extension(Community Awareness) : Indian Heritage and Culture
+09.05.2023
+AN
+V
+21EXAT4
+Extension(Community Awareness) : Public Health and Personal Hygiene
+09.05.2023
+AN
+
+SEMESTER - IV
+III
+21ASTM2
+Allied - II - Course II : Mathematical Statistics - II
+23.05.2023
+FN
+III
+21UCA06
+Core Course VI : VB.NET Programming
+12.05.2023
+FN
+III
+21UCA07
+Core Course VII : Software Engineering
+15.05.2023
+FN
+III
+21UCA08
+Core Course VIII : Relational Database Management Systems
+25.05.2023
+FN
+IV
+21AEEC1
+Ability Enhancement Elective Course I : Gandhian Thoughts
+09.05.2023
+FN
+IV
+21AEEC2
+Ability Enhancement Elective Course II : Human Rights
+09.05.2023
+FN
+IV
+21AEEC3
+Ability Enhancement Elective Course III : Business Startup Fundamentals
+09.05.2023
+FN
+IV
+21AEEC4
+Ability Enhancement Elective Course IV : Professional Ethics & Cyber Netiquette
+09.05.2023
+FN
+IV
+21UCAN2
+Non-Major Elective Course II : Internet of Things(IoT)
+01.06.2023
+FN
+
+B.Com. Commerce Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+21FTLB1
+Foundation Tamil - I
+11.05.2023
+AN
+II
+21FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+21AEC01
+Allied Course I : Business Economics
+16.05.2023
+AN
+III
+21UCE01
+Core Course I : Financial Accounting - I
+18.05.2023
+AN
+III
+21UCE02
+Core Course II : Business Communication
+20.05.2023
+AN
+IV
+21AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+21UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+21FTLB2
+Foundation Tamil - II
+11.05.2023
+FN
+II
+21FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+21AEC02
+Allied Course II : Indian Economy
+16.05.2023
+FN
+III
+21UCE03
+Core Course III : Financial Accounting - II
+18.05.2023
+FN
+III
+21UCE04
+Core Course IV : Principles of Management
+02.06.2023
+FN
+IV
+21AECC2
+Ability Enhancement Compulsory Course - II : Environmental Studies
+19.05.2023
+FN
+IV
+21UPE02
+Professional English - II
+10.05.2023
+FN
+SEMESTER - III
+III
+21ASTC1
+Allied - II - Course I : Business Statistics - I
+23.05.2023
+AN
+III
+21UCE05
+Core Course V : Company Accounts - I
+12.05.2023
+AN
+III
+21UCE06
+Core Course VI : Business Law
+15.05.2023
+AN
+III
+21UCE07
+Core Course VII : Business Models
+25.05.2023
+AN
+III
+21UCE08
+Core Course VIII : Banking and Financial Institutions
+31.05.2023
+AN
+IV
+21UCEN1
+Non-Major Elective Course I : Principles of Commerce
+01.06.2023
+AN
+IV
+21UCES1
+Skill Enhancement Course I : Industrial Relations
+02.06.2023
+AN
+V
+21EXAT1
+Extension(Community Service) : National Cadet Corps
+09.05.2023
+AN
+V
+21EXAT2
+Extension(Community Service) : National Social Service
+09.05.2023
+AN
+V
+21EXAT3
+Extension(Community Awareness) : Indian Heritage and Culture
+09.05.2023
+AN
+V
+21EXAT4
+Extension(Community Awareness) : Public Health and Personal Hygiene
+09.05.2023
+AN
+
+SEMESTER - IV
+III
+21ASTC2
+Allied - II - Course II : Business Statistics - II
+23.05.2023
+FN
+III
+21UCE09
+Core Course IX : Company Accounts - II
+12.05.2023
+FN
+III
+21UCE10
+Core Course X : Company Law
+15.05.2023
+FN
+III
+21UCE11
+Core Course XI : Stock Exchange and Business Practices
+25.05.2023
+FN
+III
+21UCE12
+Core Course XII : Goods and Services Tax
+31.05.2023
+FN
+IV
+21AEEC1
+Ability Enhancement Elective Course I : Gandhian Thoughts
+09.05.2023
+FN
+IV
+21AEEC2
+Ability Enhancement Elective Course II : Human Rights
+09.05.2023
+FN
+IV
+21AEEC3
+Ability Enhancement Elective Course III : Business Startup Fundamentals
+09.05.2023
+FN
+IV
+21AEEC4
+Ability Enhancement Elective Course IV : Professional Ethics & Cyber Netiquette
+09.05.2023
+FN
+IV
+21UCEN2
+Non-Major Elective Course - II : Principles of Marketing
+01.06.2023
+FN
+
+B.Com. Co-operation Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+21FTLB1
+Foundation Tamil - I
+11.05.2023
+AN
+II
+21FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+21AEC01
+Allied Course I : Business Economics
+16.05.2023
+AN
+III
+21UCN01
+Core Course I : Theory of Cooperation
+18.05.2023
+AN
+III
+21UCN02
+Core Course II : Business Organisation
+20.05.2023
+AN
+IV
+21AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+21UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+21FTLB2
+Foundation Tamil - II
+11.05.2023
+FN
+II
+21FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+21AEC02
+Allied Course II : Indian Economy
+16.05.2023
+FN
+III
+21UCN03
+Core Course III : Cooperative Development in India
+18.05.2023
+FN
+III
+21UCN04
+Core Course IV : Principles of Accounting
+02.06.2023
+FN
+IV
+21AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+IV
+21UPE02
+Professional English - II
+10.05.2023
+FN
+SEMESTER - III
+III
+21ASTC1
+Allied - II - Course I : Business Statistics - I
+23.05.2023
+AN
+III
+21UCN05
+Core Course V : Cooperative Credit and Banking
+12.05.2023
+AN
+III
+21UCN06
+Core Course VI : Principles of Management
+15.05.2023
+AN
+III
+21UCN07
+Core Course VII : Cooperation in Abroad
+25.05.2023
+AN
+III
+21UCN08
+Core Course VIII : Principles of Marketing
+31.05.2023
+AN
+IV
+21UCNN1
+Non-Major Elective Course I : Dynamics of Cooperation
+01.06.2023
+AN
+IV
+21UCNS1
+Skill Enhancement Course I : MIS & Computer Applications
+02.06.2023
+AN
+V
+21EXAT1
+Extension(Community Service) : National Cadet Corps
+09.05.2023
+AN
+V
+21EXAT2
+Extension(Community Service) : National Social Service
+09.05.2023
+AN
+V
+21EXAT3
+Extension(Community Awareness) : Indian Heritage and Culture
+09.05.2023
+AN
+V
+21EXAT4
+Extension(Community Awareness) : Public Health and Personal Hygiene
+09.05.2023
+AN
+
+SEMESTER - IV
+III
+21ASTC2
+Allied - II - Course II : Business Statistics - II
+23.05.2023
+FN
+III
+21UCN09
+Core Course IX : Office Management
+12.05.2023
+FN
+III
+21UCN10
+Core Course X : Cost Accounting
+15.05.2023
+FN
+III
+21UCN11
+Core Course XI : Production, Trade and Service Cooperatives
+25.05.2023
+FN
+IV
+21AEEC1
+Ability Enhancement Elective Course I : Gandhian Thoughts
+09.05.2023
+FN
+IV
+21AEEC2
+Ability Enhancement Elective Course II : Human Rights
+09.05.2023
+FN
+IV
+21AEEC3
+Ability Enhancement Elective Course III : Business Startup Fundamentals
+09.05.2023
+FN
+IV
+21AEEC4
+Ability Enhancement Elective Course IV : Professional Ethics & Cyber Netiquette
+09.05.2023
+FN
+IV
+21UCNN2
+Non-Major Elective Course - II : Business Correspondence
+01.06.2023
+FN
+
+B.Com. Commerce(Computer Applications) Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+21FTLB1
+Foundation Tamil - I
+11.05.2023
+AN
+II
+21FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+21ABC01
+Allied - I - Course I : Business Application Software
+16.05.2023
+AN
+III
+21UBC01
+Core Course I : Financial Accounting - I
+18.05.2023
+AN
+III
+21UBC02
+Core Course II : Business Communication
+20.05.2023
+AN
+IV
+21AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+21UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+21FTLB2
+Foundation Tamil - II
+11.05.2023
+FN
+II
+21FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+21ABC02
+Allied - I - Course II : Database Management System
+16.05.2023
+FN
+III
+21UBC03
+Core Course III : Financial Accounting - II
+18.05.2023
+FN
+IV
+21AECC2
+Ability Enhancement Compulsory Course - II : Environmental Studies
+19.05.2023
+FN
+IV
+21UPE02
+Professional English - II
+10.05.2023
+FN
+SEMESTER - III
+III
+21ASTC1
+Allied - II - Course I : Business Statistics - I
+23.05.2023
+AN
+III
+21UBC04
+Core Course IV : Company Accounts - I
+12.05.2023
+AN
+III
+21UBC05
+Core Course V : Business Law
+15.05.2023
+AN
+III
+21UBC06
+Core Course VI : Business Models
+25.05.2023
+AN
+III
+21UBC07
+Core Course VII : Fundamentals of Computer and Tally
+31.05.2023
+AN
+IV
+21UBCN1
+Non-Major Elective Course I : Principles of Commerce
+01.06.2023
+AN
+IV
+21UBCS1
+Skill Enhancement Course I : Industrial Relations
+02.06.2023
+AN
+V
+21EXAT1
+Extension(Community Service) : National Cadet Corps
+09.05.2023
+AN
+V
+21EXAT2
+Extension(Community Service) : National Social Service
+09.05.2023
+AN
+V
+21EXAT3
+Extension(Community Awareness) : Indian Heritage and Culture
+09.05.2023
+AN
+V
+21EXAT4
+Extension(Community Awareness) : Public Health and Personal Hygiene
+09.05.2023
+AN
+
+SEMESTER - IV
+III
+21ASTC2
+Allied - II - Course II : Business Statistics - II
+23.05.2023
+FN
+III
+21UBC08
+Core Course VIII : Company Accounts - II
+12.05.2023
+FN
+III
+21UBC09
+Core Course IX : Company Law
+15.05.2023
+FN
+III
+21UBC10
+Core Course X : Stock Exchange and Business Practices
+25.05.2023
+FN
+IV
+21AEEC1
+Ability Enhancement Elective Course I : Gandhian Thoughts
+09.05.2023
+FN
+IV
+21AEEC2
+Ability Enhancement Elective Course II : Human Rights
+09.05.2023
+FN
+IV
+21AEEC3
+Ability Enhancement Elective Course III : Business Startup Fundamentals
+09.05.2023
+FN
+IV
+21AEEC4
+Ability Enhancement Elective Course IV : Professional Ethics & Cyber Netiquette
+09.05.2023
+FN
+IV
+21UBCN2
+Non-Major Elective Course - II : Principles of Marketing
+01.06.2023
+FN
+
+B.Sc. Applied Geology Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+21FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+21FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+21ACH01
+Allied Course I : Chemistry - I
+23.05.2023
+AN
+III
+21AMT01
+Allied - I - Course I : Mathematics - I
+16.05.2023
+AN
+III
+21UGL01
+Core Course I : Fundamentals of Geology
+18.05.2023
+AN
+IV
+21AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+21UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+21FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+21FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+21ACH02
+Allied Course II : Chemistry - II
+23.05.2023
+FN
+III
+21AMT02
+Allied - I - Course II : Mathematics - II
+16.05.2023
+FN
+III
+21UGL02
+Core Course II : Geomorphology and Structural Geology
+18.05.2023
+FN
+IV
+21AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+IV
+21UPE02
+Professional English - II
+10.05.2023
+FN
+SEMESTER - III
+I
+21FTL03
+Foundation Tamil - III
+12.05.2023
+AN
+II
+21FEL03
+Foundation English - I
+15.05.2023
+AN
+III
+21APY01
+Allied Course I : Physics - I
+17.05.2023
+AN
+III
+21UGL03
+Core Course III : Paleontology
+25.05.2023
+AN
+IV
+21UGLN1
+Non - Major Elective Course I : Natural Resource Management
+01.06.2023
+AN
+IV
+21UGLS1
+Skill Enhancement Course I : Fuel Geology
+02.06.2023
+AN
+V
+21EXAT1
+Extension(Community Service) : National Cadet Corps
+09.05.2023
+AN
+V
+21EXAT2
+Extension(Community Service) : National Social Service
+09.05.2023
+AN
+V
+21EXAT3
+Extension(Community Awareness) : Indian Heritage and Culture
+09.05.2023
+AN
+V
+21EXAT4
+Extension(Community Awareness) : Public Health and Personal Hygiene
+09.05.2023
+AN
+
+SEMESTER - IV
+I
+21FTL04
+Foundation Tamil - IV
+12.05.2023
+FN
+II
+21FEL04
+Foundation English - II
+15.05.2023
+FN
+III
+21APY02
+Allied Course II : Physics - II
+17.05.2023
+FN
+III
+21UGL04
+Core Course IV : Crystallography and Optical Mineralogy
+25.05.2023
+FN
+IV
+21AEEC1
+Ability Enhancement Elective Course I : Gandhian Thoughts
+09.05.2023
+FN
+IV
+21AEEC2
+Ability Enhancement Elective Course II : Human Rights
+09.05.2023
+FN
+IV
+21AEEC3
+Ability Enhancement Elective Course III : Business Startup Fundamentals
+09.05.2023
+FN
+IV
+21AEEC4
+Ability Enhancement Elective Course IV : Professional Ethics & Cyber Netiquette
+09.05.2023
+FN
+IV
+21UGLN2
+Non - Major Elective Course II : Natural Disaster Management
+01.06.2023
+FN
+
+B.Sc. Botany Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+21FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+21FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+21AZL01
+Allied - I - Course I : Zoology - I
+16.05.2023
+AN
+III
+21UBY01
+Core Course I : Algae and Bryophytes
+18.05.2023
+AN
+IV
+21AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+21UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+21FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+21FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+21AZL02
+Allied - I - Course II : Zoology - II
+16.05.2023
+FN
+III
+21UBY02
+Core Course II : Viruses, Bacteria, Fungi and Lichens
+18.05.2023
+FN
+IV
+21AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+IV
+21UPE02
+Professional English - II
+10.05.2023
+FN
+SEMESTER - III
+I
+21FTL03
+Foundation Tamil - III
+12.05.2023
+AN
+II
+21FEL03
+Foundation English - I
+15.05.2023
+AN
+III
+21ACH01
+Allied Course I : Chemistry - I
+23.05.2023
+AN
+III
+21UBY03
+Core Course III : Anatomy and Embryology of Angiosperms
+25.05.2023
+AN
+IV
+21UBYN1
+Non-Major Elective Course I : Mushroom Cultivation
+01.06.2023
+AN
+IV
+21UBYS1
+Skill Enhancement Course I : Microtechniques
+02.06.2023
+AN
+V
+21EXAT1
+Extension(Community Service) : National Cadet Corps
+09.05.2023
+AN
+V
+21EXAT2
+Extension(Community Service) : National Social Service
+09.05.2023
+AN
+V
+21EXAT3
+Extension(Community Awareness) : Indian Heritage and Culture
+09.05.2023
+AN
+V
+21EXAT4
+Extension(Community Awareness) : Public Health and Personal Hygiene
+09.05.2023
+AN
+
+SEMESTER - IV
+I
+21FTL04
+Foundation Tamil - IV
+12.05.2023
+FN
+II
+21FEL04
+Foundation English - II
+15.05.2023
+FN
+III
+21ACH02
+Allied Course II : Chemistry - II
+23.05.2023
+FN
+III
+21UBY04
+Core Course IV : Pteridophytes, Gymnosperms and Paleobotany
+25.05.2023
+FN
+IV
+21AEEC1
+Ability Enhancement Elective Course I : Gandhian Thoughts
+09.05.2023
+FN
+IV
+21AEEC2
+Ability Enhancement Elective Course II : Human Rights
+09.05.2023
+FN
+IV
+21AEEC3
+Ability Enhancement Elective Course III : Business Startup Fundamentals
+09.05.2023
+FN
+IV
+21AEEC4
+Ability Enhancement Elective Course IV : Professional Ethics & Cyber
+09.05.2023
+FN
+IV
+21UBYN2
+Non-Major Elective Course - II :Organic Farming
+01.06.2023
+FN
+
+B.Sc. Chemistry Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+21FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+21FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+21ABY01
+Allied - I - Course I : Botany - I
+16.05.2023
+AN
+III
+21AMT01
+Allied - I - Course I : Mathematics - I
+16.05.2023
+AN
+III
+21AZL01
+Allied - I - Course I : Zoology - I
+16.05.2023
+AN
+III
+21UCH01
+Core Course I : General Chemistry - I
+18.05.2023
+AN
+IV
+21AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+21UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+21FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+21FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+21ABY02
+Allied - I - Course II : Botany - II
+16.05.2023
+FN
+III
+21AMT02
+Allied - I - Course II : Mathematics - II
+16.05.2023
+FN
+III
+21AZL02
+Allied - I - Course II : Zoology - II
+16.05.2023
+FN
+III
+21UCH02
+Core Course II : General Chemistry - II
+18.05.2023
+FN
+IV
+21AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+IV
+21UPE02
+Professional English - II
+10.05.2023
+FN
+SEMESTER - III
+I
+21FTL03
+Foundation Tamil - III
+12.05.2023
+AN
+II
+21FEL03
+Foundation English - I
+15.05.2023
+AN
+III
+21APY01
+Allied Course I : Physics - I
+17.05.2023
+AN
+III
+21UCH03
+Core Course III : General Chemistry - III
+25.05.2023
+AN
+IV
+21UCHN1
+Non-Major Elective Course I : Chemistry in Daily Life - I
+01.06.2023
+AN
+IV
+21UCHS1
+Skill Enhancement Course I : Industrial Chemistry
+02.06.2023
+AN
+V
+21EXAT1
+Extension(Community Service) : National Cadet Corps
+09.05.2023
+AN
+V
+21EXAT2
+Extension(Community Service) : National Social Service
+09.05.2023
+AN
+V
+21EXAT3
+Extension(Community Awareness) : Indian Heritage and Culture
+09.05.2023
+AN
+V
+21EXAT4
+Extension(Community Awareness) : Public Health and Personal Hygiene
+09.05.2023
+AN
+
+SEMESTER - IV
+I
+21FTL04
+Foundation Tamil - IV
+12.05.2023
+FN
+II
+21FEL04
+Foundation English - II
+15.05.2023
+FN
+III
+21APY02
+Allied Course II : Physics - II
+17.05.2023
+FN
+III
+21UCH04
+Core Course IV : General Chemistry - IV
+25.05.2023
+FN
+IV
+21AEEC1
+Ability Enhancement Elective Course I : Gandhian Thoughts
+09.05.2023
+FN
+IV
+21AEEC2
+Ability Enhancement Elective Course II : Human Rights
+09.05.2023
+FN
+IV
+21AEEC3
+Ability Enhancement Elective Course III : Business Startup Fundamentals
+09.05.2023
+FN
+IV
+21AEEC4
+Ability Enhancement Elective Course IV : Professional Ethics & Cyber Netiquette
+09.05.2023
+FN
+IV
+21UCHN2
+Non-Major Elective Course II : Chemistry in Daily Life - II
+01.06.2023
+FN
+
+B.Sc. Computer Science Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+21FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+21FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+21AMT01
+Allied - I - Course I : Mathematics - I
+16.05.2023
+AN
+III
+21UCS01
+Core Course I : Computer Fundamentals and Python Programming
+18.05.2023
+AN
+IV
+21AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+21UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+21FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+21FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+21AMT02
+Allied - I - Course II : Mathematics - II
+16.05.2023
+FN
+III
+21UCS02
+Core Course II : Programming in C
+18.05.2023
+FN
+IV
+21AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+IV
+21UPE02
+Professional English - II
+10.05.2023
+FN
+SEMESTER - III
+I
+21FTL03
+Foundation Tamil - III
+12.05.2023
+AN
+II
+21FEL03
+Foundation English - I
+15.05.2023
+AN
+III
+21ASTM1
+Allied - II - Course I : Mathematical Statistics - I
+23.05.2023
+AN
+III
+21UCS03
+Core Course III : Data Structures and Algorithms
+25.05.2023
+AN
+IV
+21UCSN1
+Non-Major Elective Course I : Web Design: Basics
+01.06.2023
+AN
+V
+21EXAT1
+Extension(Community Service) : National Cadet Corps
+09.05.2023
+AN
+V
+21EXAT2
+Extension(Community Service) : National Social Service
+09.05.2023
+AN
+V
+21EXAT3
+Extension(Community Awareness) : Indian Heritage and Culture
+09.05.2023
+AN
+V
+21EXAT4
+Extension(Community Awareness) : Public Health and Personal Hygiene
+09.05.2023
+AN
+SEMESTER - IV
+I
+21FTL04
+Foundation Tamil - IV
+12.05.2023
+FN
+II
+21FEL04
+Foundation English - II
+15.05.2023
+FN
+III
+21ASTM2
+Allied - II - Course II : Mathematical Statistics - II
+23.05.2023
+FN
+III
+21UCS04
+Core Course IV : Web Technology
+25.05.2023
+FN
+IV
+21AEEC1
+Ability Enhancement Elective Course I : Gandhian Thoughts
+09.05.2023
+FN
+IV
+21AEEC2
+Ability Enhancement Elective Course II : Human Rights
+09.05.2023
+FN
+IV
+21AEEC3
+Ability Enhancement Elective Course III : Business Startup Fundamentals
+09.05.2023
+FN
+IV
+21AEEC4
+Ability Enhancement Elective Course IV : Professional Ethics & Cyber Netiquette
+09.05.2023
+FN
+IV
+21UCSN2
+Non-Major Elective Course - II : Web Design : Advanced
+01.06.2023
+FN
+
+B.Sc. Geography Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+21FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+21FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+21ASTG1
+Allied - I - Course I : Applied Statistics - I
+16.05.2023
+AN
+III
+21UGY01
+Core Course I : Geomorphology
+18.05.2023
+AN
+IV
+21AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+21UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+21FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+21FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+21ASTG2
+Allied - I - Course II : Applied Statistics - II
+16.05.2023
+FN
+III
+21UGY02
+Core Course II : Climatology
+18.05.2023
+FN
+IV
+21AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+IV
+21UPE02
+Professional English - II
+10.05.2023
+FN
+SEMESTER - III
+I
+21FTL03
+Foundation Tamil - III
+12.05.2023
+AN
+II
+21FEL03
+Foundation English - I
+15.05.2023
+AN
+III
+21AGL01
+Allied - II - Course I : Geology - I
+23.05.2023
+AN
+III
+21UGY03
+Core Course III : Oceanography
+25.05.2023
+AN
+IV
+21UGYN1
+Non-Major Elective Course I : Geography for Competitive Examinations - I
+01.06.2023
+AN
+IV
+21UGYS1
+Skill Enhancement Course I : Disaster Management
+02.06.2023
+AN
+V
+21EXAT1
+Extension(Community Service) : National Cadet Corps
+09.05.2023
+AN
+V
+21EXAT2
+Extension(Community Service) : National Social Service
+09.05.2023
+AN
+V
+21EXAT3
+Extension(Community Awareness) : Indian Heritage and Culture
+09.05.2023
+AN
+V
+21EXAT4
+Extension(Community Awareness) : Public Health and Personal Hygiene
+09.05.2023
+AN
+
+SEMESTER - IV
+I
+21FTL04
+Foundation Tamil - IV
+12.05.2023
+FN
+II
+21FEL04
+Foundation English - II
+15.05.2023
+FN
+III
+21AGL02
+Allied - II - Course II : Geology - II
+23.05.2023
+FN
+III
+21UGY04
+Core Course IV : Biogeography
+25.05.2023
+FN
+IV
+21AEEC1
+Ability Enhancement Elective Course I : Gandhian Thoughts
+09.05.2023
+FN
+IV
+21AEEC2
+Ability Enhancement Elective Course II : Human Rights
+09.05.2023
+FN
+IV
+21AEEC3
+Ability Enhancement Elective Course III : Business Startup Fundamentals
+09.05.2023
+FN
+IV
+21AEEC4
+Ability Enhancement Elective Course IV : Professional Ethics & Cyber Netiquette
+09.05.2023
+FN
+IV
+21UGYN2
+Non-Major Elective Course - II : Geography for Competitive Examinations - II
+01.06.2023
+FN
+
+B.Sc. Mathematics Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+21FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+21FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+21APY01
+Allied Course I : Physics - I
+17.05.2023
+AN
+III
+21UMT01
+Core Course I : Classical Algebra and Trigonometry
+18.05.2023
+AN
+III
+21UMT02
+Core Course - II : Differential Calculus
+20.05.2023
+AN
+IV
+21AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+21UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+21FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+21FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+21APY02
+Allied Course II : Physics - II
+17.05.2023
+FN
+III
+21UMT03
+Core Course III : Analytical Solid Geometry
+18.05.2023
+FN
+III
+21UMT04
+Core Course IV: Integral & Vector Calculus
+02.06.2023
+FN
+IV
+21AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+IV
+21UPE02
+Professional English - II
+10.05.2023
+FN
+SEMESTER - III
+I
+21FTL03
+Foundation Tamil - III
+12.05.2023
+AN
+II
+21FEL03
+Foundation English - I
+15.05.2023
+AN
+III
+21ASTM1
+Allied - II - Course I : Mathematical Statistics - I
+23.05.2023
+AN
+III
+21UMT05
+Core Course V : Differential Equations
+25.05.2023
+AN
+III
+21UMT06
+Core Course VI : Statics
+31.05.2023
+AN
+IV
+21UMTN1
+Non-Major Elective Course I : Basic Mathematics
+01.06.2023
+AN
+IV
+21UMTS1
+Skill Enhancement Course I : Basic Algebra
+02.06.2023
+AN
+V
+21EXAT1
+Extension(Community Service) : National Cadet Corps
+09.05.2023
+AN
+V
+21EXAT2
+Extension(Community Service) : National Social Service
+09.05.2023
+AN
+V
+21EXAT3
+Extension(Community Awareness) : Indian Heritage and Culture
+09.05.2023
+AN
+V
+21EXAT4
+Extension(Community Awareness) : Public Health and Personal Hygiene
+09.05.2023
+AN
+
+SEMESTER - IV
+I
+21FTL04
+Foundation Tamil - IV
+12.05.2023
+FN
+II
+21FEL04
+Foundation English - II
+15.05.2023
+FN
+III
+21ASTM2
+Allied - II - Course II : Mathematical Statistics - II
+23.05.2023
+FN
+III
+21UMT07
+Core Course VII : Integral transforms and Fourier Series
+25.05.2023
+FN
+III
+21UMT08
+Core Course VIII : Dynamics
+31.05.2023
+FN
+IV
+21AEEC1
+Ability Enhancement Elective Course I : Gandhian Thoughts
+09.05.2023
+FN
+IV
+21AEEC2
+Ability Enhancement Elective Course II : Human Rights
+09.05.2023
+FN
+IV
+21AEEC3
+Ability Enhancement Elective Course III : Business Startup Fundamentals
+09.05.2023
+FN
+IV
+21AEEC4
+Ability Enhancement Elective Course IV : Professional Ethics & Cyber Netiquette
+09.05.2023
+FN
+IV
+21UMTN2
+Non-Major Elective Course - II : (From other Departments)
+01.06.2023
+FN
+
+B.Sc. Physics Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+21FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+21FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+21AMT01
+Allied - I - Course I : Mathematics - I
+16.05.2023
+AN
+III
+21UPY01
+Core Course I : Mechanics and Sound
+18.05.2023
+AN
+IV
+21AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+21UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+21FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+21FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+21AMT02
+Allied - I - Course II : Mathematics - II
+16.05.2023
+FN
+III
+21UPY02
+Core Course II : Heat and Thermodynamics
+18.05.2023
+FN
+IV
+21AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+IV
+21UPE02
+Professional English - II
+10.05.2023
+FN
+SEMESTER - III
+I
+21FTL03
+Foundation Tamil - III
+12.05.2023
+AN
+II
+21FEL03
+Foundation English - I
+15.05.2023
+AN
+III
+21ACH01
+Allied Course I : Chemistry - I
+23.05.2023
+AN
+III
+21UPY03
+Core Course III : Properties of Matter
+25.05.2023
+AN
+IV
+21UPYN1
+Non-Major Elective Course I : Maintenance and repairing of Domestic
+01.06.2023
+AN
+IV
+21UPYS1
+Skill Enhancement Course I : Python Programming
+02.06.2023
+AN
+V
+21EXAT1
+Extension(Community Service) : National Cadet Corps
+09.05.2023
+AN
+V
+21EXAT2
+Extension(Community Service) : National Social Service
+09.05.2023
+AN
+V
+21EXAT3
+Extension(Community Awareness) : Indian Heritage and Culture
+09.05.2023
+AN
+V
+21EXAT4
+Extension(Community Awareness) : Public Health and Personal Hygiene
+09.05.2023
+AN
+
+SEMESTER - IV
+I
+21FTL04
+Foundation Tamil - IV
+12.05.2023
+FN
+II
+21FEL04
+Foundation English - II
+15.05.2023
+FN
+III
+21ACH02
+Allied Course II : Chemistry - II
+23.05.2023
+FN
+III
+21UPY04
+Core Course IV : Optics and spectroscopy
+25.05.2023
+FN
+IV
+21AEEC1
+Ability Enhancement Elective Course I : Gandhian Thoughts
+09.05.2023
+FN
+IV
+21AEEC2
+Ability Enhancement Elective Course II : Human Rights
+09.05.2023
+FN
+IV
+21AEEC3
+Ability Enhancement Elective Course III : Business Startup Fundamentals
+09.05.2023
+FN
+IV
+21AEEC4
+Ability Enhancement Elective Course IV : Professional Ethics & Cyber Netiquette
+09.05.2023
+FN
+IV
+21UPYN2
+Non-Major Elective Course II : Biomedical instrumentation
+01.06.2023
+FN
+
+B.Sc. Statistics Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+21FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+21FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+21AMT01
+Allied - I - Course I : Mathematics - I
+16.05.2023
+AN
+III
+21UST01
+Core Course I : Descriptive Statistics
+18.05.2023
+AN
+IV
+21AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+21UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+21FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+21FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+21AMT02
+Allied - I - Course II : Mathematics - II
+16.05.2023
+FN
+III
+21UST02
+Core Course II : Probability theory
+18.05.2023
+FN
+IV
+21AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+IV
+21UPE02
+Professional English - II
+10.05.2023
+FN
+SEMESTER - III
+I
+21FTL03
+Foundation Tamil - III
+12.05.2023
+AN
+II
+21FEL03
+Foundation English - I
+15.05.2023
+AN
+III
+21ASTS1
+Allied - II - Course I : Linear Programming and its Applications
+23.05.2023
+AN
+III
+21UST03
+Core Course III : Distribution Theory
+25.05.2023
+AN
+IV
+21USTN1
+Non-Major Elective Course I : Statistics for Business Analysis - I
+01.06.2023
+AN
+IV
+21USTS1
+Skill Enhancement Course I : Basics for Statistics
+02.06.2023
+AN
+V
+21EXAT1
+Extension(Community Service) : National Cadet Corps
+09.05.2023
+AN
+V
+21EXAT2
+Extension(Community Service) : National Social Service
+09.05.2023
+AN
+V
+21EXAT3
+Extension(Community Awareness) : Indian Heritage and Culture
+09.05.2023
+AN
+V
+21EXAT4
+Extension(Community Awareness) : Public Health and Personal Hygiene
+09.05.2023
+AN
+
+SEMESTER - IV
+I
+21FTL04
+Foundation Tamil - IV
+12.05.2023
+FN
+II
+21FEL04
+Foundation English - II
+15.05.2023
+FN
+III
+21ASTS2
+Allied - II - Course II : Decision Theory and its Applications
+23.05.2023
+FN
+III
+21UST04
+Core Course IV : Sampling Techniques
+25.05.2023
+FN
+IV
+21AEEC1
+Ability Enhancement Elective Course I : Gandhian Thoughts
+09.05.2023
+FN
+IV
+21AEEC2
+Ability Enhancement Elective Course II : Human Rights
+09.05.2023
+FN
+IV
+21AEEC3
+Ability Enhancement Elective Course III : Business Startup Fundamentals
+09.05.2023
+FN
+IV
+21AEEC4
+Ability Enhancement Elective Course IV : Professional Ethics & Cyber Netiquette
+09.05.2023
+FN
+IV
+21USTN2
+Non-Major Elective Course - II : Statistics for Business Analysis - II
+01.06.2023
+FN
+
+B.Sc. Zoology Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+21FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+21FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+21ABY01
+Allied - I - Course I : Botany - I
+16.05.2023
+AN
+III
+21UZL01
+Core Course I : Invertebrata
+18.05.2023
+AN
+IV
+21AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+21UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+21FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+21FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+21ABY02
+Allied - I - Course II : Botany - II
+16.05.2023
+FN
+III
+21UZL02
+Core Course II : Chordata
+18.05.2023
+FN
+IV
+21AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+IV
+21UPE02
+Professional English - II
+10.05.2023
+FN
+SEMESTER - III
+I
+21FTL03
+Foundation Tamil - III
+12.05.2023
+AN
+II
+21FEL03
+Foundation English - I
+15.05.2023
+AN
+III
+21ACH01
+Allied Course I : Chemistry - I
+23.05.2023
+AN
+III
+21UZL03
+Core Course III : Cell Biology
+25.05.2023
+AN
+IV
+21UZLN1
+Non-Major Elective Course I : Nutrition and Dietetics
+01.06.2023
+AN
+IV
+21UZLS1
+Skill Enhancement Course I : Aquaculture
+02.06.2023
+AN
+V
+21EXAT1
+Extension(Community Service) : National Cadet Corps
+09.05.2023
+AN
+V
+21EXAT2
+Extension(Community Service) : National Social Service
+09.05.2023
+AN
+V
+21EXAT3
+Extension(Community Awareness) : Indian Heritage and Culture
+09.05.2023
+AN
+V
+21EXAT4
+Extension(Community Awareness) : Public Health and Personal Hygiene
+09.05.2023
+AN
+
+SEMESTER - IV
+I
+21FTL04
+Foundation Tamil - IV
+12.05.2023
+FN
+II
+21FEL04
+Foundation English - II
+15.05.2023
+FN
+III
+21ACH02
+Allied Course II : Chemistry - II
+23.05.2023
+FN
+III
+21UZL04
+Core Course IV : Genetics
+25.05.2023
+FN
+IV
+21AEEC1
+Ability Enhancement Elective Course I : Gandhian Thoughts
+09.05.2023
+FN
+IV
+21AEEC2
+Ability Enhancement Elective Course II : Human Rights
+09.05.2023
+FN
+IV
+21AEEC3
+Ability Enhancement Elective Course III : Business Startup Fundamentals
+09.05.2023
+FN
+IV
+21AEEC4
+Ability Enhancement Elective Course IV : Professional Ethics & Cyber Netiquette
+09.05.2023
+FN
+IV
+21UZLN2
+Non-Major Elective Course - II : Economic Zoology
+01.06.2023
+FN
+
+
+B.A. Economics Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+22FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+22FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+22AECE1
+Allied - I - Course I : Principles of Marketing
+16.05.2023
+AN
+III
+22UEC01
+Core Course I : Micro Economics - I
+18.05.2023
+AN
+III
+22UEC02
+Core Course II : Indian Economy - Problems and Policies
+20.05.2023
+AN
+IV
+22AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+22UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+22FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+22FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+22AECE2
+Allied - I - Course II : Elements of Export Marketing
+16.05.2023
+FN
+III
+22UEC03
+Core Course III : Micro Economics - II
+18.05.2023
+FN
+III
+22UEC04
+Core Course IV : International Economics
+02.06.2023
+FN
+IV
+22AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+B.A. English Literature Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+22FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+22FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+22AEL01
+Allied Course I : Social History of England
+16.05.2023
+AN
+III
+22UEL01
+Core Course I : British Literature - I
+18.05.2023
+AN
+III
+22UEL02
+Core Course II : Indian Literatures in English
+20.05.2023
+AN
+IV
+22AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+22UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+22FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+22FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+22AEL02
+Allied Course II : Literary Forms and Terms
+16.05.2023
+FN
+III
+22UEL03
+Core Course III : British Literature - II (From 19th to 20th Century)
+18.05.2023
+FN
+III
+22UEL04
+Core Course IV : American Literature - I
+02.06.2023
+FN
+IV
+22AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+
+B.A. History Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+22FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+22FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+22AHT01
+Allied Course I : Tourism - Principles and Practices
+16.05.2023
+AN
+III
+22UHT01
+Core Course I : History of Ancient Tamilagam
+18.05.2023
+AN
+III
+22UHT02
+Core Course II: History of Ancient India upto 300 C.E.
+20.05.2023
+AN
+IV
+22AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+22UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+22FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+22FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+22AHT02
+Allied Course II : Marketing in Tourism and Travel Management
+16.05.2023
+FN
+III
+22UHT03
+Core Course III : History of Tamil Nadu From 1336 C.E. To 1947 C.E.
+18.05.2023
+FN
+III
+22UHT04
+Core Course IV : History of Ancient India From 300 C.E. To 1206 C.E.
+02.06.2023
+FN
+IV
+22AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+
+B.A. Political Science Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+22FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+22FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+22AHTA1
+Allied Course I : History - I
+23.05.2023
+AN
+III
+22UPS01
+Core Course I : Political Theory
+18.05.2023
+AN
+III
+22UPS02
+Core Course II : Organs of Government and Political Process
+20.05.2023
+AN
+IV
+22AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+22UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+22FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+22FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+22AHTA2
+Allied Course II : History - II
+23.05.2023
+FN
+III
+22UPS03
+Core Course III : Western Political Thought - I
+18.05.2023
+FN
+III
+22UPS04
+Core Course IV : Comparative Governments
+02.06.2023
+FN
+IV
+22AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+
+B.A. Public Administration Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+22FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+22FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+22AEC01
+Allied Course I : Business Economics
+16.05.2023
+AN
+III
+22UPA01
+Core Course I : Introduction to Public Administration
+18.05.2023
+AN
+III
+22UPA02
+Core Course II : Administrative Thinkers
+20.05.2023
+AN
+IV
+22AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+22UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+22FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+22FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+22AEC02
+Allied Course II : Indian Economy
+16.05.2023
+FN
+III
+22UPA03
+Core Course III : Comparative Public Administration
+18.05.2023
+FN
+III
+22UPA04
+Core Course IV : Indian Administration
+02.06.2023
+FN
+IV
+22AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+
+B.A. Tamil Literature Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+22FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+22FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+22ATL01
+Allied Course I : Tamizhar Varalarum Panpadum - I
+16.05.2023
+AN
+III
+22UTL01
+Core Course I : Ilakkanam - I Nannool-Ezhuththathigaram
+18.05.2023
+AN
+III
+22UTL02
+Core Course II : Ikkala Ilakkiyam - I Kavithaiyum Punaikathaiyum
+20.05.2023
+AN
+IV
+22AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+SEMESTER - II
+I
+22FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+22FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+22ATL02
+Allied Course II : Tamizhar Varalarum Panpadum - II
+16.05.2023
+FN
+III
+22UTL03
+Core Course III : Ilakkanam - II Nannool - Chollathigaram
+18.05.2023
+FN
+III
+22UTL04
+Core Course IV : Ikkala Ilakkiyam - II Urainadaiyum Nadagamum
+02.06.2023
+FN
+IV
+22AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+
+B.B.A. Business Administration Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+22FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+22FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+22AEC01
+Allied Course I : Business Economics
+16.05.2023
+AN
+III
+22UBN01
+Core Course I : Principles of Management
+18.05.2023
+AN
+III
+22UBN02
+Core Course II : Business Communication
+20.05.2023
+AN
+IV
+22AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+22UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+22FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+22FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+22AEC02
+Allied Course II : Indian Economy
+16.05.2023
+FN
+III
+22UBN03
+Core Course III : Financial Accounting
+18.05.2023
+FN
+III
+22UBN04
+Core Course IV : Organisational Behaviour
+02.06.2023
+FN
+IV
+22AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+
+B.C.A. Computer Applications Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+22FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+22FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+22AMT01
+Allied - I - Course I : Mathematics - I
+16.05.2023
+AN
+III
+22UCA01
+Core Course I : Foundations of Computer Applications
+18.05.2023
+AN
+IV
+22AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+22UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+22FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+22FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+22AMT02
+Allied - I - Course II : Mathematics - II
+16.05.2023
+FN
+III
+22UCA02
+Core Course II : Programming in C
+18.05.2023
+FN
+IV
+22AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+
+B.Com. Commerce Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+22FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+22FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+22AEC01
+Allied Course I : Business Economics
+16.05.2023
+AN
+III
+22UCE01
+Core Course I : Financial Accounting - I
+18.05.2023
+AN
+III
+22UCE02
+Core Course II : Business Communication
+20.05.2023
+AN
+IV
+22AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+22UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+22FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+22FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+22AEC02
+Allied Course II : Indian Economy
+16.05.2023
+FN
+III
+22UCE03
+Core Course III : Financial Accounting - II
+18.05.2023
+FN
+III
+22UCE04
+Core Course IV : Principles of Management
+02.06.2023
+FN
+IV
+22AECC2
+Ability Enhancement Compulsory Course - II : Environmental Studies
+19.05.2023
+FN
+
+B.Com. Co-operation Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+22FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+22FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+22AEC01
+Allied Course I : Business Economics
+16.05.2023
+AN
+III
+22UCN01
+Core Course I : Theory of Cooperation
+18.05.2023
+AN
+III
+22UCN02
+Core Course II : Business Organisation
+20.05.2023
+AN
+IV
+22AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+22UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+22FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+22FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+22AEC02
+Allied Course II : Indian Economy
+16.05.2023
+FN
+III
+22UCN03
+Core Course III : Cooperative Development in India
+18.05.2023
+FN
+III
+22UCN04
+Core Course IV : Principles of Accounting
+02.06.2023
+FN
+IV
+22AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+
+B.Com. Commerce(Computer Applications) Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+22FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+22FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+22ABC01
+Allied - I - Course I : Business Application Software
+16.05.2023
+AN
+III
+22UBC01
+Core Course I : Financial Accounting - I
+18.05.2023
+AN
+III
+22UBC02
+Core Course II : Business Communication
+20.05.2023
+AN
+IV
+22AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+22UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+22FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+22FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+22ABC02
+Allied - I - Course II : Database Management System
+16.05.2023
+FN
+III
+22UBC03
+Core Course III : Financial Accounting - II
+18.05.2023
+FN
+IV
+22AECC2
+Ability Enhancement Compulsory Course - II : Environmental Studies
+19.05.2023
+FN
+
+B.Sc. Applied Geology Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+22FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+22FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+22ACH01
+Allied Course I : Chemistry - I
+23.05.2023
+AN
+III
+22AMT01
+Allied - I - Course I : Mathematics - I
+16.05.2023
+AN
+III
+22UGL01
+Core Course I : Fundamentals of Geology
+18.05.2023
+AN
+IV
+22AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+22UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+22FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+22FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+22ACH02
+Allied Course II : Chemistry - II
+23.05.2023
+FN
+III
+22AMT02
+Allied - I - Course II : Mathematics - II
+16.05.2023
+FN
+III
+22UGL02
+Core Course II : Geomorphology and Structural Geology
+18.05.2023
+FN
+IV
+22AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+
+B.Sc. Botany Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+22FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+22FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+22AZL01
+Allied - I - Course I : Zoology - I
+16.05.2023
+AN
+III
+22UBY01
+Core Course I : Algae and Bryophytes
+18.05.2023
+AN
+IV
+22AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+22UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+22FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+22FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+22AZL02
+Allied - I - Course II : Zoology - II
+16.05.2023
+FN
+III
+22UBY02
+Core Course II : Viruses, Bacteria, Fungi and Lichens
+18.05.2023
+FN
+IV
+22AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+
+B.Sc. Chemistry Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+22FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+22FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+22ABY01
+Allied - I - Course I : Botany - I
+16.05.2023
+AN
+III
+22AMT01
+Allied - I - Course I : Mathematics - I
+16.05.2023
+AN
+III
+22AZL01
+Allied - I - Course I : Zoology - I
+16.05.2023
+AN
+III
+22UCH01
+Core Course I : General Chemistry - I
+18.05.2023
+AN
+IV
+22AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+22UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+22FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+22FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+22ABY02
+Allied - I - Course II : Botany - II
+16.05.2023
+FN
+III
+22AMT02
+Allied - I - Course II : Mathematics - II
+16.05.2023
+FN
+III
+22AZL02
+Allied - I - Course II : Zoology - II
+16.05.2023
+FN
+III
+22UCH02
+Core Course II : General Chemistry - II
+18.05.2023
+FN
+IV
+22AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+
+B.Sc. Computer Science Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+22FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+22FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+22AMT01
+Allied - I - Course I : Mathematics - I
+16.05.2023
+AN
+III
+22UCS01
+Core Course I : Computer Fundamentals and Python Programming
+18.05.2023
+AN
+IV
+22AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+22UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+22FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+22FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+22AMT02
+Allied - I - Course II : Mathematics - II
+16.05.2023
+FN
+III
+22UCS02
+Core Course II : Programming in C
+18.05.2023
+FN
+IV
+22AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+
+B.Sc. Geography Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+22FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+22FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+22ASTG1
+Allied - I - Course I : Applied Statistics - I
+16.05.2023
+AN
+III
+22UGY01
+Core Course I : Geomorphology
+18.05.2023
+AN
+IV
+22AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+22UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+22FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+22FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+22ASTG2
+Allied - I - Course II : Applied Statistics - II
+16.05.2023
+FN
+III
+22UGY02
+Core Course II : Climatology
+18.05.2023
+FN
+IV
+22AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+
+B.Sc. Mathematics Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+22FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+22FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+22APY01
+Allied Course I : Physics - I
+17.05.2023
+AN
+III
+22UMT01
+Core Course I : Classical Algebra and Trigonometry
+18.05.2023
+AN
+III
+22UMT02
+Core Course - II : Differential Calculus
+20.05.2023
+AN
+IV
+22AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+22UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+22FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+22FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+22APY02
+Allied Course II : Physics - II
+17.05.2023
+FN
+III
+22UMT03
+Core Course III : Analytical Solid Geometry
+18.05.2023
+FN
+III
+22UMT04
+Core Course IV: Integral & Vector Calculus
+02.06.2023
+FN
+IV
+22AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+
+B.Sc. Physics Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+22FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+22FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+22AMT01
+Allied - I - Course I : Mathematics - I
+16.05.2023
+AN
+III
+22UPY01
+Core Course I : Mechanics and Sound
+18.05.2023
+AN
+IV
+22AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+22UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+22FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+22FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+22AMT02
+Allied - I - Course II : Mathematics - II
+16.05.2023
+FN
+III
+22UPY02
+Core Course II : Heat and Thermodynamics
+18.05.2023
+FN
+IV
+22AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+
+B.Sc. Statistics Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+22FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+22FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+22AMT01
+Allied - I - Course I : Mathematics - I
+16.05.2023
+AN
+III
+22UST01
+Core Course I : Descriptive Statistics
+18.05.2023
+AN
+IV
+22AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+22UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+22FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+22FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+22AMT02
+Allied - I - Course II : Mathematics - II
+16.05.2023
+FN
+III
+22UST02
+Core Course II : Probability theory
+18.05.2023
+FN
+IV
+22AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+
+B.Sc. Zoology Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+I
+22FTL01
+Foundation Tamil - I
+11.05.2023
+AN
+II
+22FEL01
+Communicative English - I
+13.05.2023
+AN
+III
+22ABY01
+Allied - I - Course I : Botany - I
+16.05.2023
+AN
+III
+22UZL01
+Core Course I : Invertebrata
+18.05.2023
+AN
+IV
+22AECC1
+Ability Enhancement Compulsory Course - I : Value Based Education
+19.05.2023
+AN
+IV
+22UPE01
+Professional English - I
+10.05.2023
+AN
+SEMESTER - II
+I
+22FTL02
+Foundation Tamil - II
+11.05.2023
+FN
+II
+22FEL02
+Communicative English - II
+13.05.2023
+FN
+III
+22ABY02
+Allied - I - Course II : Botany - II
+16.05.2023
+FN
+III
+22UZL02
+Core Course II : Chordata
+18.05.2023
+FN
+IV
+22AECC2
+Ability Enhancement Compulsory Course - II: Environmental Studies
+19.05.2023
+FN
+
+----------------- compled up
+
+
+M.A. English Literature Degree Semester Examinations, MAY - 2023
+SEMESTER - IV
+
+17PEL12
+Core Course - XII : Translation Studies
+16.05.2023
+FN
+
+17PEL14
+Core Course - XIV : Eco Literature
+18.05.2023
+FN
+
+17PELM2
+Major Based Elective Course - II: Indian Diaspora Literature
+20.05.2023
+FN
+M.A. History Degree Semester Examinations, MAY - 2023
+
+17PHT14
+Core Course - XIV: Historiography and Research Methodology
+16.05.2023
+FN
+M.Sc. Botany Degree Semester Examinations, MAY - 2023
+SEMESTER - IV
+
+17PBY09
+Core Course - IX: Biochemistry and Biostatistics
+16.05.2023
+FN
+
+17PBY10
+Core Course - X: Research Methodology
+18.05.2023
+FN
+M.Sc. Zoology Degree Semester Examinations, MAY - 2023
+
+17PZL09
+Core Course - IX: Developmental Biology
+16.05.2023
+FN
+SEMESTER - IV
+17PZL10
+Core Course - X: Environmental Science and Toxicology
+18.05.2023
+FN
+17PZLM2
+Major Based Elective Course - II: Biotechnology
+20.05.2023
+FN
+M.Com. Commerce Degree Semester Examinations, MAY - 2023
+SEMESTER - IV
+
+17PCE12
+Core Course - XII: Banking
+16.05.2023
+FN
+M.A. Economics Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+
+21PEC01
+Core Course - I : Advanced Micro Economic Theory
+16.05.2023
+AN
+
+21PEC02
+Core Course - II : Quantitative Techniques for Economics
+18.05.2023
+AN
+
+21PEC03
+Core Course - III : International Trade and Policy
+20.05.2023
+AN
+
+21PEC04
+Core Course - IV : Financial Economics
+22.05.2023
+AN
+
+21PECM1
+Major Based Elective Course - I : Economics of Growth and Development
+24.05.2023
+AN
+
+21PECN1
+UGC-NET components of Economics Core Course in Semester - I
+05.05.2023
+AN
+
+21RAC01
+Research Acumen Course I : Intellectual Property Rights
+29.05.2023
+AN
+SEMESTER - II
+
+21PEC05
+Core Course - V : Welfare Economics
+17.05.2023
+FN
+
+21PEC06
+Core Course - VI : Research Methodology
+19.05.2023
+FN
+
+21PEC07
+Core Course - VII : Basic Econometrics
+23.05.2023
+FN
+
+21PEC08
+Core Course - VIII : International Business Management
+25.05.2023
+FN
+
+21PECM3
+Major Based Elective Course - III : Population Studies
+27.05.2023
+FN
+
+21PECN2
+UGC-NET components of Economics Core Course in Semester - II
+05.05.2023
+FN
+
+21RAC02
+Research Acumen Course II : Research Writing
+29.05.2023
+FN
+SEMESTER - III
+
+21PEC09
+Core Course - IX : Industrial Economics
+17.05.2023
+AN
+
+21PEC10
+Core Course - X : Monetary Economics
+19.05.2023
+AN
+
+21PEC11
+Core Course - XI : Environmental Economics
+23.05.2023
+AN
+
+21PEC12
+Core Course - XII : Economics of Human Resource
+25.05.2023
+AN
+
+21PECMT
+Interdisciplinary Course : Mathematical Economics
+27.05.2023
+AN
+
+21PECN3
+UGC-NET components of Economics Core Course in Semester - III
+08.05.2023
+AN
+SEMESTER - IV
+
+21PEC13
+Core Course - XIII : Macro Economics
+16.05.2023
+FN
+
+21PEC14
+Core Course - XIV : Public Economics
+18.05.2023
+FN
+
+21PEC15
+Core Course - XV : Agricultural Economics
+20.05.2023
+FN
+
+21PEC16
+Core Course - XVI : Indian Economic Development and Policy
+22.05.2023
+FN
+
+21PECN4
+UGC-NET components of Economics Core Course in Semester - IV
+08.05.2023
+FN
+
+21RAC03
+Research Acumen Course III : Research and Publication Ethics
+24.05.2023
+FN
+
+M.A. English Literature Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+
+21PEL01
+Core Course – I : Chaucer and Elizabethan Ages
+16.05.2023
+AN
+
+21PEL02
+Core Course – II : Restoration and Augustan Ages
+18.05.2023
+AN
+
+21PEL03
+Core Course – III : The Romantic Age
+20.05.2023
+AN
+
+21PEL04
+Core Course – IV : The Victorian Age
+22.05.2023
+AN
+
+21PELM1
+Major Based Elective Course - I : Language and Linguistics
+24.05.2023
+AN
+
+21PELN1
+UGC-NET Components of English Core Courses in Semester - I
+05.05.2023
+AN
+
+21RAC01
+Research Acumen Course I : Intellectual Property Rights
+29.05.2023
+AN
+SEMESTER - II
+
+21PEL05
+Core Course – V : Twentieth Century Literature
+17.05.2023
+FN
+
+21PEL06
+Core Course – VI : American Literatures
+19.05.2023
+FN
+
+21PEL07
+Core Course – VII : Modern Literary Criticism
+23.05.2023
+FN
+
+21PELM3
+Major Based Elective Course - III : Spiritual Literature
+25.05.2023
+FN
+
+21PELN2
+UGC-NET Components of English Core Courses in Semester - II
+05.05.2023
+FN
+
+21RAC02
+Research Acumen Course II : Research Writing
+29.05.2023
+FN
+SEMESTER - III
+
+21PEL08
+Core Course – VIII : Shakespeare
+17.05.2023
+AN
+
+21PEL09
+Core Course – IX : Cultural and Subaltern Studies
+19.05.2023
+AN
+
+21PEL10
+Core Course – X : New Literatures
+23.05.2023
+AN
+
+21PEL11
+Core Course – XI : Research Methodology And Rhetoric
+25.05.2023
+AN
+
+21PELHR
+Interdisciplinary Course : Human Rights And Literature
+10.05.2023
+FN
+
+21PELN3
+UGC-NET Components of English Core Courses in Semester - III
+08.05.2023
+AN
+SEMESTER - IV
+
+21PEL12
+Core Course – XII : Women's Writing
+16.05.2023
+FN
+
+21PEL13
+Core Course – XIII : Eco Literature
+18.05.2023
+FN
+
+21PEL14
+Core Course – XIV : Translation Studies
+20.05.2023
+FN
+
+21PEL15
+Core Course – XV : Indian Writing In English
+22.05.2023
+FN
+
+21PELN4
+UGC-NET Components of English Core Courses in Semester - IV
+08.05.2023
+FN
+
+21RAC03
+Research Acumen Course III : Research and Publication Ethics
+24.05.2023
+FN
+
+M.A. History Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+
+21PHT01
+Core Course – I : History of Ancient India up to 712 CE
+16.05.2023
+AN
+
+21PHT02
+Core Course – II : History of Early Medieval India from 712 CE to 1526 CE
+18.05.2023
+AN
+
+21PHT03
+Core Course – III : Socio-Economic and Cultural History of Tamil Nadu Up to
+1565 CE
+20.05.2023
+AN
+
+21PHT04
+Core Course – IV : History of Later Medieval and Early Modern India 1526
+CE to 1885 CE
+22.05.2023
+AN
+
+21PHTM1
+Major Based Elective Course - I : National Movement and Constitutional
+Development in India
+24.05.2023
+AN
+
+21PHTN1
+UGC-NET Components of History Core Courses in Semester - I
+05.05.2023
+AN
+
+21RAC01
+Research Acumen Course I : Intellectual Property Rights
+29.05.2023
+AN
+SEMESTER - II
+
+21PHT05
+Core Course – V : Socio-Economic and Cultural history of Tamil Nadu from
+17.05.2023
+FN
+
+21PHT06
+Core Course – VI : Contemporary History of India from 1947 to 2014 CE
+19.05.2023
+FN
+
+21PHT07
+Core Course – VII : Working of Indian Constitution
+23.05.2023
+FN
+
+21PHT08
+Core Course – VIII : History of Kongu Nadu
+25.05.2023
+FN
+
+21PHTM3
+Major Based Elective Course - III : History of Modern Civil Service
+Administration in India
+27.05.2023
+FN
+
+21PHTN2
+UGC-NET Components of History Core Courses in Semester - II
+05.05.2023
+FN
+
+21RAC02
+Research Acumen Course II : Research Writing
+29.05.2023
+FN
+SEMESTER - III
+
+21PHT09
+Core Course – IX : Principles and Methods of Archaeology
+17.05.2023
+AN
+
+21PHT10
+Core Course – X : History of Ancient Civilization
+19.05.2023
+AN
+
+21PHT11
+Core Course – XI : History of Modern World from 1453 CE to 1789 CE
+23.05.2023
+AN
+
+21PHT12
+Core Course – XII : Historiography
+25.05.2023
+AN
+
+21PHTN3
+UGC-NET Components of History Core Courses in Semester - III
+08.05.2023
+AN
+
+21PHTTL
+Interdisciplinary Course : Political History of Modern Tamil Nadu from 1800
+CE to 2000 CE
+10.05.2023
+FN
+SEMESTER - IV
+
+21PHT13
+Core Course – XIII : History of Art and Architecture in South India
+16.05.2023
+FN
+
+21PHT14
+Core Course – XIV : History of Modern World from 1789 to 1945 CE
+18.05.2023
+FN
+
+21PHT15
+Core Course – XV : International Relations Since 1945 CE
+20.05.2023
+FN
+
+21PHT16
+Core Course – XVI : Research Methodology in History
+22.05.2023
+FN
+
+21PHTN4
+UGC-NET Components of History Core Courses in Semester - IV
+08.05.2023
+FN
+
+21RAC03
+Research Acumen Course III : Research and Publication Ethics
+24.05.2023
+FN
+
+M.A. Human Rights Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+
+21PHR01
+Core Course - I : Foundations of Human Rights
+16.05.2023
+AN
+
+21PHR02
+Core Course - II : Development of Human Rights
+18.05.2023
+AN
+
+21PHR03
+Core Course - III : Human Rights and Duties under Indian Constitution
+20.05.2023
+AN
+
+21PHR04
+Core Course - IV : Human Rights Movements in India
+22.05.2023
+AN
+
+21PHRM1
+Major Based Elective Course - I : Historical Perspectives of Indian Polity
+24.05.2023
+AN
+
+21PHRN1
+UGC-NET Components of Human Rights Core Course in Semester - I
+05.05.2023
+AN
+
+21RAC01
+Research Acumen Course I : Intellectual Property Rights
+29.05.2023
+AN
+SEMESTER - II
+
+21PHR05
+Core Course - V : Criminal Justice Administration and Human Rights
+17.05.2023
+FN
+
+21PHR06
+Core Course - VI : Human Rights Advocacy and Redressal of Grievances
+19.05.2023
+FN
+
+21PHR07
+Core Course - VII : Contemporary Issues of Human Rights
+23.05.2023
+FN
+
+21PHR08
+Core Course - VIII : Group Rights
+25.05.2023
+FN
+
+21PHRM3
+Major Based Elective Course - III : Indian Administration and Human Rights
+27.05.2023
+FN
+
+21PHRN2
+UGC-NET Components of Human Rights Core Course in Semester - II
+05.05.2023
+FN
+
+21RAC02
+Research Acumen Course II : Research Writing
+29.05.2023
+FN
+SEMESTER - III
+
+21PELHR
+Interdisciplinary Course : Human Rights and Literature
+10.05.2023
+FN
+
+21PHR09
+Core Course - IX : Defending Women's Rights
+17.05.2023
+AN
+
+21PHR10
+Core Course - X : Research Methodology
+19.05.2023
+AN
+
+21PHR11
+Core Course - XI : Police Administration and Human Rights
+23.05.2023
+AN
+
+21PHR12
+Core Course - XII : Media and Human Rights
+25.05.2023
+AN
+
+21PHRN3
+UGC-NET Components of Human Rights Core Course in Semester - III
+08.05.2023
+AN
+SEMESTER - IV
+
+21PHR13
+Core Course - XIII : Cyber Issues and Human Rights
+16.05.2023
+FN
+
+21PHR14
+Core Course - XIV : Bio Medical Ethics and Human Rights
+18.05.2023
+FN
+
+21PHR15
+Core Course - XV : Working Class and Human Rights and Duties
+20.05.2023
+FN
+
+21PHR16
+Core Course - XVI : Human Rights and Indian Polity
+22.05.2023
+FN
+
+21PHRN4
+UGC-NET Components of Human Rights Core Course in Semester - IV
+08.05.2023
+FN
+
+21RAC03
+Research Acumen Course III : Research and Publication Ethics
+24.05.2023
+FN
+
+M.A. Political Science Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+
+21PPS01
+Core Course – I : Principles of Political science - I
+16.05.2023
+AN
+
+21PPS02
+Core Course – II : Contemporary Political System
+18.05.2023
+AN
+
+21PPS03
+Core Course – III : Constitutional Development in India
+20.05.2023
+AN
+
+21PPS04
+Core Course – IV : Indian Political Thought
+22.05.2023
+AN
+
+21PPSM1
+Major Based Elective Course – I : Principles of Public Administration
+24.05.2023
+AN
+
+21PPSN1
+UGC-NET Components of Political Science Core Courses in Semester - I
+05.05.2023
+AN
+
+21RAC01
+Research Acumen Course I : Intellectual Property Rights
+29.05.2023
+AN
+SEMESTER - II
+
+21PPS05
+Core Course – V : International Politics
+17.05.2023
+FN
+
+21PPS06
+Core Course – VI : Modern Political Analysis
+19.05.2023
+FN
+
+21PPS07
+Core Course – VII : Western Political Thought
+23.05.2023
+FN
+
+21PPS08
+Core Course – VIII : Government and Politics of Tamilnadu
+25.05.2023
+FN
+
+21PPSM3
+Major Based Elective Course – III : Human Rights in India
+27.05.2023
+FN
+
+21PPSN2
+UGC-NET Components of Political Science Core Courses in Semester - II
+05.05.2023
+FN
+
+21RAC02
+Research Acumen Course II : Research Writing
+29.05.2023
+FN
+SEMESTER - III
+
+21PGYPS
+Interdisciplinary Course : Geopolitics
+10.05.2023
+FN
+
+21PPS09
+Core Course – IX : Research Methodology
+17.05.2023
+AN
+
+21PPS10
+Core Course – X : Indian Government And Politics
+19.05.2023
+AN
+
+21PPS11
+Core Course – XI : Local Government in India
+23.05.2023
+AN
+
+21PPS12
+Core Course – XII : Indian Constitution
+25.05.2023
+AN
+
+21PPSN3
+UGC-NET Components of Political Science Core Courses in Semester - III
+08.05.2023
+AN
+SEMESTER - IV
+
+21PPS13
+Core Course – XIII : Legislative Procedures in India
+16.05.2023
+FN
+
+21PPS14
+Core Course – XIV : Foreign Policy of India
+18.05.2023
+FN
+
+21PPS15
+Core Course – XV : Political Ideologies
+20.05.2023
+FN
+
+21PPS16
+Core Course – XVI : Indian Administration
+22.05.2023
+FN
+
+21PPSN4
+UGC-NET Components of Political Science Core Courses in Semester - IV
+08.05.2023
+FN
+
+21RAC03
+Research Acumen Course III : Research and Publication Ethics
+24.05.2023
+FN
+
+M.A. Tamil Literature Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+
+21PTL01
+Core Course - I : Tholkappiam - Ezhuththathigaram
+16.05.2023
+AN
+
+21PTL02
+Core Course - II : Ikkala Ilakkiam
+18.05.2023
+AN
+
+21PTL03
+Core Course - III : Sittrilakkiangal
+20.05.2023
+AN
+
+21PTL04
+Core Course - IV : Nattuppuraviyal
+22.05.2023
+AN
+
+21PTLM1
+Major Based Elective Course - I : Tamizhar Kalaigal
+24.05.2023
+AN
+
+21PTLN1
+UGC-NET Components of Tamil Core Courses in Semester - I
+05.05.2023
+AN
+
+21RAC01
+Research Acumen Course I : Intellectual Property Rights
+29.05.2023
+AN
+SEMESTER - II
+
+21PTL05
+Core Course – V : Tholkappiam – Solladhigaram
+17.05.2023
+FN
+
+21PTL06
+Core Course – VI : Oppilakkiam
+19.05.2023
+FN
+
+21PTL07
+Core Course – VII : Kappiyangal
+23.05.2023
+FN
+
+21PTL08
+Core Course – VIII : Mozhiyiyal
+25.05.2023
+FN
+
+21PTLM3
+Major Based Elective Course - III : Sinthanaiyiyal
+27.05.2023
+FN
+
+21PTLN2
+UGC-NET Components of Tamil Core Courses in Semester - II
+05.05.2023
+FN
+
+21RAC02
+Research Acumen Course II : Research Writing
+29.05.2023
+FN
+SEMESTER - III
+
+21PHTTL
+Interdisciplinary Course : Political History of Modern Tamil Nadu from 1800 CE to 2000 CE
+10.05.2023
+FN
+
+21PTL09
+Core Course – IX : Tholkappiam - Porulathigaram
+17.05.2023
+AN
+
+21PTL10
+Core Course – X : Sanga Ilakkiam - Agam
+19.05.2023
+AN
+
+21PTL11
+Core Course – XI : Tamil Ilakkiya Arachchi varalaru
+23.05.2023
+AN
+
+21PTL12
+Core Course – XII : Ara Ilakkiam
+25.05.2023
+AN
+
+21PTLN3
+UGC-NET Components of Tamil Core Courses in Semester - III
+08.05.2023
+AN
+SEMESTER - IV
+
+21PTL13
+Core Course – XIII : Sanga Ilakkiyam – Puram
+16.05.2023
+FN
+
+21PTL14
+Core Course – XIV : Kambaramayanam
+18.05.2023
+FN
+
+21PTL15
+Core Course – XV : Mozhi peyarppu Ilakkiyam
+20.05.2023
+FN
+
+21PTL16
+Core Course – XVI : Inaiya Tamizh
+22.05.2023
+FN
+
+21PTLN4
+UGC-NET Components of Tamil Core Courses in Semester - IV
+08.05.2023
+FN
+
+21RAC03
+Research Acumen Course III : Research and Publication Ethics
+24.05.2023
+FN
+
+M.C.A. Computer Applications Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+
+21PCA01
+Core Course - I : Discrete Structures
+16.05.2023
+AN
+
+21PCA02
+Core Course - II : Data Structures and Algorithms
+18.05.2023
+AN
+
+21PCA03
+Core Course - III : Relational Database Management Systems
+22.05.2023
+AN
+
+21PCA04
+Core Course – IV : Programming in Python
+24.05.2023
+AN
+
+21PCAMC
+Major Based Elective Course - III : Advanced Operating Systems
+26.05.2023
+AN
+
+21RAC01
+Research Acumen Course - I : Intellectual Property Rights
+29.05.2023
+AN
+SEMESTER - II
+
+21PCA05
+Core Course - V : Computer Oriented Numerical and Statistical Methods
+17.05.2023
+FN
+
+21PCA06
+Core Course – VI : Computer Architecture
+19.05.2023
+FN
+
+21PCA07
+Core Course - VII : Object Oriented Programming using Java
+23.05.2023
+FN
+
+21PCA08
+Core Course - VIII : Open Source Software
+25.05.2023
+FN
+
+21PCAME
+Major Based Elective Course – V : Social Network Mining and Analysis
+27.05.2023
+FN
+
+21RAC02
+Research Acumen Course II : Research Writing
+29.05.2023
+FN
+SEMESTER - III
+
+21PCA09
+Core Course - IX : Operations Research
+17.05.2023
+AN
+
+21PCA10
+Core Course – X : Programming in .NET
+19.05.2023
+AN
+
+21PCA11
+Core Course - XI : Cloud Computing and Big Data
+23.05.2023
+AN
+
+21PCACN
+Interdisciplinary Course : Management Information System
+27.05.2023
+AN
+
+21PCAMG
+Major Based Elective Course – IV : Angular
+25.05.2023
+AN
+
+21PCAMJ
+Major Based Elective Course – VII : Internet of Things
+30.05.2023
+AN
+SEMESTER - IV
+
+21RAC03
+Research Acumen Course III : Research and Publication Ethics
+24.05.2023
+FN
+
+M.Com. Commerce Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+
+21PCE01
+Core Course – I : International Trade
+16.05.2023
+AN
+
+21PCE02
+Core Course – II : Human Resource Management
+18.05.2023
+AN
+
+21PCE03
+Core Course – III : Advanced Managerial Accounting
+20.05.2023
+AN
+
+21PCE04
+Core Course – IV : Organizational Behaviour
+22.05.2023
+AN
+
+21PCEM1
+Major Based Elective Course - I : Statistical Analysis
+24.05.2023
+AN
+
+21PCEN1
+UGC-NET Components of Commerce Core Courses in Semester - I
+05.05.2023
+AN
+
+21RAC01
+Research Acumen Course I : Intellectual Property Rights
+29.05.2023
+AN
+SEMESTER - II
+
+21PCE05
+Core Course – V : Corporate Laws
+17.05.2023
+FN
+
+21PCE06
+Core Course – VI : Advanced Accounting
+19.05.2023
+FN
+
+21PCE07
+Core Course – VII : Business Environment
+23.05.2023
+FN
+
+21PCEM3
+Major Based Elective Course - III: Quantitative Techniques for Business
+Decisions
+25.05.2023
+FN
+
+21PCEN2
+UGC-NET Components of Commerce Core Courses in Semester - II
+05.05.2023
+FN
+
+21RAC02
+Research Acumen Course II : Research Writing
+29.05.2023
+FN
+SEMESTER - III
+
+21PCE08
+Core Course – VIII : Research Methodology
+17.05.2023
+AN
+
+21PCE09
+Core Course – IX : Advanced Cost Accounting
+19.05.2023
+AN
+
+21PCE10
+Core Course – X : Financial Management
+23.05.2023
+AN
+
+21PCE11
+Core Course – XI : Digital Marketing
+25.05.2023
+AN
+
+21PCEN3
+UGC-NET Components of Commerce Core Courses in Semester - III
+08.05.2023
+AN
+
+21PCMST
+Interdisciplinary Course : Data Analysis using Spreadsheets
+27.05.2023
+AN
+SEMESTER - IV
+
+21PCE12
+Core Course – XII : Banking and Financial Institutions
+16.05.2023
+FN
+
+21PCE13
+Core Course – XIII : Income Tax & Corporate Tax Planning
+18.05.2023
+FN
+
+21PCE14
+Core Course – XIV : Security Analysis and Portfolio Management
+20.05.2023
+FN
+
+21PCE15
+Core Course – XV : Industrial Relations
+22.05.2023
+FN
+
+21PCEN4
+UGC-NET Components of Commerce Core Courses in Semester - IV
+08.05.2023
+FN
+
+21RAC03
+Research Acumen Course III : Research and Publication Ethics
+24.05.2023
+FN
+
+M.Com. Co-operation Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+
+21PCN01
+Core Course – I : Cooperation : Theory and Practice
+16.05.2023
+AN
+
+21PCN02
+Core Course – II : Advanced Financial Accounting
+18.05.2023
+AN
+
+21PCN03
+Core Course – III : Business Environment
+20.05.2023
+AN
+
+21PCN04
+Core Course – IV : Organizational Behaviour
+22.05.2023
+AN
+
+21PCNM1
+Major Based Elective Course - I : Managerial Economics
+24.05.2023
+AN
+
+21PCNN1
+UGC-NET Components of Cooperation Core Courses in Semester - I
+05.05.2023
+AN
+
+21RAC01
+Research Acumen Course I : Intellectual Property Rights
+29.05.2023
+AN
+SEMESTER - II
+
+21PCN05
+Core Course – V : Cooperative Legal Framework
+17.05.2023
+FN
+
+21PCN06
+Core Course – VI : Operations Management
+19.05.2023
+FN
+
+21PCN07
+Core Course – VII : Cost and Management Accounts
+23.05.2023
+FN
+
+21PCNM3
+Major Based Elective Course - III : Advanced Financial Management
+25.05.2023
+FN
+
+21PCNN2
+UGC-NET Components of Cooperation Core Courses in Semester - II
+05.05.2023
+FN
+
+21RAC02
+Research Acumen Course II : Research Writing
+29.05.2023
+FN
+SEMESTER - III
+
+21PCACN
+Interdisciplinary Course : Management Information System
+27.05.2023
+AN
+
+21PCN08
+Core Course – VIII : Agri Business Management and Cooperatives
+17.05.2023
+AN
+
+21PCN09
+Core Course – IX : Research Methodology and Statistics
+19.05.2023
+AN
+
+21PCN10
+Core Course – X : Indirect Taxation
+23.05.2023
+AN
+
+21PCN11
+Core Course – XI : Marketing Management
+25.05.2023
+AN
+
+21PCNN3
+UGC-NET Components of Cooperation Core Courses in Semester - III
+08.05.2023
+AN
+SEMESTER - IV
+
+21PCN12
+Core Course – XII : Advanced Cooperative Management
+16.05.2023
+FN
+
+21PCN13
+Core Course – XIII : Human Resource Management
+18.05.2023
+FN
+
+21PCN14
+Core Course – XIV : Business Ethics and Corporate Social Responsibility
+20.05.2023
+FN
+
+21PCN15
+Core Course – XV : Cooperative Accounting and Auditing
+22.05.2023
+FN
+
+21PCNN4
+UGC-NET Components of Cooperation Core Courses in Semester - IV
+08.05.2023
+FN
+
+21RAC03
+Research Acumen Course III : Research and Publication Ethics
+24.05.2023
+FN
+
+M.Sc. Applied Geology Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+
+21PGL01
+Core Course – I : Advanced Mineralogy
+16.05.2023
+AN
+
+21PGL02
+Core Course – II : Applied Geomorphology
+18.05.2023
+AN
+
+21PGL03
+Core Course – III : Stratigraphy & Paleontology
+22.05.2023
+AN
+
+21PGLM2
+Major Based Elective II : Geology of Tamilnadu
+24.05.2023
+AN
+
+21RAC01
+Research Acumen Course I : Intellectual Property Rights
+29.05.2023
+AN
+SEMESTER - II
+
+21PGL04
+Core Course - IV : Structural Geology and Geotectonics
+17.05.2023
+FN
+
+21PGL05
+Core Course – V : Economic Geology and Mineral Economics
+19.05.2023
+FN
+
+21PGL06
+Core Course – VI : Exploration Geophysics
+23.05.2023
+FN
+
+21PGLM3
+Major Based Elective - III : Problems in Geology for Competitive Exams
+25.05.2023
+FN
+
+21RAC02
+Research Acumen Course II : Research Writing
+29.05.2023
+FN
+SEMESTER - III
+
+21PCHGL
+Interdisciplinary Course : Geochemistry
+10.05.2023
+FN
+
+21PGL07
+Core Course – VII : Igneous And Metamorphic Petrology
+17.05.2023
+AN
+
+21PGL08
+Core Course – VIII : Sedimentary Petrology and Sedimentology
+19.05.2023
+AN
+
+21PGL09
+Core Course – IX : Hydrogeology
+23.05.2023
+AN
+SEMESTER - IV
+
+21PGL10
+Core Course – X : Mining Geology and Ore Dressing
+16.05.2023
+FN
+
+21PGL11
+Core Course – XI : Engineering Geology and Environmental Geology
+18.05.2023
+FN
+
+21PGL12
+Core Course – XII : Remote Sensing and Geographic Information System
+20.05.2023
+FN
+
+21RAC03
+Research Acumen Course III : Research And Publication Ethics
+24.05.2023
+FN
+
+M.Sc. Botany Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+
+21PBY01
+Core Course – I : Algae, Fungi, Lichens and Bryophytes
+16.05.2023
+AN
+
+21PBY02
+Core Course – II : Pteridophytes, Gymnosperms & Palaeobotany
+18.05.2023
+AN
+
+21PBY03
+Core Course – III : Microbiology and Plant Pathology
+22.05.2023
+AN
+
+21PBYM1
+Major Based Elective Course - I : Plant Resources Utilization and
+Conservation
+24.05.2023
+AN
+
+21RAC01
+Research Acumen Course I : Intellectual Property Rights
+29.05.2023
+AN
+SEMESTER - II
+
+21PBY04
+Core Course – IV : Anatomy, Embryology and Microtechniques
+17.05.2023
+FN
+
+21PBY05
+Core Course – V : Cell, Molecular Biology and Genetics
+19.05.2023
+FN
+
+21PBY06
+Core Course – VI : Environmental Biology
+23.05.2023
+FN
+
+21PBYM3
+Major Based Elective Course - III : Forest Technology
+25.05.2023
+FN
+
+21RAC02
+Research Acumen Course II : Research Writing
+29.05.2023
+FN
+SEMESTER - III
+
+21PBY07
+Core Course – VII : Taxonomy of Angiosperms
+17.05.2023
+AN
+
+21PBY08
+Core Course – VIII : Plant Physiology & Biophysics
+19.05.2023
+AN
+
+21PBY09
+Core Course – IX : Plant Biotechnology
+23.05.2023
+AN
+
+21PBYCS
+Interdisciplinary Course : Bioinformatics
+27.05.2023
+AN
+SEMESTER - IV
+
+21PBY10
+Core Course – X : Biochemistry and Biostatistics
+16.05.2023
+FN
+
+21PBY11
+Core Course – XI : Bio-Instrumentation
+18.05.2023
+FN
+
+21PBY12
+Core Course – XII : Biofertilizer
+20.05.2023
+FN
+
+21RAC03
+Research Acumen Course III : Research and Publication Ethics
+24.05.2023
+FN
+
+M.Sc. Chemistry Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+
+21PCH01
+Core Course - I : Reaction Mechanism and Stereo Chemistry
+16.05.2023
+AN
+
+21PCH02
+Core Course - II : Structure and Bonding
+18.05.2023
+AN
+
+21PCH03
+Core Course - III : Chemical Kinetics and Electrochemistry
+22.05.2023
+AN
+
+21PCHM1
+Major Based Elective Course I : Advanced Analytical Chemistry
+24.05.2023
+AN
+
+21RAC01
+Research Acumen Course I : Intellectual Property Rights
+29.05.2023
+AN
+SEMESTER - II
+
+21PCH04
+Core Course - IV : Reaction mechanism, Photo Chemistry and Pericyclic
+17.05.2023
+FN
+
+21PCH05
+Core Course - V : Coordination and Nuclear Chemistry
+19.05.2023
+FN
+
+21PCH06
+Core Course - VI : Quantum Chemistry and Analytical Techniques
+23.05.2023
+FN
+
+21PCHM3
+Major Based Elective Course III : Advanced Materials Chemistry
+25.05.2023
+FN
+
+21RAC02
+Research Acumen Course II : Research Writing
+29.05.2023
+FN
+SEMESTER - III
+
+21PCH07
+Core Course - VII : Reagents, Oxidation, Reduction and Natural Products
+17.05.2023
+AN
+
+21PCH08
+Core Course - VIII : Inorganic Photo Chemistry, Spectroscopy and
+Organometallics
+19.05.2023
+AN
+
+21PCH09
+Core Course - IX : Thermodynamics and Group Theory
+23.05.2023
+AN
+
+21PCHGL
+Interdisciplinary Course : Geochemistry
+10.05.2023
+FN
+SEMESTER - IV
+
+21PCH10
+Core Course - X : Organic Spectroscopy
+16.05.2023
+FN
+
+21RAC03
+Research Acumen Course III : Research and Publication Ethics
+24.05.2023
+FN
+
+M.Sc. Computer Science Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+
+21PCS01
+Core Course – I : Mathematical Foundations for Computer Science - I
+16.05.2023
+AN
+
+21PCS02
+Core Course – II : Design and Analysis of Algorithms
+18.05.2023
+AN
+
+21PCS03
+Core Course – III : Dot Net programming
+20.05.2023
+AN
+
+21PCS04
+Core Course – IV : Distributed Operating Systems
+22.05.2023
+AN
+
+21PCSM1
+Major Based Elective Course - I : Cyber Security
+24.05.2023
+AN
+
+21RAC01
+Research Acumen Course I : Intellectual Property Rights
+29.05.2023
+AN
+SEMESTER - II
+
+21PCS05
+Core Course – V : Mathematical Foundations for Computer Science - II
+17.05.2023
+FN
+
+21PCS06
+Core Course – VI : Data Science
+19.05.2023
+FN
+
+21PCS07
+Core Course – VII : Advanced Web Technology
+23.05.2023
+FN
+
+21PCS08
+Core Course – VIII : Advanced Data Base Management Systems
+25.05.2023
+FN
+
+21PCSM3
+Major Based Elective Course - III : Cloud Computing
+27.05.2023
+FN
+
+21RAC02
+Research Acumen Course II : Research Writing
+29.05.2023
+FN
+SEMESTER - III
+
+21PBYCS
+Interdisciplinary Course : Bioinformatics
+27.05.2023
+AN
+
+21PCS09
+Core Course - IX : Cryptography and Network Security
+17.05.2023
+AN
+
+21PCS10
+Core Course – X : Advanced Java Programming
+19.05.2023
+AN
+
+21PCS11
+Core Course – XI : Internet of Things
+23.05.2023
+AN
+
+21PCS12
+Core Course – XII : Machine Learning
+25.05.2023
+AN
+SEMESTER - IV
+
+21RAC03
+Research Acumen Course III : Research and Publication Ethics
+24.05.2023
+FN
+
+M.Sc. Geography Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+
+21PGY01
+Core Course – I : Geography of India
+16.05.2023
+AN
+
+21PGY02
+Core Course – II : Climatology
+18.05.2023
+AN
+
+21PGY03
+Core Course – III : Geography of Economic Activities
+22.05.2023
+AN
+
+21PGYM1
+Major Based Elective Course - I : Environmental Geography
+24.05.2023
+AN
+
+21RAC01
+Research Acumen Course I : Intellectual Property Rights
+29.05.2023
+AN
+SEMESTER - II
+
+21PGY04
+Core Course – IV : Geomorphology
+17.05.2023
+FN
+
+21PGY05
+Core Course – V : Oceanography and Hydrology
+19.05.2023
+FN
+
+21PGY06
+Core Course – VI : Cartography
+23.05.2023
+FN
+
+21PGYM3
+Major Based Elective Course - II: Urban Geography
+25.05.2023
+FN
+
+21RAC02
+Research Acumen Course II : Research Writing
+29.05.2023
+FN
+SEMESTER - III
+
+21PGY07
+Core Course – VII : Political Geography
+17.05.2023
+AN
+
+21PGY08
+Core Course – VIII : Geographical Thought
+19.05.2023
+AN
+
+21PGY09
+Core Course – IX : Regional Planning
+23.05.2023
+AN
+
+21PGYPS
+Interdisciplinary Course : Geopolitics
+10.05.2023
+FN
+SEMESTER - IV
+
+21PGY10
+Core Course – X : Research Methodology in Geography
+16.05.2023
+FN
+
+21PGY11
+Core Course – XI : Geospatial Techniques in Geography
+18.05.2023
+FN
+
+21PGY12
+Core Course – XII : Quantitative Techniques in Geography
+20.05.2023
+FN
+
+21RAC03
+Research Acumen Course III : Research and Publication Ethics
+24.05.2023
+FN
+
+M.Sc. Mathematics Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+
+21PMT01
+Core Course – I : Abstract Algebra
+16.05.2023
+AN
+
+21PMT02
+Core Course – II : Real Analysis
+18.05.2023
+AN
+
+21PMT03
+Core Course – III : Ordinary Differential Equation
+20.05.2023
+AN
+
+21PMT04
+Core Course – IV : Classical Mechanics
+22.05.2023
+AN
+
+21PMTM1
+Major Based Elective I : Calculus of Variation and Integral Equations
+24.05.2023
+AN
+
+21PMTN1
+UGC-NET components of Mathematics Core Courses in Semester - I
+05.05.2023
+AN
+
+21RAC01
+Research Acumen Course I : Intellectual Property Rights
+29.05.2023
+AN
+SEMESTER - II
+
+21PMT05
+Core Course – V : Complex Analysis
+17.05.2023
+FN
+
+21PMT06
+Core Course – VI : Partial Differential Equations
+19.05.2023
+FN
+
+21PMT07
+Core Course – VII : Measure Theory and Integration
+23.05.2023
+FN
+
+21PMT08
+Core Course – VIII : Optimization Techniques
+25.05.2023
+FN
+
+21PMTM3
+Major Based Elective III : Differential Geometry
+27.05.2023
+FN
+
+21PMTN2
+UGC-NET components of Mathematics Core Courses in Semester - II
+05.05.2023
+FN
+
+21RAC02
+Research Acumen Course II : Research Writing
+29.05.2023
+FN
+SEMESTER - III
+
+21PECMT
+Interdisciplinary Course : Mathematical Economics
+27.05.2023
+AN
+
+21PMT09
+Core Course – IX : General Topology
+17.05.2023
+AN
+
+21PMT10
+Core Course – X : Probability Theory
+19.05.2023
+AN
+
+21PMT11
+Core Course – XI : Graph Theory
+23.05.2023
+AN
+
+21PMT12
+Core Course – XII : Programming in R
+25.05.2023
+AN
+
+21PMTN3
+UGC-NET components of Mathematics Core Courses in Semester - III
+08.05.2023
+AN
+SEMESTER - IV
+
+21PMT13
+Core Course – XIII : Functional Analysis
+16.05.2023
+FN
+
+21PMT14
+Core Course – XIV : Fuzzy Sets and Fuzzy Logic
+18.05.2023
+FN
+
+21PMT15
+Core Course – XV : Number Theory
+20.05.2023
+FN
+
+21PMTN4
+UGC-NET components of Mathematics Core Courses in Semester - IV
+08.05.2023
+FN
+
+21RAC03
+Research Acumen Course III : Research and Publication Ethics
+24.05.2023
+FN
+
+M.Sc. Physics Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+
+21PPY01
+Core Course - I : Classical Mechanics
+16.05.2023
+AN
+
+21PPY02
+Core Course – II : Mathematical Physics - I
+18.05.2023
+AN
+
+21PPY03
+Core Course – III : Computational Physics
+22.05.2023
+AN
+
+21PPYM1
+Major Based Elective Course - I : Electronics
+24.05.2023
+AN
+
+21RAC01
+Research Acumen Course I : Intellectual Property Rights
+29.05.2023
+AN
+SEMESTER - II
+
+21PPY04
+Core Course – IV : Thermodynamics and Statistical Mechanics
+17.05.2023
+FN
+
+21PPY05
+Core Course – V : Quantum Mechanics – I
+19.05.2023
+FN
+
+21PPY06
+Core Course – VI : Microprocessor and Microcontroller
+23.05.2023
+FN
+
+21PPYM3
+Major Based Elective Course - III : Electromagnetic Theory
+25.05.2023
+FN
+
+21RAC02
+Research Acumen Course II : Research Writing
+29.05.2023
+FN
+SEMESTER - III
+
+21PPY07
+Core Course – VII : Quantum mechanics II
+17.05.2023
+AN
+
+21PPY08
+Core Course – VIII : Mathematical Physics – II
+19.05.2023
+AN
+
+21PPY09
+Core Course – IX : Condensed Matter Physics – I
+23.05.2023
+AN
+
+21PPYZL
+Interdisciplinary Course : Medical Physics and Clinical laboratory techniques
+27.05.2023
+AN
+SEMESTER - IV
+
+21PPY10
+Core Course – X : Condensed Matter Physics - II
+16.05.2023
+FN
+
+21PPY11
+Core Course – XI : Nuclear and Elementary Particle Physics
+18.05.2023
+FN
+
+21PPY12
+Core Course – XII : Spectroscopy
+20.05.2023
+FN
+
+21RAC03
+Research Acumen Course III : Research and Publication Ethics
+24.05.2023
+FN
+
+M.Sc. Statistics Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+
+21PST01
+Core Course – I : Real Analysis and Linear Algebra
+16.05.2023
+AN
+
+21PST02
+Core Course – II : Distribution Theory
+18.05.2023
+AN
+
+21PST03
+Core Course – III : Sampling Techniques
+22.05.2023
+AN
+
+21PSTM1
+Major Based Elective Course - I : Measure Theory
+24.05.2023
+AN
+
+21RAC01
+Research Acumen Course I : Intellectual Property Rights
+29.05.2023
+AN
+SEMESTER - II
+
+21PST04
+Core Course – IV : Probability theory
+17.05.2023
+FN
+
+21PST05
+Core Course – V : Multivariate Analysis
+19.05.2023
+FN
+
+21PST06
+Core Course – VI : Design of Experiments
+23.05.2023
+FN
+
+21PSTM3
+Major Based Elective Course - III : Programming in R
+25.05.2023
+FN
+
+21RAC02
+Research Acumen Course II : Research Writing
+29.05.2023
+FN
+SEMESTER - III
+
+21PCMST
+Interdisciplinary Course : Data Analysis using Spreadsheets
+27.05.2023
+AN
+
+21PST07
+Core Course – VII : Statistical Estimation Theory
+17.05.2023
+AN
+
+21PST08
+Core Course – VIII : Demography
+19.05.2023
+AN
+
+21PST09
+Core Course – IX : Stochastic processes
+23.05.2023
+AN
+SEMESTER - IV
+
+21PST10
+Core Course – X : Testing of hypothesis
+16.05.2023
+FN
+
+21PST11
+Core Course – XI : Statistical Quality Control
+18.05.2023
+FN
+
+21PST12
+Core Course – XII : Operations Research
+20.05.2023
+FN
+
+21RAC03
+Research Acumen Course III : Research and Publication Ethics
+24.05.2023
+FN
+
+M.Sc. Zoology Degree Semester Examinations, MAY - 2023
+SEMESTER - I
+
+21PZL01
+Core Course – I : Invertebrates
+16.05.2023
+AN
+
+21PZL02
+Core Course – II : Chordates
+18.05.2023
+AN
+
+21PZL03
+Core Course – III : Cell and Molecular Biology
+22.05.2023
+AN
+
+21PZLM1
+Major Based Elective Course - I : Applied zoology
+24.05.2023
+AN
+
+21RAC01
+Research Acumen Course I : Intellectual Property Rights
+29.05.2023
+AN
+SEMESTER - II
+
+21PZL04
+Core Course – IV : Genetics
+17.05.2023
+FN
+
+21PZL05
+Core Course – V : Developmental Biology
+19.05.2023
+FN
+
+21PZL06
+Core Course – VI : Immunology
+23.05.2023
+FN
+
+21PZLM3
+Major Based Elective Course - III : Medical Parasitology
+25.05.2023
+FN
+
+21RAC02
+Research Acumen Course II : Research Writing
+29.05.2023
+FN
+SEMESTER - III
+
+21PPYZL
+Interdisciplinary Course : Medical Physics and Clinical Laboratory Techniques
+27.05.2023
+AN
+
+21PZL07
+Core Course – VII : Animal Physiology
+17.05.2023
+AN
+
+21PZL08
+Core Course – VIII : Endocrinology
+19.05.2023
+AN
+
+21PZL09
+Core Course – IX : Animal Cell Culture Technology
+23.05.2023
+AN
+
+21PZLM5
+Major Based Elective Course - V: Biochemistry
+25.05.2023
+AN
+SEMESTER - IV
+
+21PZL10
+Core Course – X : Ecology
+16.05.2023
+FN
+
+21PZL11
+Core Course – XI : Evolution
+18.05.2023
+FN
+
+21PZL12
+Core Course – XII : Applied Entomology
+20.05.2023
+FN
+
+21RAC03
+Research Acumen Course III : Research and Publication Ethics
+24.05.2023
+FN

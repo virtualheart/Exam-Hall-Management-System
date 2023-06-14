@@ -30,7 +30,7 @@ if($rowCount > 0){
 
 if(!empty($_POST["Students"])){
 
-    $sql1="select * from tbl_student where classname='".$_POST['Students']."'";
+    $sql1="select * from tbl_student where class_id='".$_POST['Students']."'";
 
 $res=mysqli_query($conn,$sql1);
 $rowCount = mysqli_num_rows($res);

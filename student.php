@@ -21,15 +21,15 @@ $pass = hash('sha256', $salt . $passw);
     $result = mysqli_query($conn,$sql);
     $row  = mysqli_fetch_array($result);
     
-     $_SESSION["id"] = $row['id'];
-    //  $_SESSION["username"] = $row['username'];
-     $_SESSION["password"] = $row['password'];
-     $_SESSION["semail"] = $row['semail'];
+     @$_SESSION["id"] = $row['id'];
+    // $_SESSION["username"] = $row['username'];
+    // $_SESSION["password"] = $row['password'];
+     @$_SESSION["semail"] = $row['semail'];
     //  $_SESSION["fname"] = $row['fname'];
     //  $_SESSION["lname"] = $row['lname'];
     //  $_SESSION["image"] = $row['image'];
      $count=mysqli_num_rows($result);
-     if($count==1 && isset($_SESSION["semail"]) && isset($_SESSION["password"])) {
+     if($count==1 && isset($_SESSION["semail"]) && isset($_SESSION["id"])) {
     {       
         ?>
          <div class="popup popup--icon -success js_success-popup popup--visible">
@@ -87,11 +87,11 @@ else {?>
                                 <form method="POST">
                                     <div class="form-group">
                                         <label>Email address</label>
-                                        <input type="email" name="email" class="form-control" placeholder="Email" required="">
+                                        <input type="email" name="email" class="form-control" placeholder="Email" required="" value="asm@as.in">
                                     </div>
                                     <div class="form-group">
                                         <label>Password</label>
-                                        <input type="password" name="password" class="form-control" placeholder="Password" required="">
+                                        <input type="password" name="password" class="form-control" placeholder="Password" required="" value="123">
                                     </div>
                                     <button type="submit" name="btn_login" class="btn btn-primary btn-flat m-b-30 m-t-30">Sign in</button>
                                   

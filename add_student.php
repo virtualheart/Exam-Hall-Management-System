@@ -63,20 +63,21 @@
                                             </div>
                                         </div>
 
+                                        
                                         <div class="form-group">
                                             <div class="row">
-                                                <label class="col-sm-3 control-label">Class</label>
+                                                <label class="col-sm-3 control-label">Department</label>
                                                 <div class="col-sm-9">
-                                                    <select type="text" name="classname" class="form-control"   placeholder="Class" required="">
-                                                        <option value="">--Select Class--</option>
+                                                    <select type="text" name="dept_id" id="dept_id" class="form-control"   placeholder="Department Name" required="">
+                                                        <option value="">--Select Department--</option>
                                                             <?php  
-                                                            $c1 = "SELECT * FROM `tbl_class`";
+                                                            $c1 = "SELECT * FROM `tbl_department`";
                                                             $result = $conn->query($c1);
 
                                                             if ($result->num_rows > 0) {
                                                                 while ($row = mysqli_fetch_array($result)) {?>
-                                                                    <option value="<?php echo $row["id"];?>">
-                                                                        <?php echo $row['classname'];?>
+                                                                    <option value="<?php echo $row["dept_id"];?>">
+                                                                        <?php echo $row['dept_name'];?>
                                                                     </option>
                                                                     <?php
                                                                 }
@@ -84,6 +85,18 @@
                                                             echo "0 results";
                                                                 }
                                                             ?>
+                                                    </select>
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <label class="col-sm-3 control-label">Class</label>
+                                                <div class="col-sm-9">
+                                                    <select type="text" name="class_id" id="class_id" class="form-control"   placeholder="Class" required="" disabled>
+                                                        <option value="">--Select Class--</option>
                                                     </select>
                                                 </div>
                                             </div>
@@ -166,7 +179,29 @@
                 </div>
 
 <?php include('footer.php');?>
+
 <script>
+
+    $('#dept_id').change(function() {
+        var dept_id = $(this).val();
+        if(dept_id){
+            $.ajax({
+                type:'POST',
+                url:'ajax/dept_ajax.php',
+                data:'dept_id='+dept_id,
+                success:function(html){
+                    $('#class_id').html(html);
+                    // alert(html)
+                    $('#class_id').removeAttr( "disabled" );
+                   
+                }
+            }); 
+        }else{
+            $('#classname').html('<option value="">-- Select Class-- </option>');
+            $('#classname').attr( "disabled" );
+        }
+    });
+
   var check = function() {
   if (document.getElementById('password').value ==
     document.getElementById('confirm_password').value) {
