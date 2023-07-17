@@ -21,11 +21,11 @@ $pass = hash('sha256', $salt . $passw);
     $result = mysqli_query($conn,$sql);
     $row  = mysqli_fetch_array($result);
     
-     $_SESSION["id"] = $row['id'];
-     $_SESSION["password"] = $row['password'];
-     $_SESSION["temail"] = $row['temail'];
-     $_SESSION["fname"] = $row['tfname'];
-     $_SESSION["lname"] = $row['tlname'];
+     @$_SESSION["id"] = $row['id'];
+     //$_SESSION["password"] = $row['password'];
+     @$_SESSION["temail"] = $row['temail'];
+     @$_SESSION["fname"] = $row['tfname'];
+     @$_SESSION["lname"] = $row['tlname'];
      $count=mysqli_num_rows($result);
      if($count==1 && isset($_SESSION["temail"]) && isset($_SESSION["password"])) {
     {       

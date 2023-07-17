@@ -1,9 +1,3 @@
-select * from exam ex
- join tbl_subasign sa
-    on sa.p_id=ex.p_id
- join tbl_class cls
-	on sa.cls_id=cls.id
-
 add acd year 
    add_student
 
@@ -17,4 +11,5 @@ add teacher dec
    add/edit teaceer
 
 add/edit subject
+add price add/edit paper
    part

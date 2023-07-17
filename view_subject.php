@@ -49,6 +49,7 @@ if(isset($_GET['id']))
                                                 <th>Part</th>
                                                 <th>Paper code</th>
                                                 <th>Subject Name</th>
+                                                <th>Price</th>
                                                
                                                 <th>Action</th> 
                                             </tr>
@@ -67,6 +68,7 @@ if(isset($_GET['id']))
                                                 <td><?php echo $row['part']; ?></td>
                                                 <td><?php echo $row['paper_code']; ?></td>
                                                 <td><?php echo $row['subjectname']; ?></td>
+                                                <td><?php echo $row['price']; ?></td>
 
                                                 
                                                 <td>
