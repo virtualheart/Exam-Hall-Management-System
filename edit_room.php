@@ -32,20 +32,23 @@ window.location="view_room.php";
 
 }
 ?>
-
 <?php
-$que="SELECT * from `room` WHERE id='".$_GET["id"]."'";
-$query=$conn->query($que);
-while($row=mysqli_fetch_array($query))
-{
-   
-    extract($row);
-$name = $row['name'];
-$type_id = $row['type_id'];
-$strenght = $row['strenght'];
-}
+$que = "SELECT * FROM `room` WHERE id='" . $_GET["id"] . "'";
+$query = $conn->query($que);
 
-?> 
+if ($row = mysqli_fetch_array($query)) {
+    $name = $row['name'];
+    $type_id = $row['type_id'];
+    $strenght = $row['strenght'];
+    // Use $name, $type_id, and $strenght as needed in the rest of your code
+} else {?>
+<script type="text/javascript">
+    window.location="view_room.php";
+</script>
+<?php
+}
+?>
+
 
 
    
@@ -115,7 +118,7 @@ $strenght = $row['strenght'];
                                             <div class="row">
                                                 <label class="col-sm-3 control-label">Room Strenght</label>
                                                 <div class="col-sm-9">
-                                                  <input type="number" min="0" name="strenght" class="form-control" value="<?php echo $strenght; ?>" placeholder=" Strenght" required="">
+                                                  <input type="text" min="0" name="strenght" class="form-control" value="<?php echo $strenght; ?>" placeholder=" Strenght" required="">
                                                 </div>
                                             </div>
                                         </div>

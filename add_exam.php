@@ -43,12 +43,12 @@
                                         
                                         <div class="form-group">
                                             <div class="row">
-                                                <label class="col-sm-3 control-label">Class</label>
+                                                <label class="col-sm-3 control-label">Paper</label>
                                                 <div class="col-sm-9">
                                                     <select type="text" name="p_id" id="class_id" class="form-control"   placeholder="Class" required="">
                                                         <option value="">--Select Paper--</option>
                                                             <?php  
-                                                            $c1 = "SELECT * FROM `tbl_subject` where status=0";
+                                                            $c1 = "SELECT * FROM `tbl_subject` where status=1";
                                                             $result = $conn->query($c1);
 
                                                             if ($result->num_rows > 0) {

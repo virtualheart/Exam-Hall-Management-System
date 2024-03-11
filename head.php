@@ -30,7 +30,6 @@
     <link href="css/lib/calendar2/pignose.calendar.min.css" rel="stylesheet">
      <link href="css/lib/sweetalert/sweetalert.css" rel="stylesheet">
 
-
 </head>
 
 <body class="fix-header fix-sidebar">

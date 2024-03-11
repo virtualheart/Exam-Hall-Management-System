@@ -40,6 +40,7 @@ while($row=mysqli_fetch_array($query))
  
     extract($row);
 $classname = $row['classname'];
+$dept_id = $row['dept_id'];
 
 }
 
@@ -71,7 +72,33 @@ $classname = $row['classname'];
                                     <form class="form-horizontal" method="POST" enctype="multipart/form-data" name="classform">
 
                                    <input type="hidden" name="currnt_date" class="form-control" value="<?php echo $currnt_date;?>">
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <label class="col-sm-3 control-label">Department</label>
+                                                <div class="col-sm-9">
+                                                    <select type="text" name="dept_id" class="form-control"   placeholder="Department Name" required="">
+                                                        <option value="">--Select Department--</option>
+                                                            <?php  
+                                                            $c1 = "SELECT * FROM `tbl_department`";
+                                                            $result = $conn->query($c1);
 
+                                                            if ($result->num_rows > 0) {
+                                                                while ($row = mysqli_fetch_array($result)) {?>
+                                                                    <option value="<?php echo $row["dept_id"];?>"<?php if($dept_id==$row["dept_id"]){ echo "Selected";} ?>>
+                                                                        <?php echo $row['dept_name'];?>
+                                                                    </option>
+                                                                    <?php
+                                                                }
+                                                            } else {
+                                                            echo "0 results";
+                                                                }
+                                                            ?>
+                                                    </select>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        
                                         <div class="form-group">
                                             <div class="row">
                                                 <label class="col-sm-3 control-label">Class Name</label>

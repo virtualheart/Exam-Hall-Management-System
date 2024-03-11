@@ -6,7 +6,7 @@
  <?php
  include('connect.php');
  date_default_timezone_set('Asia/Kolkata');
- $current_date = date('Y-m-d');
+ $currnt_date = date('Y-m-d');
 
 ?>
 
@@ -33,6 +33,21 @@
                                     <form class="form-horizontal" method="POST" action="pages/save_subjects.php" name="userform" enctype="multipart/form-data">
 
                                    <input type="hidden" name="currnt_date" class="form-control" value="<?php echo $currnt_date;?>">
+                                                                       
+                                   <div class="form-group">
+                                            <div class="row">
+
+                                        <label class="col-sm-3 control-label">Paper Part</label>
+                                        <div class="col-sm-9">
+                                            <select type="text" name="paper_part" id="paper_part" class="form-control"   placeholder="Class" required="">
+                                                <option value="">--Select Part--</option>
+                                                    <option value="I">I</option>
+                                                    <option value="II">II</option>
+                                                    <option value="III">III</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    </div>
 
                                    <div class="form-group">
                                             <div class="row">
@@ -48,6 +63,13 @@
                                                 <label class="col-sm-3 control-label">Paper Name</label>
                                                 <div class="col-sm-9">
                                                   <input type="text" name="subjectname" class="form-control" placeholder="Paper Name" id="event" required="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                                <label class="col-sm-3 control-label">Paper-Price</label>
+                                                <div class="col-sm-9">
+                                                    <input type="number" name="paper_price" class="form-control"   placeholder="Paper-Price" required min="0">
                                                 </div>
                                             </div>
                                         </div>

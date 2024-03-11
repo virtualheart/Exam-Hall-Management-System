@@ -6,7 +6,7 @@
  <?php
  include('connect.php');
  date_default_timezone_set('Asia/Kolkata');
- $current_date = date('Y-m-d');
+ $currnt_date = date('Y-m-d');
 
 ?>
 
@@ -31,6 +31,7 @@
                             <div class="card-body">
                                 <div class="input-states">
                                     <form class="form-horizontal" method="POST" action="pages/save_sub_asign.php" name="userform" enctype="multipart/form-data">
+                                   <input type="hidden" name="currnt_date" class="form-control" value="<?php echo $currnt_date;?>">
 
                                         <div class="form-group">
                                             <div class="row">
@@ -68,17 +69,16 @@
                                                 </div>
                                             </div>
                                         </div>
-
                                         <div class="form-group">
-                                          <div class="row">
-                                              <label class="col-sm-3 control-label">Paper</label>
-                                              <div class="col-sm-9">
-                                                  <select type="text" name="paper_id" id="paper_id" class="form-control"   placeholder="Class" required="" disabled>
-                                                    <option value="">--Select Paper--</option>
-                                                </select>
+                                            <div class="row">
+                                                <label class="col-sm-3 control-label">Paper</label>
+                                                <div class="col-sm-9">
+                                                    <select type="text" name="paper_id" id="paper_id" class="form-control" placeholder="Class" required="" disabled>
+                                                        <option value="">--Select Paper--</option>
+                                                    </select>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
 
                                 <button type="submit" name="btn_save" class="btn btn-primary btn-flat m-b-30 m-t-30">Submit</button>
                                 </form>
@@ -88,7 +88,47 @@
                 </div>
                   
                 </div>
-                
+<link rel="stylesheet" href="popup_style.css">
+<?php if(!empty($_SESSION['success'])) {  ?>
+<div class="popup popup--icon -success js_success-popup popup--visible">
+  <div class="popup__background"></div>
+  <div class="popup__content">
+    <h3 class="popup__content__title">
+      Success 
+    </h1>
+    <p><?php echo $_SESSION['success']; ?></p>
+    <p>
+      <button class="button button--success" data-for="js_success-popup">Close</button>
+    </p>
+  </div>
+</div>
+<?php unset($_SESSION["success"]);  
+} ?>
+<?php if(!empty($_SESSION['error'])) {  ?>
+<div class="popup popup--icon -error js_error-popup popup--visible">
+  <div class="popup__background"></div>
+  <div class="popup__content">
+    <h3 class="popup__content__title">
+      Error 
+    </h1>
+    <p><?php echo $_SESSION['error']; ?></p>
+    <p>
+      <button class="button button--error" data-for="js_error-popup">Close</button>
+    </p>
+  </div>
+</div>
+<?php unset($_SESSION["error"]);  } ?>
+    <script>
+      var addButtonTrigger = function addButtonTrigger(el) {
+  el.addEventListener('click', function () {
+    var popupEl = document.querySelector('.' + el.dataset.for);
+    popupEl.classList.toggle('popup--visible');
+  });
+};
+
+Array.from(document.querySelectorAll('button[data-for]')).
+forEach(addButtonTrigger);
+    </script>
         
 <?php include('footer.php');?>
 
@@ -114,6 +154,9 @@ $('#dept_id').change(function() {
         }
     });
 
+//         
+
+
 $('#class_id').change(function() {
         var class_id = $(this).val();
         if(class_id){
@@ -135,3 +178,4 @@ $('#class_id').change(function() {
     });
 
 </script>
+

@@ -12,7 +12,7 @@ if(isset($_POST["btn_update"]))
 {
     extract($_POST);
     
-      $q1="UPDATE `tbl_subject` SET `subjectname`='$subjectname',`paper_code`='$paper_code' WHERE `id`='".$_GET['id']."'";
+      $q1="UPDATE `tbl_subject` SET `subjectname`='$subjectname',`paper_code`='$paper_code', `price`='$paper_price', `part`='$paper_part' WHERE `id`='".$_GET['id']."'";
  
     if ($conn->query($q1) === TRUE) {
       $_SESSION['success']=' Record Successfully Updated';
@@ -78,6 +78,23 @@ $paper_code = $row['paper_code'];
                                     <form class="form-horizontal" method="POST" enctype="multipart/form-data" name="subjectform">
 
                                    <input type="hidden" name="currnt_date" class="form-control" value="<?php echo $currnt_date;?>">
+
+
+                                   <div class="form-group">
+                                            <div class="row">
+
+                                        <label class="col-sm-3 control-label">Paper Part</label>
+                                        <div class="col-sm-9">
+                                            <select type="text" name="paper_part" id="paper_part" class="form-control"   placeholder="Class" required="">
+                                                <option value="">--Select Part--</option>
+                                                    <option value="I" <?php if ($part == "I"): echo "selected"; endif ?>>I</option>
+                                                    <option value="II" <?php if ($part == "II"): echo "selected"; endif ?>>II</option>
+                                                    <option value="III" <?php if ($part == "III"): echo "selected"; endif ?>>III</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    </div>
+
                                     <div class="form-group">
                                             <div class="row">
                                                 <label class="col-sm-3 control-label">Class</label>
@@ -92,6 +109,13 @@ $paper_code = $row['paper_code'];
                                                 <label class="col-sm-3 control-label">Subject Name</label>
                                                 <div class="col-sm-9">
                                                   <input type="text" name="subjectname" class="form-control" placeholder="Subject Name" id="event" onkeydown="return alphaOnly(event);" value="<?php echo $subjectname; ?>" required="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                                <label class="col-sm-3 control-label">Paper-Price</label>
+                                                <div class="col-sm-9">
+                                                    <input type="number" name="paper_price" class="form-control" value="<?php echo $price; ?>" placeholder="Paper-Price" required min="0">
                                                 </div>
                                             </div>
                                         </div>

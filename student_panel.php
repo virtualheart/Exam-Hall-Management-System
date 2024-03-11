@@ -32,8 +32,10 @@
                                         <thead>
                                             <tr>
                                                 <th>Exam Name</th>
+                                                <th>Session</th> 
                                                 <th>Time</th> 
                                                 <th>Room Name</th>
+                                                <th>Seet number</th>
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -54,7 +56,7 @@
                                             <tr>
                                                 <td><?php echo $sres['name']; ?></td>
                                                 <td><?php echo $sres['session']; ?></td>
-                                                <!-- <td><?php //echo $row['start_time'].'-'.$row['end_time']; ?></td> -->
+                                                <td><?php echo $row['start_time'].'-'.$row['end_time']; ?></td>
                                                 <td><?php echo $sres1['name']; ?></td>
                                             </tr>
                                           <?php } ?>

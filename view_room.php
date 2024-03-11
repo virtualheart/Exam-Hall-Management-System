@@ -55,7 +55,7 @@ if(isset($_GET['id']))
                                     <?php 
                                     include 'connect.php';
                                     
-                                  $sql1 = "SELECT * FROM  `room` rm join `room_type` rt on rm.type_id=rt.id";
+                                  $sql1 = "SELECT rm.id,rm.type_id,rm.name,rm.strenght,rm.alacated,rm.status,rt.id as rtid,rt.roomname FROM  `room` rm join `room_type` rt on rm.type_id=rt.id";
                                    $result1 = $conn->query($sql1);
                                    while($row = $result1->fetch_assoc()) { 
                                 
