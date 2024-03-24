@@ -51,7 +51,7 @@
                                             <div class="row">
                                                 <label class="col-sm-3 control-label">Last Name</label>
                                                 <div class="col-sm-9">
-                                                    <input type="text"  name="tlname" id="lname" class="form-control" id="event" onkeydown="return alphaOnly(event);" placeholder="Last Name" required="">
+                                                    <input type="text"  name="tlname" id="lname" class="form-control" id="event" onkeydown="return alphaOnly(event);" placeholder="Last Name">
                                                 </div>
                                             </div>
                                         </div>

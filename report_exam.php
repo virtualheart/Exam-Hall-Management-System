@@ -34,27 +34,30 @@
                                         </thead>
                                         <tbody>
                                     <?php 
-                                    include 'connect.php';
-                                  $sql1 = "SELECT * FROM  exam ";
-                                   $result1 = $conn->query($sql1);
-                                   while($row = $result1->fetch_assoc()) {
+                                    include 'connect.php';  
 
-                                    $s2 = "SELECT * FROM `tbl_class` WHERE id='".$row['class_id']."'";
-                                    $sr1 = $conn->query($s2);
-                                    $sres1 = mysqli_fetch_array($sr1);
+                                    $sql1 = "SELECT allot.*, tbl_class.classname, exam.name AS exam_name, exam.exam_date, exam.start_time,exam.end_time, tbl_subject.subjectname
+                                             FROM allot
+                                             INNER JOIN tbl_class ON allot.class_id = tbl_class.id
+                                             INNER JOIN exam ON allot.exam_id = exam.id
+                                             LEFT JOIN tbl_subject ON exam.p_id = tbl_subject.id";
 
-                                    $s3 = "SELECT * FROM `tbl_subject` WHERE id='".$row['subject_id']."'";
-                                    $sr2 = $conn->query($s3);
-                                    $sres2 = mysqli_fetch_array($sr2); 
-                                      ?>
-                                            <tr>
-                                                <td><?php echo $row['name']; ?></td>
-                                                <td><?php echo $row['exam_date']; ?></td>
-                                                <td><?php echo $row['start_time'].'-'.$row['end_time']; ?></td>
-                                                <td><?php echo $sres1['classname']; ?></td>
-                                                <td><?php echo $sres2['subjectname']; ?></td>
-                                            </tr>
-                                          <?php } ?>
+                                    $result1 = $conn->query($sql1);
+
+                                    while ($row = $result1->fetch_assoc()) {
+                                        ?>
+                                        <tr>
+                                            <td><?php echo $row['exam_name']; ?></td>
+                                            <td><?php echo $row['exam_date']; ?></td>
+                                            <td><?php echo $row['start_time'] . '-' . $row['end_time']; ?></td>
+                                            <td><?php echo $row['classname']; ?></td>
+                                            <td><?php echo $row['subjectname']; ?></td>
+                                        </tr>
+                                        <?php
+                                    }
+                                    ?>
+
+
                                         </tbody>
                                     </table>
                                 </div>

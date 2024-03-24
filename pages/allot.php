@@ -36,10 +36,17 @@ while ($row = mysqli_fetch_array($sr2)) {
     	}
     	$i++;
 
+        // $s4="UPDATE room set alacated=". $i ." WHERE id='".$row['id']."'";
+        // $sr4 = $conn->query($s4);
+
+
 	}
+
+
 }
       $_SESSION['success']=' Record Successfully Added';
      ?>
+
 <script type="text/javascript">
 window.location="../view_allotment.php";
 </script>
